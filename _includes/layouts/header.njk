@@ -1,0 +1,9 @@
+    <header>
+      <img src="/img/logo.png">
+      <h1 class=""><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
+      <ul class="nv">
+        {%- for nav in collections.nav | reverse -%}
+        <li class=""><a href="{{ nav.url | url }}">{{ nav.data.navtitle }}</a></li>
+        {%- endfor -%}
+      </ul>
+    </header>

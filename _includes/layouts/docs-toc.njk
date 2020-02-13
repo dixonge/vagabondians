@@ -1,0 +1,11 @@
+<div class="elv-toc">
+
+<details open>
+	<summary class="btn-primary rainbow-active rainbow-active-noanim">Menu</summary>
+	{%- if eleventyNavigation -%}
+		{%- set navKey = eleventyNavigation.key -%}
+	{%- endif -%}
+	{{ collections.sidebarNav | eleventyNavigation | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+</details>
+
+</div>

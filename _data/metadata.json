@@ -1,0 +1,16 @@
+{
+  "title": "Vagabondians",
+  "url": "https://vagabondians.com/",
+  "description": "Escape Normal - Explore Your World",
+  "feed": {
+    "subtitle": "Escape Normal - Explore Your World",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "url": "https://vagabondians.com/feed/feed.xml",
+    "id": "https://vagabondians.com/"
+  },
+  "author": {
+    "name": "Glenn Dixon",
+    "email": "donblanco@posteo.net"
+  }
+}
