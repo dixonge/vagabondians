@@ -1,5 +1,7 @@
 ---
-title: 'Photo Contest: Capture the Colour'
+eleventyNavigation:
+  parent: News
+  key: 'Photo Contest: Capture the Colour'
 date: 2012-08-01
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

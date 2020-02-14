@@ -1,5 +1,7 @@
 ---
-title: 'October 2 -- A Sad Day to Remember'
+eleventyNavigation:
+  key: 'October 2 -- A Sad Day to Remember'
+  parent: Mexico
 date: 2012-10-02
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

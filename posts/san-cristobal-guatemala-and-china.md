@@ -1,5 +1,7 @@
 ---
-title: San Cristobal, Guatemala and … China?
+eleventyNavigation:
+  parent: News
+  key: San Cristobal, Guatemala and … China?
 date: 2012-08-28
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

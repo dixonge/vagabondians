@@ -1,5 +1,7 @@
 ---
-title: Puerto Escondido
+eleventyNavigation:
+  key: Puerto Escondido
+  parent: Mexico
 date: 2012-08-25
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

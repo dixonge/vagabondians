@@ -1,5 +1,7 @@
 ---
-title: Bryce Canyon
+eleventyNavigation:
+  key: Bryce Canyon
+  parent: Utah
 date: 2011-07-10
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

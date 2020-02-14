@@ -1,5 +1,7 @@
 ---
-title: 'Slomo -- Another One Escapes Normal'
+eleventyNavigation:
+  parent: News
+  key: 'Slomo -- Another One Escapes Normal'
 date: 2014-04-02
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

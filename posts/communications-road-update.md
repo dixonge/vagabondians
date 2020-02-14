@@ -1,5 +1,7 @@
 ---
-title: 'Communications on the Road:  Update'
+eleventyNavigation:
+  key: 'Communications on the Road:  Update'
+  parent: New Mexico
 date: 2011-05-08
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

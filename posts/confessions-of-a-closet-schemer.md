@@ -1,5 +1,7 @@
 ---
-title: Confessions of a Closet Schemer
+eleventyNavigation:
+  parent: News
+  key: Confessions of a Closet Schemer
 date: 2012-10-17
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

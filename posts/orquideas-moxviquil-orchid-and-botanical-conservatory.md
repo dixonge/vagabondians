@@ -1,5 +1,7 @@
 ---
-title: 'Orquideas Moxviquil -- Orchid and Botanical Conservatory'
+eleventyNavigation:
+  key: 'Orquideas Moxviquil -- Orchid and Botanical Conservatory'
+  parent: Mexico
 date: 2012-10-03
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

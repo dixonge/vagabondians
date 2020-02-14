@@ -1,5 +1,7 @@
 ---
-title: What is a Vagabondian?
+eleventyNavigation:
+  parent: News
+  key: What is a Vagabondian?
 date: 2010-07-13
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

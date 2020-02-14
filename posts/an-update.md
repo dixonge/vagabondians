@@ -1,5 +1,7 @@
 ---
-title: "An update"
+eleventyNavigation:
+  parent: News
+  key: "An update"
 date: "2015-07-04"
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

@@ -1,5 +1,7 @@
 ---
-title: The Journey of a Thousand Li Commenced With a Single Step
+eleventyNavigation:
+  parent: News
+  key: The Journey of a Thousand Li Commenced With a Single Step
 date: 2010-07-11
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

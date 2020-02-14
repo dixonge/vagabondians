@@ -1,5 +1,7 @@
 ---
-title: 'Tales from the Tiki Bar:  Awesome People'
+eleventyNavigation:
+  key: 'Tales from the Tiki Bar:  Awesome People'
+  parent: California
 date: 2011-07-10
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

@@ -1,5 +1,7 @@
 ---
-title: 'Almost Canada -- Wyoming to Minnesota'
+eleventyNavigation:
+  key: 'Almost Canada -- Wyoming to Minnesota'
+  parent: Minnesota
 date: 2011-10-13
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

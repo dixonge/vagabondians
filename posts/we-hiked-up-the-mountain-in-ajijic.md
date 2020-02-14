@@ -1,5 +1,7 @@
 ---
-title: We Hiked up the Mountain in Ajijic
+eleventyNavigation:
+  key: We Hiked up the Mountain in Ajijic
+  parent: Mexico
 date: 2012-05-02
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -14,8 +16,6 @@ tags:
 <img src="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc7/318145_10150874198573993_677503992_11798280_942954306_n.jpg" alt="" width="550" />
 
 The morning was warm and sunny -- no big surprise here in Mexico -- and we went and picked up our friend Rebecca and went up to do our hike up to see the chapel and the views and get some exercise.  The trail was steep and slippery with rocks and scree, which made for some interesting noises and gestures -- and only a couple minor falls.  Rebecca had the foresight to print out a map of the area and the trails, lucky for us.  We still hiked a different trail than we intended, but that was okay.  We weren't going anywhere in particular, so how could we be lost?
-
-<!--more-->
 
 All the trails are on the same mountainside overlooking Lake Chapala and Ajijic anyway.  Oh.  And none of them are marked except the foot of the mountain where we started.  If we hadn't met a lady at the first major fork, we might have just hiked ourselves straight across to another "parking area."  Quotes because it's just neighborhoods across there.
 

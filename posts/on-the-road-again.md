@@ -1,5 +1,7 @@
 ---
-title: On The Road Again
+eleventyNavigation:
+  key: On The Road Again
+  parent: Mexico
 date: 2012-07-08
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

@@ -1,5 +1,7 @@
 ---
-title: 'Musings On Being Homeless after 7 Months'
+eleventyNavigation:
+  parent: News
+  key: 'Musings On Being Homeless after 7 Months'
 date: 2012-01-04
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

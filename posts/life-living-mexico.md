@@ -1,5 +1,7 @@
 ---
-title: Life and Living in Mexico
+eleventyNavigation:
+  key: Life and Living in Mexico
+  parent: Mexico
 date: 2012-04-18
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
@@ -18,7 +20,7 @@ Fortunately -or unfortunately, depending- we can get by here in Chapala/Ajijic w
 Groceries and shopping seem to be the biggest problem for me.  It takes forever, and I never buy enough to last, and I don't have enough easy recipes.  The food is different here, and I don't know what to do with a lot of it.  We like to get almost all of our veggies and berries at the tianguis, or open air markets, here.  Monday's in Chapala, that we just discovered, is really huge and offers so much.  We have been going to the organic market on Tuesday and the tianguis on Wednesday in Ajijic.  Seems still, every time I go, that I have a what-the-hell-is-THAT moment for some fruit/veg thing on a table or two.  Alien stuff, whatever your definition of alien!
 
 <p style="text-align: center;">
-  <img class="alignleft  wp-image-1144" src="https://vagabondians.com/wp-content/uploads/2012/04/IMG_0135.jpg" alt="" /><a href="https://vagabondians.com/1094/life-living-mexico/img_0140-2/" rel="attachment wp-att-1146"><img class="aligncenter  wp-image-1146" src="https://vagabondians.com/wp-content/uploads/2012/04/IMG_01401.jpg" alt="" width="550" /></a>
+  <img class="alignleft wp-image-1144" src="https://vagabondians.com/wp-content/uploads/2012/04/IMG_0135.jpg" alt="" /><a href="https://vagabondians.com/1094/life-living-mexico/img_0140-2/" rel="attachment wp-att-1146"><img class="aligncenter wp-image-1146" src="https://vagabondians.com/wp-content/uploads/2012/04/IMG_01401.jpg" alt="" width="550" /></a>
 </p>
 
 &nbsp;

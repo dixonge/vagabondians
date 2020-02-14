@@ -1,6 +1,7 @@
 ---
 eleventyNavigation:
   key: "About Us"
+  parent: Main
 type: "page"
 layout: layouts/home.njk
 ---

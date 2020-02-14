@@ -1,5 +1,7 @@
 ---
-title: 'Glenn 2.0 -- 2011 in Review'
+eleventyNavigation:
+  parent: News
+  key: 'Glenn 2.0 -- 2011 in Review'
 date: 2012-01-09
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

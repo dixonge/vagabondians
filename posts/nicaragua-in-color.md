@@ -1,5 +1,7 @@
 ---
-title: Nicaragua in Color
+eleventyNavigation:
+  key: Nicaragua in Color
+  parent: Nicaragua
 date: 2013-08-10
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

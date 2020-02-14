@@ -1,5 +1,7 @@
 ---
-title: Learning to Chill
+eleventyNavigation:
+  parent: New Mexico
+  key: Learning to Chill
 date: 2011-06-01
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

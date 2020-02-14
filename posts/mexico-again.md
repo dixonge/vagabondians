@@ -1,5 +1,7 @@
 ---
-title: Welcome to New Mexico (again)
+eleventyNavigation:
+  key: Welcome to New Mexico (again)
+  parent: New Mexico
 date: 2011-05-08
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

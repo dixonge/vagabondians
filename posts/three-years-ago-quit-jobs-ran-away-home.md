@@ -1,5 +1,7 @@
 ---
-title: Three Years Ago We Quit Our Jobs And Ran Away From Home
+eleventyNavigation:
+  parent: News
+  key: Three Years Ago We Quit Our Jobs And Ran Away From Home
 date: 2014-03-25
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

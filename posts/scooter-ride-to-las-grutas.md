@@ -1,5 +1,7 @@
 ---
-title: Scooter Ride to Las Grutas
+eleventyNavigation:
+  key: Scooter Ride to Las Grutas
+  parent: Mexico
 date: 2012-08-14
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

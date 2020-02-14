@@ -1,5 +1,7 @@
 ---
-title: Word of Wisdom
+eleventyNavigation:
+  parent: News
+  key: Word of Wisdom
 date: 2014-01-27
 author: Glenn
 authorAvatar: "/img/avatar.jpg"

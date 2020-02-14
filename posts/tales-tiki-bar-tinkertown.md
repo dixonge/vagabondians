@@ -1,5 +1,7 @@
 ---
-title: Tales from the Tiki Bar, Tinkertown
+eleventyNavigation:
+  key: Tales from the Tiki Bar, Tinkertown
+  parent: New Mexico
 date: 2011-06-05
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

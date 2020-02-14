@@ -1,5 +1,7 @@
 ---
-title: Our Bed Finds a Good Home
+eleventyNavigation:
+  parent: News
+  key: Our Bed Finds a Good Home
 date: 2011-01-24
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

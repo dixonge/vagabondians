@@ -1,5 +1,7 @@
 ---
-title: Halloween Parade in San Cristobal de las Casas, Mexico
+eleventyNavigation:
+  key: Halloween Parade in San Cristobal de las Casas, Mexico
+  parent: Mexico
 date: 2014-01-27
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

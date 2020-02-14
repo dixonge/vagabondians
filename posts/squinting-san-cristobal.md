@@ -1,5 +1,7 @@
 ---
-title: Squinting in San Cristobal
+eleventyNavigation:
+  key: Squinting in San Cristobal
+  parent: Mexico
 date: 2013-08-25
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

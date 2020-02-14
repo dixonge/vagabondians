@@ -1,5 +1,7 @@
 ---
-title: From Steinbeck?
+eleventyNavigation:
+  parent: News
+  key: From Steinbeck?
 date: 2014-01-27
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

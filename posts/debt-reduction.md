@@ -1,5 +1,7 @@
 ---
-title: Debt Reduction
+eleventyNavigation:
+  parent: News
+  key: Debt Reduction
 date: 2010-11-13
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

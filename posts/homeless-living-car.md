@@ -1,5 +1,7 @@
 ---
-title: We Are Homeless and Living in our Car
+eleventyNavigation:
+  key: We Are Homeless and Living in our Car
+  parent: News
 date: 2011-04-01
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

@@ -1,5 +1,7 @@
 ---
-title: Take a Little Trip with Me
+eleventyNavigation:
+  key: Take a Little Trip with Me
+  parent: Mexico
 date: 2012-12-26
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

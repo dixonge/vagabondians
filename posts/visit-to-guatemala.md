@@ -1,5 +1,7 @@
 ---
-title: Visit to Guatemala
+eleventyNavigation:
+  key: Visit to Guatemala
+  parent: Guatemala
 date: 2012-08-30
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

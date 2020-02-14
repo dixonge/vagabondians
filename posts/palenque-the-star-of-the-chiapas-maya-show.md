@@ -1,5 +1,7 @@
 ---
-title: 'Palenque -- the Star of the Chiapas Maya Show'
+eleventyNavigation:
+  key: 'Palenque -- the Star of the Chiapas Maya Show'
+  parent: Mexico
 date: 2013-01-10
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

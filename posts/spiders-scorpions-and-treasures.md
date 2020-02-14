@@ -1,5 +1,7 @@
 ---
-title: Spiders, Scorpions, and Treasures!
+eleventyNavigation:
+  key: Spiders, Scorpions, and Treasures!
+  parent: Mexico
 date: 2012-10-05
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

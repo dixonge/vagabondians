@@ -1,5 +1,7 @@
 ---
-title: Saripiqui River and Canopy Tour
+eleventyNavigation:
+  key: Saripiqui River and Canopy Tour
+  parent: Costa Rica
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/img/bryn.jpg"

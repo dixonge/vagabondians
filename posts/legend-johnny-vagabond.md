@@ -1,5 +1,7 @@
 ---
-title: The Legend of Johnny Vagabond
+eleventyNavigation:
+  parent: News
+  key: The Legend of Johnny Vagabond
 date: 2014-11-27
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

@@ -1,5 +1,7 @@
 ---
-title: Death in Mexico!
+eleventyNavigation:
+  key: Death in Mexico!
+  parent: Mexico
 date: 2013-10-30
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

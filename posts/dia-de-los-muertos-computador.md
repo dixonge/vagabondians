@@ -1,5 +1,7 @@
 ---
-title: Dia de los Muertos Computador
+eleventyNavigation:
+  parent: Mexico
+  key: Dia de los Muertos Computador
 date: 2012-11-10
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -20,7 +22,7 @@ tags:
   A few weeks ago, just as Bryn was heading out for a week-long adventure in the jungles of Palenque with her friend Loretta, her MacBook Air began experiencing problems. By the time she tried to import her first set of photos it wouldn't stay powered on long enough to log in. It was obviously possessed. That was just the beginning of several days of tech frustration. Bryn had almost 1,000 photos and no way to save them. In the end, she convinced Loretta to sign up for a Dropbox account and the photos slowly uploaded to their server over several days.
 </p>
 
-<a style="text-align: center;" href="https://vagabondians.com/dia-de-los-muertos-computador/priest/"><img class="size-full wp-image-2138  aligncenter" title="Did Someone Call for an Exorcist?" src="https://vagabondians.com/wp-content/uploads/2012/11/priest.jpeg" alt="Did Someone Call for an Exorcist?" width="258" height="195" /></a>
+<a style="text-align: center;" href="https://vagabondians.com/dia-de-los-muertos-computador/priest/"><img class="size-full wp-image-2138 aligncenter" title="Did Someone Call for an Exorcist?" src="https://vagabondians.com/wp-content/uploads/2012/11/priest.jpeg" alt="Did Someone Call for an Exorcist?" width="258" height="195" /></a>
 
 When she returned to San Cristobal de las Casas, I began working on it. As usual, I started the process by asking "What did you DO to it?" LOL I tried several different ways of logging on: safe mode, recovery partition, booting off of a USB stick. I checked and 'repaired' the solid state hard drive. Eventually I gave up and pulled all of Bryn's files off onto an external drive and reinstalled OS X. This changed nothing.
 

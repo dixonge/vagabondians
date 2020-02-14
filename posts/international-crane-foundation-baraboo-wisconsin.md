@@ -1,5 +1,7 @@
 ---
-title: 'The International Crane Foundation -- Baraboo, Wisconsin'
+eleventyNavigation:
+  key: 'The International Crane Foundation -- Baraboo, Wisconsin'
+  parent: Wisconsin
 date: 2012-01-11
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

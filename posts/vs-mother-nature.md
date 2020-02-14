@@ -1,5 +1,7 @@
 ---
-title: Us vs. Mother Nature
+eleventyNavigation:
+  key: Us vs. Mother Nature
+  parent: Texas
 date: 2011-05-02
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

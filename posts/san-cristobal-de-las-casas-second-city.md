@@ -1,5 +1,7 @@
 ---
-title: 'San Cristobal de las Casas -- Second City'
+eleventyNavigation:
+  key: 'San Cristobal de las Casas -- Second City'
+  parent: Mexico
 date: 2012-09-19
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

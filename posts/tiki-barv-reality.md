@@ -1,5 +1,7 @@
 ---
-title: 'The Tiki BaRV -- a Reality!'
+eleventyNavigation:
+  key: 'The Tiki BaRV -- a Reality!'
+  parent: New Mexico
 date: 2011-05-22
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

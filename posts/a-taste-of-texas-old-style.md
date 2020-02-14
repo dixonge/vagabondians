@@ -1,5 +1,7 @@
 ---
-title: A Taste of Texas old style
+eleventyNavigation:
+  key: A Taste of Texas old style
+  parent: Texas
 date: 2013-03-28
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

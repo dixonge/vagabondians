@@ -1,5 +1,7 @@
 ---
-title: Hitting the Road
+eleventyNavigation:
+  parent: News
+  key: Hitting the Road
 date: 2011-04-17
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

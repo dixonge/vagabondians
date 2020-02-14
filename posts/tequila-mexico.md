@@ -1,5 +1,7 @@
 ---
-title: Tequila, Mexico
+eleventyNavigation:
+  key: Tequila, Mexico
+  parent: Mexico
 date: 2012-01-13
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

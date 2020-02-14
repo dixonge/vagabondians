@@ -1,5 +1,7 @@
 ---
-title: Anywhere in Texas, RFD
+eleventyNavigation:
+  key: Anywhere in Texas, RFD
+  parent: Texas
 date: 2011-11-08
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

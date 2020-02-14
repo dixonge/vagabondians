@@ -1,5 +1,7 @@
 ---
-title: Love Your Enemas
+eleventyNavigation:
+  key: Love Your Enemas
+  parent: Costa Rica
 date: 2013-08-10
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

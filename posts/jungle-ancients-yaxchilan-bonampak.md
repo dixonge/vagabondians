@@ -1,5 +1,7 @@
 ---
-title: 'Jungle Ancients:  Yaxchilan, Bonampak'
+eleventyNavigation:
+  key: 'Jungle Ancients:  Yaxchilan, Bonampak'
+  parent: Mexico
 date: 2013-01-05
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

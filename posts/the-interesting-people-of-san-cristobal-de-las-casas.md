@@ -1,5 +1,7 @@
 ---
-title: The Interesting People of San Cristobal de las Casas
+eleventyNavigation:
+  key: The Interesting People of San Cristobal de las Casas
+  parent: Mexico
 date: 2012-11-20
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

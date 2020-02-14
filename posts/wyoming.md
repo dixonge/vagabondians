@@ -1,5 +1,7 @@
 ---
-title: Wyoming
+eleventyNavigation:
+  key: Wyoming
+  parent: Wyoming
 date: 2011-10-09
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

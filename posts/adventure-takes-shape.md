@@ -1,5 +1,7 @@
 ---
-title: The Adventure Takes Shape
+eleventyNavigation:
+  key: The Adventure Takes Shape
+  parent: News
 date: 2011-03-15
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

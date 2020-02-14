@@ -1,5 +1,7 @@
 ---
-title: Washington to Montana
+eleventyNavigation:
+  key: Washington to Montana
+  parent: Washington
 date: 2011-09-13
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -11,6 +13,8 @@ categories:
   - sixmonths
 tags:
   - washington
+  - idaho
+  - montana
 ---
 We finally bid farewell to Rand and Angie and packed up for our departure from Seattle. Before we actually hit the road, we borrowed some caulk from the garage and recaulked the main seam down the middle of the roof. It had developed a small hole and water tended to puddle right near this hole. Fortunately we have experienced almost no rain on the entire trip so far!
 

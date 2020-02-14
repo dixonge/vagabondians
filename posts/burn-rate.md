@@ -1,5 +1,7 @@
 ---
-title: Burn Rate
+eleventyNavigation:
+  parent: News
+  key: Burn Rate
 date: 2013-08-20
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

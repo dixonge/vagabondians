@@ -1,5 +1,7 @@
 ---
-title: A Major Change in Plans
+eleventyNavigation:
+  key: A Major Change in Plans
+  parent: News
 date: 2011-01-14
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

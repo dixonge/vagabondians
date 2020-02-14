@@ -1,5 +1,7 @@
 ---
-title: A Special Whale
+eleventyNavigation:
+  key: A Special Whale
+  parent: California
 date: 2011-08-19
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

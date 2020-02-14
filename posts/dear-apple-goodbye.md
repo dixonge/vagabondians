@@ -1,5 +1,7 @@
 ---
-title: 'Dear Apple: Goodbye!'
+eleventyNavigation:
+  parent: News
+  key: 'Dear Apple: Goodbye!'
 date: 2013-04-16
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

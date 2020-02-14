@@ -1,5 +1,7 @@
 ---
-title: 'Destination: Nicaragua'
+eleventyNavigation:
+  parent: News
+  key: 'Destination: Nicaragua'
 date: 2013-06-12
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

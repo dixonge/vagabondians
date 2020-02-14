@@ -1,5 +1,7 @@
 ---
-title: Wisconsin and the Dells
+eleventyNavigation:
+  key: Wisconsin and the Dells
+  parent: Wisconsin
 date: 2011-11-07
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -12,10 +14,6 @@ categories:
 tags:
 ---
 Wisconsin had some very interesting things to see, like highway signs, and upside-down buildings...
-
-&nbsp;
-
-&nbsp;
 
 <table style="width: 194px;">
   <tr>

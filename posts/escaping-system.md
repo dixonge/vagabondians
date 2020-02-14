@@ -1,5 +1,7 @@
 ---
-title: Escaping the System
+eleventyNavigation:
+  parent: News
+  key: Escaping the System
 date: 2011-03-25
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -17,7 +19,7 @@ A timely topic as today is our last day at our jobs.
 
 The system I am referring to includes employment, home ownership and debt.  All are part of this crazy template we call 'normal.'  And if you ever decide you want to become abnormal, the system is designed to discourage you.  From childhood you are trained to leave your home, get on a bus (commute), sit at your desk and do whatever your boss (teacher) tells you to do.  The factories and offices of the world depend on this training.  In exchange you get recess (breaks), lunch, and annual vacations (summer) and benefits (gold stars).
 
-To break out, you must first determine that breaking out is a good thing.  For most, the system is working just fine.  For some of us, however, it isn't so rosy.  We're the ones always looking out the window and daydreaming.<!--more-->
+To break out, you must first determine that breaking out is a good thing.  For most, the system is working just fine.  For some of us, however, it isn't so rosy.  We're the ones always looking out the window and daydreaming.
 
 But if you do decide to hop over the fence and play hooky, you have your work cut out for you.  You have to pay off all of your debt while still paying monthly bills.  Then you have to get rid of all of the years of things you have accumulated, including any houses.  Then you have to save up a lot of money and/or develop untraditional means of income.  Perhaps I should say traditional, as this is how *everyone* used to make money.  We were all self-employed entrepreneurs once.  Of course all of this can be bypassed if you have already reached a certain level of wealth, either by inheritance or genius invention or other means.  But for 99% of us it involves turning the rudder hard and straining against the raging torrent.
 

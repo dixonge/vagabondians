@@ -1,5 +1,7 @@
 ---
-title: Awakening
+eleventyNavigation:
+  key: Awakening
+  parent: Mexico
 date: 2012-07-04
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

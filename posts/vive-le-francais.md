@@ -1,5 +1,7 @@
 ---
-title: Vive les Français!
+eleventyNavigation:
+  key: Vive les Français!
+  parent: New Mexico
 date: 2011-05-24
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

@@ -1,5 +1,7 @@
 ---
-title: You Crazy or Sumpin???
+eleventyNavigation:
+  parent: News
+  key: You Crazy or Sumpin???
 date: 2012-01-28
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

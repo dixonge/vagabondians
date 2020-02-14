@@ -1,5 +1,7 @@
 ---
-title: The Price of Free Tickets
+eleventyNavigation:
+  key: The Price of Free Tickets
+  parent: Nicaragua
 date: 2013-06-30
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

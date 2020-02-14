@@ -1,5 +1,7 @@
 ---
-title: We Woke up in Nicaragua!
+eleventyNavigation:
+  key: We Woke up in Nicaragua!
+  parent: Nicaragua
 date: 2013-06-30
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

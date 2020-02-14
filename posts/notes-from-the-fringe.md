@@ -1,5 +1,7 @@
 ---
-title: Notes From the Fringe
+eleventyNavigation:
+  parent: News
+  key: Notes From the Fringe
 date: 2010-06-23
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

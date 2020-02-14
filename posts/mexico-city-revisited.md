@@ -1,5 +1,7 @@
 ---
-title: Mexico City Revisited
+eleventyNavigation:
+  parent: Mexico
+  key: Mexico City Revisited
 date: 2012-08-07
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

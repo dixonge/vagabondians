@@ -1,5 +1,7 @@
 ---
-title: Happy New Year! Time's A'wastin'!
+eleventyNavigation:
+  key: Happy New Year! Time's A'wastin'!
+  parent: News
 date: 2011-12-31
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

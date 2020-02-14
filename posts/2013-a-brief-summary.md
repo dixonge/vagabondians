@@ -1,5 +1,7 @@
 ---
-title: '2013 -- A Brief Summary'
+eleventyNavigation:
+  key: '2013 -- A Brief Summary'
+  parent: News
 date: 2014-01-27
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

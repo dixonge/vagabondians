@@ -1,5 +1,7 @@
 ---
-title: Now We're Cooking With Gas
+eleventyNavigation:
+  key: Now We're Cooking With Gas
+  parent: Arizona
 date: 2011-06-13
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

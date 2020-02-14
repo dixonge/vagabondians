@@ -1,5 +1,7 @@
 ---
-title: 'Tales from the Tiki Bar:  The Universe Speaks!'
+eleventyNavigation:
+  key: 'Tales from the Tiki Bar:  The Universe Speaks!'
+  parent: California
 date: 2011-07-03
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

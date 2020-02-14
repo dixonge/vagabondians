@@ -1,5 +1,7 @@
 ---
-title: Digital Farmers
+eleventyNavigation:
+  parent: News
+  key: Digital Farmers
 date: 2011-02-08
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

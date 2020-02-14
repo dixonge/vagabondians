@@ -1,5 +1,7 @@
 ---
-title: Viva Mexico!
+eleventyNavigation:
+  parent: News
+  key: Viva Mexico!
 date: 2012-01-26
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

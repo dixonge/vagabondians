@@ -1,5 +1,7 @@
 ---
-title: Seattle
+eleventyNavigation:
+  key: Seattle
+  parent: Washington
 date: 2011-09-05
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

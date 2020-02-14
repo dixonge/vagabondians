@@ -1,5 +1,7 @@
 ---
-title: April Fools?
+eleventyNavigation:
+  key: April Fools?
+  parent: Mexico
 date: 2012-04-02
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

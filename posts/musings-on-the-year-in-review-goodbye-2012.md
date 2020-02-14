@@ -1,5 +1,7 @@
 ---
-title: 'Musings on the Year in Review - Goodbye 2012'
+eleventyNavigation:
+  parent: News
+  key: 'Musings on the Year in Review - Goodbye 2012'
 date: 2013-01-03
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

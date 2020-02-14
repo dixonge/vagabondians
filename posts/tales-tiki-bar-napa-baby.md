@@ -1,5 +1,7 @@
 ---
-title: 'Tales from the Tiki Bar:  Napa Valley, baby!'
+eleventyNavigation:
+  key: 'Tales from the Tiki Bar:  Napa Valley, baby!'
+  parent: California
 date: 2011-07-29
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

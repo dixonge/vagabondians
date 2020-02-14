@@ -1,5 +1,7 @@
 ---
-title: Compromise, or My Love/Hate Relationship With WalMart
+eleventyNavigation:
+  parent: News
+  key: Compromise, or My Love/Hate Relationship With WalMart
 date: 2011-01-21
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

@@ -1,5 +1,7 @@
 ---
-title: My Unsolicited Open Letter to the Class of ________
+eleventyNavigation:
+  parent: News
+  key: My Unsolicited Open Letter to the Class of ________
 date: 2012-06-03
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

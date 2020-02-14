@@ -1,5 +1,7 @@
 ---
-title: Talking Points!
+eleventyNavigation:
+  parent: News
+  key: Talking Points!
 date: 2013-01-15
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

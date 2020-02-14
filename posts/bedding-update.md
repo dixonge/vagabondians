@@ -1,5 +1,7 @@
 ---
-title: Another day, another bed
+eleventyNavigation:
+  parent: News
+  key: Another day, another bed
 date: 2011-01-31
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

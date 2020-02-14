@@ -1,5 +1,7 @@
 ---
-title: Retired!
+eleventyNavigation:
+  parent: News
+  key: Retired!
 date: 2019-05-08
 permalink: /retired/
 author: "Glenn"

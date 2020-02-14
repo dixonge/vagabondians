@@ -1,5 +1,7 @@
 ---
-title: 'Tales from the Tiki Bar -- Rambutans!'
+eleventyNavigation:
+  key: 'Tales from the Tiki Bar -- Rambutans!'
+  parent: Mexico
 date: 2012-08-09
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

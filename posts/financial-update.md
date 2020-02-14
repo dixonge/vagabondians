@@ -1,5 +1,7 @@
 ---
-title: Financial Update
+eleventyNavigation:
+  parent: News
+  key: Financial Update
 date: 2011-09-10
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

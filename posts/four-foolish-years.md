@@ -1,5 +1,7 @@
 ---
-title: Four Foolish Years
+eleventyNavigation:
+  parent: News
+  key: Four Foolish Years
 date: 2014-04-01
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

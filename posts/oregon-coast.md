@@ -1,5 +1,7 @@
 ---
-title: Oregon Coast
+eleventyNavigation:
+  key: Oregon Coast
+  parent: California
 date: 2011-08-25
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

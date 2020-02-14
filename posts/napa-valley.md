@@ -1,5 +1,7 @@
 ---
-title: Napa Valley
+eleventyNavigation:
+  parent: California
+  key: Napa Valley
 date: 2011-08-01
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

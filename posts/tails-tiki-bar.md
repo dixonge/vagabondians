@@ -1,5 +1,7 @@
 ---
-title: Tails from the Tiki Bar
+eleventyNavigation:
+  key: Tails from the Tiki Bar
+  parent: New Mexico
 date: 2011-05-31
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

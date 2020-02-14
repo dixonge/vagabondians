@@ -1,5 +1,7 @@
 ---
-title: Hoodoo You Think You Are?
+eleventyNavigation:
+  key: Hoodoo You Think You Are?
+  parent: Utah
 date: 2011-06-30
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
@@ -13,7 +15,7 @@ categories:
 tags:
   - Utah
 ---
-<!-- p.p1 {margin: 0.0px 0.0px 13.0px 0.0px; line-height: 19.0px; font: 13.0px Georgia} -->Pictures of Bryce Canyon evoke wonder, but taking in the view from Inspiration Point for the first time in person takes your breath away.  An open-mouthed "Whohhhhhhhhhh" is about all I could muster from my overwhelmed senses.  The heady aroma of warm Ponderosa pine in the late afternoon mountain sun tipped my brain right over the precipice down into the hoodoos. The trail through the canyon beckoned that I should just run right down there and lose myself in their mysterious fairytale world, never to return.
+Pictures of Bryce Canyon evoke wonder, but taking in the view from Inspiration Point for the first time in person takes your breath away.  An open-mouthed "Whohhhhhhhhhh" is about all I could muster from my overwhelmed senses.  The heady aroma of warm Ponderosa pine in the late afternoon mountain sun tipped my brain right over the precipice down into the hoodoos. The trail through the canyon beckoned that I should just run right down there and lose myself in their mysterious fairytale world, never to return.
 
 https://www.facebook.com/photo.php?fbid=249780888372072&#038;set=a.248887665128061.84396.197146780302150&#038;type=1&#038;theater
 
@@ -42,5 +44,3 @@ We made our way back to the car and no one exclaimed as we passed by, and that's
 https://www.facebook.com/photo.php?fbid=249806868369474&#038;set=a.248887665128061.84396.197146780302150&#038;type=1&#038;theater
 
 The next day we went to Zion National Park, and even with its hulking mountains and merry running river in the desert, it hardly holds a candle to Bryce.  It's a shame we didn't see it first so that we could appreciate the majesty there without the spell of the hoodoos....
-
-&nbsp;

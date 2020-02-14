@@ -1,5 +1,7 @@
 ---
-title: 'The Organic Tianguis -- we finally made it!'
+eleventyNavigation:
+  key: 'The Organic Tianguis -- we finally made it!'
+  parent: Mexico
 date: 2014-05-10
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

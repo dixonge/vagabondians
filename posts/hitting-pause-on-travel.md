@@ -1,5 +1,7 @@
 ---
-title: "Hitting Pause on Travel"
+eleventyNavigation:
+  parent: News
+  key: "Hitting Pause on Travel"
 date: "2015-11-27"
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -14,8 +16,6 @@ image: "/img/25years.jpg"
 When we last spoke with Glenn and Bryn...
 
 OK, as much as I would love to write this in the third person, I probably shouldn't. But yes, it's been awhile. However, things have been pretty busy behind the scenes and in real life. 
-
-<!--more-->
 
 In our last update we mentioned that Glenn was going back to the States to finish out his retirement pension vesting. This is now well underway as we are now working and living in Austin, Texas. Glenn is now the sole help desk person for a governmental entity, supporting around 120 or so employees. He has already attended at least one 'service awards' meeting where his fellow co-workers were receiving recognition for 25-30 years of service! That is one thing that we know we'll never receive, and we're fine with that. At some point in the next 3-5 years we will have fully vested pensions and replenished savings and will likely, finally retire -- for real. It will still be 'early', compared to most people, just not as early as we had originally intended.
 

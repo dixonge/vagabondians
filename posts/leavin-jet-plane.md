@@ -1,5 +1,7 @@
 ---
-title: Well We're Leavin' on a Jet Plane…
+eleventyNavigation:
+  parent: News
+  key: Well We're Leavin' on a Jet Plane…
 date: 2012-02-19
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

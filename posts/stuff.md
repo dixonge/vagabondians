@@ -1,5 +1,7 @@
 ---
-title: Stuff
+eleventyNavigation:
+  parent: News
+  key: Stuff
 date: 2010-07-03
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

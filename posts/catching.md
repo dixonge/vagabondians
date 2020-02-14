@@ -1,5 +1,7 @@
 ---
-title: Catching Up
+eleventyNavigation:
+  parent: News
+  key: Catching Up
 date: 2011-06-08
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

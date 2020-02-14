@@ -1,5 +1,7 @@
 ---
-title: Scooters to Chamula and Zinacantan
+eleventyNavigation:
+  key: Scooters to Chamula and Zinacantan
+  parent: Mexico
 date: 2012-09-21
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

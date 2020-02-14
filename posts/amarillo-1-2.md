@@ -1,5 +1,7 @@
 ---
-title: 'Amarillo -- May 1 and 2'
+eleventyNavigation:
+  key: 'Amarillo -- May 1 and 2'
+  parent: Texas
 date: 2011-06-10
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

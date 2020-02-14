@@ -1,5 +1,7 @@
 ---
-title: 'The Cars of Mexico -- Good Enough -- Part 1'
+eleventyNavigation:
+  key: 'The Cars of Mexico -- Good Enough -- Part 1'
+  parent: Mexico
 date: 2012-08-11
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

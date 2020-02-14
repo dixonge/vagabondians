@@ -1,5 +1,7 @@
 ---
-title: A Year Outside The USA
+eleventyNavigation:
+  parent: News
+  key: A Year Outside The USA
 date: 2014-07-02
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

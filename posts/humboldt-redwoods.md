@@ -1,5 +1,7 @@
 ---
-title: Humboldt Redwoods
+eleventyNavigation:
+  key: Humboldt Redwoods
+  parent: California
 date: 2011-08-08
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

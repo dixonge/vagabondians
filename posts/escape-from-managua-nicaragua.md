@@ -1,5 +1,7 @@
 ---
-title: Escape from Managua, Nicaragua
+eleventyNavigation:
+  key: Escape from Managua, Nicaragua
+  parent: Nicaragua
 date: 2013-07-21
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

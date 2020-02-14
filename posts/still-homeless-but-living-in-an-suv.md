@@ -1,5 +1,7 @@
 ---
-title: Still Homeless, But Living in an SUV
+eleventyNavigation:
+  key: Still Homeless, But Living in an SUV
+  parent: Texas
 date: 2011-04-21
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

@@ -1,5 +1,7 @@
 ---
-title: Waterfalls Day!
+eleventyNavigation:
+  key: Waterfalls Day!
+  parent: Mexico
 date: 2013-01-08
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
