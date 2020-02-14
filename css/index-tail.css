@@ -10,3 +10,23 @@
 @import "minilink.css";
 @import "navigation.css";
 @import "toc.css";
+
+#background img {
+    max-width: auto;
+    height: 85px;
+}
+details ul.elv-toc-list > li {
+    background-color: lightgray;
+    display: table;
+    background-size: auto;
+    width: auto;
+    margin-bottom: 5px;
+}
+details ul.elv-toc-list > li > ul > li {
+    background-color: white;
+    margin-left: 10px;
+}
+.det-open {
+    --details-force-closed: (max-width: 63.9375em);
+    width: 100%;
+}
