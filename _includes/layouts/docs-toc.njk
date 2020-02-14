@@ -1,11 +1,193 @@
-<div class="elv-toc">
+<div ID="TOC" class="w-auto text-base text-left border-2 border-solid lg:w-48 lg:py-8 lg:ml-4 lg:-mr-6">
 
-<details open>
-	<summary class="btn-primary rainbow-active rainbow-active-noanim">Menu</summary>
-	{%- if eleventyNavigation -%}
-		{%- set navKey = eleventyNavigation.key -%}
-	{%- endif -%}
-	{{ collections.sidebarNav | eleventyNavigation | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+<details open class="det-open">
+<summary id="nav1" class="text-lg btn-primary">Menu</summary>
+{%- if eleventyNavigation -%}
+	{%- set navKey = eleventyNavigation.key -%}
+{%- endif -%}
+{{ collections.all | eleventyNavigation("Menu") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	<details>
+		<summary id="nav1" class="text-lg">Main</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Main") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Mexico</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Mexico") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Belize</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Belize") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Costa Rica</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Costa Rica") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Guatemala</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Guatemala") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Nicaragua</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Nicaragua") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Vacation 1998</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Vacation 1998") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Alaskan Cruise 2007</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Alaskan Cruise 2007") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Arizona</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Arizona") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">California</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("California") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Illinois</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Illinois") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Indiana</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Indiana") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Iowa</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Iowa") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Kansas</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Kansas") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Michigan</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Michigan") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Minnesota</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Minnesota") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Missouri</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Missouri") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Montana</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Montana") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Nevada</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Nevada") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">New Mexico</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("New Mexico") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Ohio</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Ohio") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Oregon</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Oregon") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Texas</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Texas") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Utah</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Utah") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Washington</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Washington") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
+	<details>
+		<summary id="nav1" class="text-lg">Wisconsin</summary>
+		{%- if eleventyNavigation -%}
+			{%- set navKey = eleventyNavigation.key -%}
+		{%- endif -%}
+		{{ collections.all | eleventyNavigation("Wisconsin") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+	</details>
 </details>
 
 </div>
