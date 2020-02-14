@@ -1,5 +1,10 @@
 node_modules/*
 _site/*
 package-lock.json
-css/index.css
-\
+css/breadcrumbs.css
+css/details-oneway.css
+css/external-links.css
+css/index-tail.css
+css/minilink.css
+css/navigation.css
+css/toc.css
