@@ -7,7 +7,7 @@
     "build:css": "postcss css/index-tail.css -o css/index.css",
     "build:css-purge": "env NODE_ENV=production postcss css/index-tail.css -o css/index.css",
     "build": "npx eleventy",
-    "watch": "npx eleventy --serve --port=8080",
+    "watch": "npm run build:css && npx eleventy --serve --port=8080",
     "debug": "DEBUG=* npx eleventy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
