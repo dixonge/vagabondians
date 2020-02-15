@@ -4,4 +4,14 @@ layout: layouts/base.njk
 
 {% include "layouts/docs-toc.njk" %}
 
+<div id="article" class="mt-1 lg:flex-grow">
+
+<img src="{{ image }}">
+
+<h1>{{ title }}</h1>
+
 {{ content | safe }}
+
+<p><a href="{{ '/' | url }}">← Home</a></p>
+
+</div>

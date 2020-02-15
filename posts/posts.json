@@ -1,5 +1,1 @@
-{
-"tags": [
-  "posts"
-  ]
-}
+{ "layout": "layouts/home.njk" }
