@@ -1,4 +1,4 @@
 ---
 eleventyNavigation:
-  key: News
+  key: United States
 ---

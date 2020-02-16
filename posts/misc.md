@@ -1,5 +1,5 @@
 ---
 eleventyNavigation:
-  key: Main
-  order: 2
+  key: Misc
+  order: 1
 ---

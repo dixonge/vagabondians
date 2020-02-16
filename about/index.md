@@ -1,8 +1,8 @@
 ---
 eleventyNavigation:
   key: "About Us"
-  parent: Main
-type: "page"
+  parent: Misc
+date: "2010-03-01"
 layout: layouts/home.njk
 ---
 ![](/img/25years.jpg)

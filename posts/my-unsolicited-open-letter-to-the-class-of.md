@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: Main
+  parent: Misc
   key: My Unsolicited Open Letter to the Class of ________
 date: 2012-06-03
 author: "Bryn"

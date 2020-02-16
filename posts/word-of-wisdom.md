@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: Main
+  parent: Misc
   key: Word of Wisdom
 date: 2014-01-27
 author: Glenn

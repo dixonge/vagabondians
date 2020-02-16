@@ -2,7 +2,7 @@
 eleventyNavigation:
   key: 'Big Bend National Park -- 1991'
   parent: United States
-date: 2014-01-27
+date: 1991-10-31
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"

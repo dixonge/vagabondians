@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: Main
+  parent: Misc
   key: 'Slomo -- Another One Escapes Normal'
 date: 2014-04-02
 author: "Glenn"

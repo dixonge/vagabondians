@@ -1,4 +1,4 @@
 ---
 eleventyNavigation:
-  key: Mexico
+  key: Central America
 ---

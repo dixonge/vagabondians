@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   key: '2013 -- A Brief Summary'
-  parent: Main
+  parent: Misc
 date: 2014-01-27
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

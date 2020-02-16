@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: Main
+  parent: Misc
   key: Talking Points!
 date: 2013-01-15
 author: "Bryn"
