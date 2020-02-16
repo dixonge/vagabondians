@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: United States
   key: You Crazy or Sumpin???
 date: 2012-01-28
 author: "Bryn"

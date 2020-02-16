@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Getting Ready
   key: Digital Farmers
 date: 2011-02-08
 author: "Glenn"

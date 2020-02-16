@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Costa Rica
   key: Burn Rate
 date: 2013-08-20
 author: "Glenn"

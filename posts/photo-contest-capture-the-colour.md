@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Main
   key: 'Photo Contest: Capture the Colour'
 date: 2012-08-01
 author: "Glenn"

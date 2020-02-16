@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Mexico
   key: Confessions of a Closet Schemer
 date: 2012-10-17
 author: "Glenn"

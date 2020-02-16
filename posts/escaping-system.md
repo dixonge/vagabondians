@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Getting Ready
   key: Escaping the System
 date: 2011-03-25
 author: "Glenn"

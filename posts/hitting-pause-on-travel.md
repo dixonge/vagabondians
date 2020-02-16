@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: United States
   key: "Hitting Pause on Travel"
 date: "2015-11-27"
 author: "Glenn"

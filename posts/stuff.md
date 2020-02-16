@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Getting Ready
   key: Stuff
 date: 2010-07-03
 author: "Glenn"

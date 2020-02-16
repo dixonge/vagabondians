@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: United States
   key: 'Glenn 2.0 -- 2011 in Review'
 date: 2012-01-09
 author: "Glenn"

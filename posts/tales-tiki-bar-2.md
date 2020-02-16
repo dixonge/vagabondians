@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   key: 'Tales From the Tiki Bar - 2'
-  parent: News
+  parent: Main
 date: 2011-05-08
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

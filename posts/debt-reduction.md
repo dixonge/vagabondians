@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Getting Ready
   key: Debt Reduction
 date: 2010-11-13
 author: "Glenn"

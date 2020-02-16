@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Getting Ready
   key: Hitting the Road
 date: 2011-04-17
 author: "Glenn"

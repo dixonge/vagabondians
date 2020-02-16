@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Main
   key: Notes From the Fringe
 date: 2010-06-23
 author: "Glenn"

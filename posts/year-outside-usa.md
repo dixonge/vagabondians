@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Mexico
   key: A Year Outside The USA
 date: 2014-07-02
 author: "Glenn"

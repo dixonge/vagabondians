@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Getting Ready
   key: Our Bed Finds a Good Home
 date: 2011-01-24
 author: "Glenn"

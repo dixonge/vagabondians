@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Getting Ready
   key: What is a Vagabondian?
 date: 2010-07-13
 author: "Glenn"

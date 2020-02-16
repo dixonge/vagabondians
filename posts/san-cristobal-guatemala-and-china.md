@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Mexico
   key: San Cristobal, Guatemala and … China?
 date: 2012-08-28
 author: "Glenn"

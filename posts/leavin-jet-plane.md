@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: United States
   key: Well We're Leavin' on a Jet Plane…
 date: 2012-02-19
 author: "Glenn"

@@ -7,7 +7,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /mexico-again/
+permalink: /new-mexico-again/
 image:  /img/2011/05/P1090235-Version-2.jpg
 categories:
   - sixmonths

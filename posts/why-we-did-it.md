@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   key: Why We Did It
-  parent: News
+  parent: Getting Ready
 date: 2011-04-16
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Getting Ready
   key: Another day, another bed
 date: 2011-01-31
 author: "Glenn"

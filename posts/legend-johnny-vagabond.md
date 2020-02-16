@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Mexico
   key: The Legend of Johnny Vagabond
 date: 2014-11-27
 author: "Glenn"

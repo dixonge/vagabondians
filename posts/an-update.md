@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Mexico
   key: "An update"
 date: "2015-07-04"
 author: "Glenn"

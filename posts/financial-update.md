@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: United States
   key: Financial Update
 date: 2011-09-10
 author: "Glenn"

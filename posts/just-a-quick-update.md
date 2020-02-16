@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: United States
   key: Just a quick update
 date: 2013-05-14
 author: "Glenn"

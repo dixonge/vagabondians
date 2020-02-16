@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: United States
   key: 'Dear Apple: Goodbye!'
 date: 2013-04-16
 author: "Glenn"

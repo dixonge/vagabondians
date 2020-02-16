@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Mexico
   key: Retired!
 date: 2019-05-08
 permalink: /retired/

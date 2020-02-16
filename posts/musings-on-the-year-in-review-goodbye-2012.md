@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Mexico
   key: 'Musings on the Year in Review - Goodbye 2012'
 date: 2013-01-03
 author: "Bryn"

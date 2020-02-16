@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Getting Ready
   key: Dreaming of Belize
 date: 2010-06-26
 author: "Glenn"

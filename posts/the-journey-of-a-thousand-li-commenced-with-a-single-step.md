@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Getting Ready
   key: The Journey of a Thousand Li Commenced With a Single Step
 date: 2010-07-11
 author: "Glenn"

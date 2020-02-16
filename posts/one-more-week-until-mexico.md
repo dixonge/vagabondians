@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: United States
   key: One More Week Until Mexico
 date: 2012-02-08
 author: "Glenn"

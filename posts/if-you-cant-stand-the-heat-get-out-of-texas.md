@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: United States
   key: If You Can't Stand The Heat, Get Out of Texas
 date: 2013-06-27
 author: "Glenn"

@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Mexico
   key: Three Years Ago We Quit Our Jobs And Ran Away From Home
 date: 2014-03-25
 author: "Glenn"

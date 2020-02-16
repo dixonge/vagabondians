@@ -84,6 +84,13 @@
 		{{ collections.all | eleventyNavigation("Six Months in a Popup") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
 
 			<details>
+			<summary id="nav1" class="text-lg">Getting Ready</summary>
+			{%- if eleventyNavigation -%}
+				{%- set navKey = eleventyNavigation.key -%}
+			{%- endif -%}
+			{{ collections.all | eleventyNavigation("Getting Ready") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+			</details>
+			<details>
 			<summary id="nav1" class="text-lg">Arizona</summary>
 			{%- if eleventyNavigation -%}
 				{%- set navKey = eleventyNavigation.key -%}

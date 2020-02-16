@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Mexico
   key: 'Musings On Being Homeless after 7 Months'
 date: 2012-01-04
 author: "Bryn"

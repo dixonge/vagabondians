@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: United States
   key: Back in Texas for a Bit
 date: 2013-03-27
 author: "Glenn"

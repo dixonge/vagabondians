@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: United States
   key: Viva Mexico!
 date: 2012-01-26
 author: "Glenn"

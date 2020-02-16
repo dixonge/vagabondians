@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Getting Ready
   key: Compromise, or My Love/Hate Relationship With WalMart
 date: 2011-01-21
 author: "Glenn"

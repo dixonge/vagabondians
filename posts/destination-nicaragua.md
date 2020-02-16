@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Nicaragua
   key: 'Destination: Nicaragua'
 date: 2013-06-12
 author: "Glenn"

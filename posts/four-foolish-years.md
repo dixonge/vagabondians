@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  parent: News
+  parent: Mexico
   key: Four Foolish Years
 date: 2014-04-01
 author: "Glenn"
