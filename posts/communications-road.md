@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   key: Communications On The Road
-  parent: United States
+  parent: Getting Ready
 date: 2010-12-16
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

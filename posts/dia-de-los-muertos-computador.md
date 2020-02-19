@@ -12,6 +12,7 @@ image:  /img/teaser-mexico.jpg
 categories:
   - Mexico
 tags:
+  - San Cristobal de las Casas
 ---
 <p style="text-align: center;">
   <a href="https://vagabondians.com/wp-content/uploads/2012/11/macbookairflatlined.jpg"><img class="size-full wp-image-2140 aligncenter" src="https://vagabondians.com/wp-content/uploads/2012/11/macbookairflatlined.jpg" alt="macbookairflatlined" width="259" height="194" /></a>

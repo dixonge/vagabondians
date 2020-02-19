@@ -14,6 +14,7 @@ dsq_thread_id:
 categories:
 - centralamerica
 tags:
+- Costa Rica
 ---
 
 In a last-gasp effort to see something of the beautiful country of Costa Rica, and with a deal on a tour from a friend, I ventured out alone while Glenn continued to recover from his minor back injury.

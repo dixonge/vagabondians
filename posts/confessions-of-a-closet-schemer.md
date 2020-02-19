@@ -12,6 +12,7 @@ image:  /img/closet-schemer.jpg
 categories:
   - News
 tags:
+  - San Cristobal de las Casas
 ---
 
 We did a lot of work and planning before we quit our jobs. We often refer to what we are doing as having 'run away from home.' It's a bit of a joke, but there is some truth to it. But we did sell all of our things. We got out of our home and mortgage and moved into a small apartment. We quit our jobs. We traveled half of the U.S. and later sold our final possessions and vehicles. We got down to a few suitcases. This was a monumental shift from the average American lifestyle, and it didn't happen overnight.

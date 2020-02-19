@@ -12,6 +12,8 @@ image:  /img/year-in-review.jpg
 categories:
   - News
 tags:
+  - Mexico
+  - San Cristobal de las Casas
 ---
 ![Salsa with me!](/img/2013/01/2012-In-Review.jpg)
 

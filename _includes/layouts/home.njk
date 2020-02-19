@@ -4,6 +4,13 @@ layout: layouts/base.njk
 
 {% include "layouts/docs-toc.njk" %}
 
+{% if eleventyNavigation and eleventyNavigation.key and eleventyNavigation.parent %}
+<nav class="breadcrumb" aria-labelledby="breadcrumb">
+  <h2 class="sr-only" id="breadcrumb">Breadcrumbs: </h2>
+  {{ collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key) | eleventyNavigationToHtml({ listClass: 'lo lo-inline', listItemClass: 'lo-c', activeListItemClass: 'breadcrumb-active' }) | safe }}
+</nav>
+{% endif %}
+
 <div id="article" class="mt-1 lg:flex-grow">
 
 <img src="{{ image }}">

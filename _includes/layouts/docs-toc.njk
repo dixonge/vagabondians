@@ -6,19 +6,14 @@
 	{%- set navKey = eleventyNavigation.key -%}
 {%- endif -%}
 {{ collections.all | eleventyNavigation("Menu") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-	<details>
-	<summary id="nav1" class="text-lg">Misc</summary>
-	{%- if eleventyNavigation -%}
-		{%- set navKey = eleventyNavigation.key -%}
-	{%- endif -%}
-	{{ collections.all | eleventyNavigation("Misc") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-	</details>
+
 	<details>
 	<summary id="nav1" class="text-lg">Central America</summary>
 	{%- if eleventyNavigation -%}
 		{%- set navKey = eleventyNavigation.key -%}
 	{%- endif -%}
 	{{ collections.all | eleventyNavigation("Central America") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+
 		<details>
 		<summary id="nav1" class="text-lg">Belize</summary>
 		{%- if eleventyNavigation -%}
@@ -47,6 +42,7 @@
 		{%- endif -%}
 		{{ collections.all | eleventyNavigation("Nicaragua") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
 		</details>
+
 	</details>
 
 	<details>
@@ -83,155 +79,7 @@
 			{%- set navKey = eleventyNavigation.key -%}
 		{%- endif -%}
 		{{ collections.all | eleventyNavigation("Six Months in a Popup") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-
-			<details>
-			<summary id="nav1" class="text-lg">Getting Ready</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("Getting Ready") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-			<details>
-			<summary id="nav1" class="text-lg">Texas</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("Texas") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-			<details>
-			<summary id="nav1" class="text-lg">Oklahoma</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("Oklahoma") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-			<details>
-			<summary id="nav1" class="text-lg">New Mexico</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("New Mexico") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-			<details>
-			<summary id="nav1" class="text-lg">Arizona</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("Arizona") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-			<details>
-			<summary id="nav1" class="text-lg">Utah</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("Utah") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-			<details>
-			<summary id="nav1" class="text-lg">Nevada</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("Nevada") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-			<details>
-			<summary id="nav1" class="text-lg">California</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("California") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-			<details>
-			<summary id="nav1" class="text-lg">Oregon</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("Oregon") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-			<details>
-			<summary id="nav1" class="text-lg">Washington</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("Washington") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-			<details>
-			<summary id="nav1" class="text-lg">Montana</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("Montana") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-			<details>
-			<summary id="nav1" class="text-lg">Wyoming</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("Wyoming") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-			<details>
-			<summary id="nav1" class="text-lg">Minnesota</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("Minnesota") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-			<details>
-			<summary id="nav1" class="text-lg">Wisconsin</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("Wisconsin") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>						
-			<details>
-			<summary id="nav1" class="text-lg">Illinois</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("Illinois") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-			<details>
-			<summary id="nav1" class="text-lg">Michigan</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("Michigan") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-			<details>
-			<summary id="nav1" class="text-lg">Ohio</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("Ohio") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-			<details>
-			<summary id="nav1" class="text-lg">Indiana</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("Indiana") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-			<details>
-			<summary id="nav1" class="text-lg">Iowa</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("Iowa") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-			<details>
-			<summary id="nav1" class="text-lg">Kansas</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("Kansas") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-			<details>
-			<summary id="nav1" class="text-lg">Missouri</summary>
-			{%- if eleventyNavigation -%}
-				{%- set navKey = eleventyNavigation.key -%}
-			{%- endif -%}
-			{{ collections.all | eleventyNavigation("Missouri") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
-			</details>
-		</details>	
+		</details>
 	</details>
 </details>
 

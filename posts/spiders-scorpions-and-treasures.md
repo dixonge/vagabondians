@@ -12,7 +12,7 @@ image:  /img/teaser-mexico.jpg
 categories:
   - Mexico
 tags:
-  - San Cristobal
+  - San Cristobal de las Casas
 ---
 ![Bryn likes it!](https://farm9.staticflickr.com/8040/8056886301_47b85e7bb9_z.jpg)
 

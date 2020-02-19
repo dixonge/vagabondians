@@ -1,0 +1,13 @@
+---
+title: TagTest
+layout: layouts/home.njk
+---
+### Tag Test
+
+	<ol>
+{% for tag in collections.tagList | sort %}
+<li>  {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+  <a href="{{ tagUrl | url }}" class="tag">{{ tag | title }}</a>
+  </li>
+{% endfor %}
+</ol>

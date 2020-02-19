@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   key: The Adventure Takes Shape
-  parent: Getting Ready
+  parent: Six Months in a Popup
 date: 2011-03-15
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
