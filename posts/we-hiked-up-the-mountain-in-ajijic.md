@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: We Hiked up the Mountain in Ajijic
-  parent: Mexico
+title: We Hiked up the Mountain in Ajijic
 date: 2012-05-02
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -12,6 +10,9 @@ image:  /img/we-hiked.jpg
 categories:
   - Mexico
 tags:
+  - mexico
+  - jalisco
+  - ajijic
 ---
 <img src="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc7/318145_10150874198573993_677503992_11798280_942954306_n.jpg" alt="" width="550" />
 

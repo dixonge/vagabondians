@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: 'The Cars of Mexico -- Good Enough -- Part 1'
-  parent: Mexico
+title: 'The Cars of Mexico -- Good Enough -- Part 1'
 date: 2012-08-11
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -14,6 +12,9 @@ dsq_thread_id:
 categories:
   - Mexico
 tags:
+  - mexico
+  - chiapas
+  - sancristobal
 ---
 Initially I was just going to write something about cars, but I have also been contemplating a broader theme regarding Mexico, that of 'good enough;' so I guess I will go ahead and make this post the first part of that broader theme. And now for the car part...
 

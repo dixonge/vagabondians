@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Costa Rica
+title: Costa Rica
   order: 5
 ---

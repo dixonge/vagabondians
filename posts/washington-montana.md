@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Washington to Montana
-  parent: Washington
+title: Washington to Montana
 date: 2011-09-13
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

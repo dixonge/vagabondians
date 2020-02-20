@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Hiking in Jerez
-  parent: Mexico
+title: Hiking in Jerez
 draft: true
 date: 2019-08-28
 author: "Glenn"

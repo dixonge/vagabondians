@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: The Vagabondians Have Landed
-  parent: Mexico
+title: The Vagabondians Have Landed
 date: 2014-11-22
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

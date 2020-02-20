@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Life and Living in Mexico
-  parent: Mexico
+title: Life and Living in Mexico
 date: 2012-04-18
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

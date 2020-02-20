@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: 'Jungle Ancients:  Yaxchilan, Bonampak'
-  parent: Mexico
+title: 'Jungle Ancients:  Yaxchilan, Bonampak'
 date: 2013-01-05
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
@@ -13,6 +11,10 @@ dsq_thread_id:
   - 3149034285
 categories:
   - Mexico
+tags:
+  - chiapas
+  - yaxchilan
+  - bonampak
 ---
 <div class="separator" style="clear: both; text-align: none;">
   <a href="https://www.flickr.com/photos/48315294@N00/8256739844/in/set-72157632203613240" target="_blank"><img id="blogsy-1357143784506.2773" class="alignnone" src="https://farm9.staticflickr.com/8219/8256739844_5cf956317e.jpg" alt="" width="500" height="375" /></a>

@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Bombs Bursting Overhead
-  parent: Mexico
+title: Bombs Bursting Overhead
 date: 2012-12-25
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
@@ -12,6 +10,9 @@ image:  /img/teaser-mexico.jpg
 categories:
   - Mexico
 tags:
+  - mexico
+  - chiapas
+  - sancristobal
 ---
 
 ![](/img/2012/12/IMG_0253.jpg)

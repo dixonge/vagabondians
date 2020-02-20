@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Arizona
-  key: 'Wallow Fire -- Eastern Arizona'
+title: 'Wallow Fire -- Eastern Arizona'
 date: 2011-06-10
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: April Fools?
-  parent: Mexico
+title: April Fools?
 date: 2012-04-02
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -12,6 +10,9 @@ image:  /img/fool-3.jpg
 categories:
   - Mexico
 tags:
+  - Mexico
+  - Jalisco
+  - Ajijic
 ---
 Two years ago today Bryn and I walked away from our house and moved into an apartment in Denton, Texas.
 

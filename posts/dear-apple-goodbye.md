@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: United States
-  key: 'Dear Apple: Goodbye!'
+title: 'Dear Apple: Goodbye!'
 date: 2013-04-16
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -15,6 +13,9 @@ dsq_thread_id:
 categories:
   - News
 tags:
+  - usa
+  - texas
+  - misc
 ---
 Our first major technology shift was from Microsoft to Apple. We, like almost everyone else in the world, used computers mostly at work, and they were all Windows. Eventually Bryn got a Dell laptop, and years later I got a nice Windows Mobile cell phone from work. We were firmly in the Microsoft ecosphere, even though no one called it that at the time.
 

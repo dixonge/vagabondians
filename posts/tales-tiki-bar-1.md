@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Oklahoma
-  key: 'Tales from the Tiki Bar - 1'
+title: 'Tales from the Tiki Bar - 1'
 date: 2011-04-29
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

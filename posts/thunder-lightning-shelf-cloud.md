@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Thunder! Lightning! Shelf cloud!
-  parent: Mexico
+title: Thunder! Lightning! Shelf cloud!
 date: 2014-03-26
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -13,6 +11,9 @@ categories:
   - Mexico
 format: image
 tags:
+  - mexico
+  - chiapas
+  - sancristobal
 ---
 Nice, rare thunderstorm here in the mountain valley.  
 [March 8, 2014]

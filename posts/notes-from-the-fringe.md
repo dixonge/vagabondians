@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Misc
-  key: Notes From the Fringe
+title: Notes From the Fringe
 date: 2010-06-23
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -12,6 +10,8 @@ image:  /img/redpill-1.jpg
 categories:
   - News
 tags:
+  - usa
+  - sixmonths
 ---
 Conversations with others remind us just how far out ideas of financial independence can seem to many.  Most are content with the typical structure, where the ability to pay for food and shelter is closely tied to the most recent paycheck.
 

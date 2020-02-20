@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: 'Palenque -- the Star of the Chiapas Maya Show'
-  parent: Mexico
+title: 'Palenque -- the Star of the Chiapas Maya Show'
 date: 2013-01-10
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
@@ -11,6 +9,10 @@ permalink: /palenque-the-star-of-the-chiapas-maya-show/
 image:  /img/palenque-star.jpg
 categories:
   - Mexico
+tags:
+  - mexico
+  - chiapas
+  - palenque
 ---
 <div class="separator" style="clear: both; text-align: none;">
   <a href="https://www.flickr.com/photos/48315294@N00/8318476989/in/set-72157632374614284" target="_blank"><img id="blogsy-1357837589276.013" class="alignnone" src="https://farm9.staticflickr.com/8077/8318476989_4793aa4d49.jpg" alt="" width="500" height="346" /></a>

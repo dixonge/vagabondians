@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Acapulco!
-  parent: Mexico
+title: Acapulco!
 date: 2012-08-23
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

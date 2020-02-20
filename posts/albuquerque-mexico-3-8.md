@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Albuquerque, New Mexico -- May 3-8
-  parent: New Mexico
+title: Albuquerque, New Mexico -- May 3-8
 date: 2011-06-10
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

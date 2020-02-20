@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Indiana
+title: Indiana
   order: 13
 ---

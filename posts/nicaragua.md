@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Nicaragua
+title: Nicaragua
   order: 7
 ---

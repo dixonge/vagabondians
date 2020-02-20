@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: A Year In Mexico
-  parent: Mexico
+title: A Year In Mexico
 date: 2013-02-24
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Tales from Vagabondia, the Ancient Way
-  parent: New Mexico
+title: Tales from Vagabondia, the Ancient Way
 date: 2011-06-01
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

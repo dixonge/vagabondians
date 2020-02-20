@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Mexico
-  key: 'Musings on the Year in Review - Goodbye 2012'
+title: 'Musings on the Year in Review - Goodbye 2012'
 date: 2013-01-03
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
@@ -13,7 +11,9 @@ categories:
   - News
 tags:
   - Mexico
-  - San Cristobal de las Casas
+  - sancristobal
+  - chiapas
+  - belize
 ---
 ![Salsa with me!](/img/2013/01/2012-In-Review.jpg)
 

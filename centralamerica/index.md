@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Central America
+title: Central America
   order: 104
 ---

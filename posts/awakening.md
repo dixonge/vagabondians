@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Awakening
-  parent: Mexico
+title: Awakening
 date: 2012-07-04
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
@@ -12,6 +10,8 @@ image:  /img/awakening.jpg
 categories:
   - Mexico
 tags:
+  - mexico
+  - guanajuato
 ---
 Ahhh, to wake up in a new place with new sounds and new air -- refreshing!
 

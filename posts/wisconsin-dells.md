@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Wisconsin and the Dells
-  parent: Wisconsin
+title: Wisconsin and the Dells
 date: 2011-11-07
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -12,6 +10,9 @@ image:  /img/2011/11/Wisconsin.jpg
 categories:
   - sixmonths
 tags:
+  - usa
+  - wisconsin
+  - sixmonths
 ---
 Wisconsin had some very interesting things to see, like highway signs, and upside-down buildings...
 

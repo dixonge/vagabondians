@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: The Adventure Takes Shape
-  parent: Six Months in a Popup
+title: The Adventure Takes Shape
 date: 2011-03-15
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

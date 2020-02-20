@@ -1,8 +1,6 @@
 ---
-eleventyNavigation:
-  key: Tequila, Mexico
-  parent: Mexico
-date: 2012-01-13
+title: Tequila, Mexico
+date: 2012-06-15
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
@@ -12,7 +10,10 @@ image:  /img/teaser-mexico.jpg
 categories:
   - Mexico
 tags:
+  - mexico
+  - jalisco
+  - tequila
 ---
 We still have fond memories of our friends Jean-Pierre and Yolande Lussier from Chapala, Mexico. We had a great time with them visiting the home of the best tequila in the world!
 
-&nbsp;
+[insert photos]

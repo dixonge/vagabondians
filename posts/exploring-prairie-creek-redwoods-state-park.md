@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Exploring Prairie Creek Redwoods State Park
-  parent: California
+title: Exploring Prairie Creek Redwoods State Park
 date: 2011-08-23
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

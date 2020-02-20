@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Mexico
-  key: A Year Outside The USA
+title: A Year Outside The USA
 date: 2014-07-02
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -14,6 +12,9 @@ dsq_thread_id:
 categories:
   - News
 tags:
+  - mexico
+  - chiapas
+  - sancristobal
 ---
   <p class="wp-caption-text">
     Popocatépetl -- the active volcano in Puebla, Mexico, east of Mexico City

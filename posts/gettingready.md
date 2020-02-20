@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Getting Ready
+title: Getting Ready
   order: 101
 ---

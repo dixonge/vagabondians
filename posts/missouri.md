@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Missouri
+title: Missouri
   order: 18
 ---

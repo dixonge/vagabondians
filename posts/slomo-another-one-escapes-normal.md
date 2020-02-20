@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Misc
-  key: 'Slomo -- Another One Escapes Normal'
+title: 'Slomo -- Another One Escapes Normal'
 date: 2014-04-02
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -14,6 +12,10 @@ dsq_thread_id:
 categories:
   - News
 tags:
+  - mexico
+  - chiapas
+  - sancristobal
+  - misc
 ---
 This guy totally gets it. He escaped -- will you?
 

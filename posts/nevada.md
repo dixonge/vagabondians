@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Nevada
+title: Nevada
   order: 20
 ---

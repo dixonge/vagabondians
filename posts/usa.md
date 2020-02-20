@@ -1,4 +1,3 @@
 ---
-eleventyNavigation:
-  key: United States
+title: United States
 ---

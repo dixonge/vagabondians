@@ -1,4 +1,3 @@
 ---
-eleventyNavigation:
-  key: Mexico
+title: Mexico
 ---

@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Minnesota
+title: Minnesota
   order: 17
 ---

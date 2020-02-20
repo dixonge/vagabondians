@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Misc
-  key: Talking Points!
+title: Talking Points!
 date: 2013-01-15
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
@@ -15,6 +13,9 @@ categories:
   - News
   - Tales From the Tiki Bar
 tags:
+  - mexico
+  - chiapas
+  - sancristobal
 ---
 ![spider](/img/2012/10/spider.jpg)
 

@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Medicine in Mexico
-  parent: Mexico
+title: Medicine in Mexico
 date: 2012-03-28
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

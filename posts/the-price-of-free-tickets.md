@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: The Price of Free Tickets
-  parent: Nicaragua
+title: The Price of Free Tickets
 date: 2013-06-30
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -10,8 +8,10 @@ authorAvatar: "/img/avatar.jpg"
 permalink: /the-price-of-free-tickets/
 image:  /img/price-of-free.jpg
 categories:
-  - centralamerica
+  - nicaragua
 tags:
+  - centralamerica
+  - nicaragua
 ---
 When we travel, we seek adventure. But sometimes you should be careful what you ask for...
 

@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: United States
-  key: You Crazy or Sumpin???
+title: You Crazy or Sumpin???
 date: 2012-01-28
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
@@ -12,6 +10,8 @@ image:  /img/2012/01/FreedomSculpture.jpg
 categories:
   - News
 tags:
+  - usa
+  - sixmonths
 ---
 ![](/img/2012/01/crazylady.jpeg)
 

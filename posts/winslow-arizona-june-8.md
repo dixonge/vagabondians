@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: 'Winslow, Arizona -- June 8'
-  parent: Arizona
+title: 'Winslow, Arizona -- June 8'
 date: 2011-06-11
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

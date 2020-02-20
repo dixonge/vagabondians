@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Mexico
-  key: Three Years Ago We Quit Our Jobs And Ran Away From Home
+title: Three Years Ago We Quit Our Jobs And Ran Away From Home
 date: 2014-03-25
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -14,6 +12,10 @@ dsq_thread_id:
 categories:
   - News
 tags:
+  - mexico
+  - chiapas
+  - sancristobal
+  - misc
 ---
 Today. Three years ago today was our [last day at work][1]. We celebrated with friends and co-workers, we said our goodbyes.
 

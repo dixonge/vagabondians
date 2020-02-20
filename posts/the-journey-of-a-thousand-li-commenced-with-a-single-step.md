@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Getting Ready
-  key: The Journey of a Thousand Li Commenced With a Single Step
+title: The Journey of a Thousand Li Commenced With a Single Step
 date: 2010-07-11
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -12,6 +10,8 @@ image:  /img/trail-1.jpg
 categories:
   - News
 tags:
+  - usa
+  - sixmonths
 ---
 [The title of this post is the correct quote from Lao-Tse's "Tao te Ching" -- and in case you are wondering, a 'li' is a unit of Chinese measurement that is roughly equivalent to 1/3 of a mile.]
 

@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: 'Day Trip!  Tlaquepaque/Guadalajara'
-  parent: Mexico
+title: 'Day Trip!  Tlaquepaque/Guadalajara'
 date: 2012-04-23
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: 'My Tiki Bar Kitchen -- 4'
-  parent: Mexico
+title: 'My Tiki Bar Kitchen -- 4'
 date: 2012-07-23
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

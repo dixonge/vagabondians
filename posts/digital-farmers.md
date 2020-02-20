@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Getting Ready
-  key: Digital Farmers
+title: Digital Farmers
 date: 2011-02-08
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -14,6 +12,8 @@ dsq_thread_id:
 categories:
   - News
 tags:
+  - usa
+  sixmonths
 ---
 Up until fairly recently (historically speaking) most of mankind was a scattered bunch of clans and tribes, roaming about hunting and gathering.  After the advent of organized agriculture (around 10,000 years ago or so) a shift began to occur.  As food began to be preserved for longer and longer periods it gained in value.  This gain produced many haves and have-nots.  The haves became more powerful and attained the upper hand, the have-nots ended up working for them, usually not completely voluntarily.  In some places this took the form of outright slavery.  In other places there were serfs and feifdoms, closely tied to the concept of land ownership.  Later the concepts of apprenticeships and indentured servitude came to the forefront.  And with the rise of the Industrial Revolution, the capitalist concepts of employment and wages overtook almost all other systems of providing for one's own basic needs of food, clothing and shelter.
 

@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Illinois
+title: Illinois
   order: 12
 ---

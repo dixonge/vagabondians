@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Mexico
-  key: Dia de los Muertos Computador
+title: Dia de los Muertos Computador
 date: 2012-11-10
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -12,7 +10,8 @@ image:  /img/teaser-mexico.jpg
 categories:
   - Mexico
 tags:
-  - San Cristobal de las Casas
+  - sancristobal
+  - chiapas
 ---
 <p style="text-align: center;">
   <a href="https://vagabondians.com/wp-content/uploads/2012/11/macbookairflatlined.jpg"><img class="size-full wp-image-2140 aligncenter" src="https://vagabondians.com/wp-content/uploads/2012/11/macbookairflatlined.jpg" alt="macbookairflatlined" width="259" height="194" /></a>

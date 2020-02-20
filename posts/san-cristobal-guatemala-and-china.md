@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Mexico
-  key: San Cristobal, Guatemala and … China?
+title: San Cristobal, Guatemala and … China?
 date: 2012-08-28
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -14,7 +12,8 @@ categories:
 tags:
   - guatemala
   - mexico
-  - san cristobal de las casas
+  - sancristobal
+  - chiapas
 ---
 ![SanCris Guat](/img/2012/08/SanCris-Guat.jpg")
 

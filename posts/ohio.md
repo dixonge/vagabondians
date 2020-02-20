@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Ohio
+title: Ohio
   order: 22
 ---

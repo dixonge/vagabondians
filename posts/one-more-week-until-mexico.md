@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: United States
-  key: One More Week Until Mexico
+title: One More Week Until Mexico
 date: 2012-02-08
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

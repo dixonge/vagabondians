@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: New Mexico
+title: New Mexico
   order: 21
 ---

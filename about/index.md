@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: "About Us"
-  parent: Misc
+title: "About Us"
 date: "2010-03-01"
 layout: layouts/home.njk
 ---

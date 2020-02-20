@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Getting Ready
-  key: Debt Reduction
+title: Debt Reduction
 date: 2010-11-13
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -12,6 +10,8 @@ image:  /img/debt-1.jpg
 categories:
   - News
 tags:
+  - usa
+  - sixmonths
 ---
 Many people seem to go their whole lives without once thinking about actually getting *out* of debt. But even if you do want to, it can be difficult. For most, the problem seems so insurmountable that they never try. And yet many have done so, and most use a simple technique usually referred to as the 'debt snowball.'
 

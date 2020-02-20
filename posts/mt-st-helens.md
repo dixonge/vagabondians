@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Washington
-  key: Mt. St. Helens
+title: Mt. St. Helens
 date: 2011-08-26
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

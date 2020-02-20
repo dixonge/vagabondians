@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Guatemala
+title: Guatemala
   order: 6
 ---

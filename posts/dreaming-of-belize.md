@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Getting Ready
-  key: Dreaming of Belize
+title: Dreaming of Belize
 date: 2010-06-26
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

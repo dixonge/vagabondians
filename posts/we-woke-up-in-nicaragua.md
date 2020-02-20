@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: We Woke up in Nicaragua!
-  parent: Nicaragua
+title: We Woke up in Nicaragua!
 date: 2013-06-30
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
@@ -12,6 +10,7 @@ image:  /img/we-woke-up.jpg
 categories:
   - centralamerica
 tags:
+  - nicaragua
 ---
 Waking up in Nicaragua is different!  Bird calls outside the window.  Lots of them -- including a polite rooster across the drainage ditch who waited until after the sun was up to crow only one series of cock-a-doodle-doos.  (The Mexican ones crow constantly for any reason, not just good-morning!)
 

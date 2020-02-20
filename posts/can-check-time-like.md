@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: You Can Check Out Any Time You Like
-  parent: Mexico
+title: You Can Check Out Any Time You Like
 date: 2014-03-27
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

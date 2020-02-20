@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Mexico
-  key: Retired!
+title: Retired!
 date: 2019-05-08
 permalink: /retired/
 author: "Glenn"

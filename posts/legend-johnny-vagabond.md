@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Mexico
-  key: The Legend of Johnny Vagabond
+title: The Legend of Johnny Vagabond
 date: 2014-11-27
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -14,6 +12,9 @@ dsq_thread_id:
 categories:
   - News
 tags:
+  - chiapas
+  - mexico
+  - sancristobal
 image: /img/johnny-vagabond.jpg
 comments: true
 ---

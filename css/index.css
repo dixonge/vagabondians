@@ -14001,10 +14001,7 @@ details ul.elv-toc-list > li > ul > li {
 }
 
 div#TOC {
-  width: -webkit-fit-content;
-  width: -moz-fit-content;
-  width: fit-content;
-  min-width: 150px;
+  min-width: 12%;
   margin-right: 15px;
 }
 

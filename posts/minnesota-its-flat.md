@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Minnesota -- It's Flat!
-  parent: Minnesota
+title: Minnesota -- It's Flat!
 date: 2011-10-17
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

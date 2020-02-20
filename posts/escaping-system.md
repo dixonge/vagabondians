@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Getting Ready
-  key: Escaping the System
+title: Escaping the System
 date: 2011-03-25
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -14,6 +12,8 @@ dsq_thread_id:
 categories:
   - News
 tags:
+  - usa
+  - sixmonths
 ---
 A timely topic as today is our last day at our jobs.
 

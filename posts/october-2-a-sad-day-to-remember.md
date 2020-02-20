@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: 'October 2 -- A Sad Day to Remember'
-  parent: Mexico
+title: 'October 2 -- A Sad Day to Remember'
 date: 2012-10-02
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
@@ -11,6 +9,10 @@ permalink: /october-2-a-sad-day-to-remember/
 image:  /img/teaser-mexico.jpg
 categories:
   - Mexico
+tags:
+  - mexico
+  - chiapas
+  - cdmx
 ---
 <span style="color: #333333; font-family: Verdana; font-size: 12px; line-height: 16.78333282470703px; text-align: left;"><span style="color: #333333; font-family: Verdana; font-size: 12px; line-height: 16.78333282470703px; text-align: left;">2 October protest marches remembering the "1968 massacre, a day on which Mexican soldiers violently repressed a rally organized by the student-led National Strike Commission (CNH) in the Plaza de las Tres Culturas in the Tlatelolco district of Mexico City.  The exact number of victims left by the massacre is still unknown, although social organizations estimate that around 300 people were killed."</span> </span>
 

@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Michigan
+title: Michigan
   order: 16
 ---

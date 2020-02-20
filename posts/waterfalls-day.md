@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Waterfalls Day!
-  parent: Mexico
+title: Waterfalls Day!
 date: 2013-01-08
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
@@ -12,6 +10,8 @@ image:  /img/teaser-mexico.jpg
 categories:
   - Mexico
 tags:
+  - mexico
+  - chiapas
 ---
 If you come to Chiapas, Mexico, all the tour companies have trips to see waterfalls Misol Ha and Aguas Azul. The van dropped us off and said to "walk that way," come back in an hour. Not sure what we would encounter, we walked. Yes, it was worth it!
 

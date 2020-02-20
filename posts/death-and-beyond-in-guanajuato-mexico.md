@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Death and Beyond in Guanajuato, Mexico
-  parent: Mexico
+title: Death and Beyond in Guanajuato, Mexico
 date: 2012-07-05
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

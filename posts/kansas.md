@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Kansas
+title: Kansas
   order: 15
 ---

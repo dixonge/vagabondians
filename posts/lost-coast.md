@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: The Lost Coast
-  parent: California
+title: The Lost Coast
 date: 2011-08-13
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

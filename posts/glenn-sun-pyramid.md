@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Mexico
-  key: Glenn on the Sun Pyramid
+title: Glenn on the Sun Pyramid
 date: 2014-03-27
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

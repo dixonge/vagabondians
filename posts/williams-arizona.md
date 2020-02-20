@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Williams, Arizona
-  parent: Arizona
+title: Williams, Arizona
 date: 2011-06-17
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

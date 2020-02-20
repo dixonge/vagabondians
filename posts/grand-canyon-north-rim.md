@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: 'Grand Canyon -- North Rim'
-  parent: Arizona
+title: 'Grand Canyon -- North Rim'
 date: 2011-06-27
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

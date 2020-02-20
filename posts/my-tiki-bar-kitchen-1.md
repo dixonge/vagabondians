@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: 'MY TIKI BAR KITCHEN -- 1'
-  parent: Mexico
+title: 'MY TIKI BAR KITCHEN -- 1'
 date: 2012-06-09
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

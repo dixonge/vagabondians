@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Wichita Mountains National Wildlife Refuge 4/27-4/29
-  parent: Oklahoma
+title: Wichita Mountains National Wildlife Refuge 4/27-4/29
 date: 2011-06-08
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

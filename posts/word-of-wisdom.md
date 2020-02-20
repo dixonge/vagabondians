@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Misc
-  key: Word of Wisdom
+title: Word of Wisdom
 date: 2014-01-27
 author: Glenn
 authorAvatar: "/img/avatar.jpg"
@@ -10,4 +8,6 @@ image:  /img/least-toys.jpg
 categories:
   - News
 tags:
+  - misc
 ---
+[image of patagonia ad thing]

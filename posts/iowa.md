@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Iowa
+title: Iowa
   order: 14
 ---

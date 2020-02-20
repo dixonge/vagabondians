@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Misc
-  key: From Steinbeck?
+title: From Steinbeck?
 date: 2014-01-27
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -12,5 +10,6 @@ image:  /img/from-steinbeck.jpg
 categories:
   - News
 tags:
+  - misc
 ---
 ![People don't take trips -- trips take people.](/img/2014/01/peopledonttaketrips.jpg)

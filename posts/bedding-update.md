@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Getting Ready
-  key: Another day, another bed
+title: Another day, another bed
 date: 2011-01-31
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -12,6 +10,8 @@ image:  /img/2011/02/P1070850.jpg
 categories:
   - News
 tags:
+  - usa
+  - sixmonths
 ---
 Wow.  Exciting stuff, huh?  But it's something we should probably think about more often in general.  People will sleep on beds for years and wonder why they can't stay asleep or why they wake up sore and stiff!  The whole bed industry is insane and is a topic for another day, or maybe another blog!
 

@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: United States
-  key: Back in Texas for a Bit
+title: Back in Texas for a Bit
 date: 2013-03-27
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

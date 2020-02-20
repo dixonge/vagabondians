@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Texas
+title: Texas
   order: 24
 ---

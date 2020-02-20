@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: 'A Bigger Tent -- on Wheels'
-  parent: New Mexico
+title: 'A Bigger Tent -- on Wheels'
 date: 2011-05-22
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

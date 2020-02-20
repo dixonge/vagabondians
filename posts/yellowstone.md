@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Yellowstone
-  parent: Wyoming
+title: Yellowstone
 date: 2011-09-29
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

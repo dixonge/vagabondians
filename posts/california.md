@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: California
+title: California
   order: 11
 ---

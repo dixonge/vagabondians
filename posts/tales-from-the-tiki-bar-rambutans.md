@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: 'Tales from the Tiki Bar -- Rambutans!'
-  parent: Mexico
+title: 'Tales from the Tiki Bar -- Rambutans!'
 date: 2012-08-09
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
@@ -13,9 +11,10 @@ categories:
   - Mexico
   - Tales From the Tiki Bar
 tags:
+  - mexico
+  - chiapas
+  - sancristobal
 ---
 I bought a special treat at the market this afternoon. They look freaky but are delicious!
 
-
-
-&nbsp;
+[insert rambutan video here]

@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Montana
+title: Montana
   order: 19
 ---

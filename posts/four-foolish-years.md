@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Mexico
-  key: Four Foolish Years
+title: Four Foolish Years
 date: 2014-04-01
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -14,6 +12,9 @@ dsq_thread_id:
 categories:
   - News
 tags:
+  - mexico
+  - chiapas
+  - sancristobal
 ---
 On this day:
 

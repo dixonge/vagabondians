@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: A Major Change in Plans
-  parent: Getting Ready
+title: A Major Change in Plans
 date: 2011-01-14
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

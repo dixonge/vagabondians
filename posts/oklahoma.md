@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Oklahoma
+title: Oklahoma
   order: 102
 ---

@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Arizona
+title: Arizona
   order: 10
 ---

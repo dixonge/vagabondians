@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: San Miguel de Allende
-  parent: Mexico
+title: San Miguel de Allende
 date: 2012-07-07
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

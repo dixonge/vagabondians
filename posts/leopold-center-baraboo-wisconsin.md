@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: 'The Leopold Center -- Baraboo, Wisconsin'
-  parent: Wisconsin
+title: 'The Leopold Center -- Baraboo, Wisconsin'
 date: 2011-12-06
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

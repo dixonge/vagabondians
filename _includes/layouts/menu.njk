@@ -1,0 +1,75 @@
+<div ID="TOC" class="min-w-full mt-1 ml-2 text-base text-left border-2 border-solid lg:flex-1 lg:w-48 lg:py-8 lg:ml-4 lg:-mr-6">
+
+<details open class="det-open">
+<summary id="nav1" class="text-lg btn-primary">Menu</summary>
+{%- if eleventyNavigation -%}
+	{%- set navKey = eleventyNavigation.key -%}
+{%- endif -%}
+{{ collections.all | eleventyNavigation("Menu") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+
+	<details open>
+	<summary id="nav2" class="ml-2 text-lg">Central America</summary>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Belize</summary>
+        <ol>
+        {%- for tag in collections.belize | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Costa Rica</summary>
+        <ol>
+        {%- for tag in collections.costarica | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Guatemala</summary>
+        <ol>
+        {%- for tag in collections.guatemala | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Nicaragua</summary>
+        <ol>
+        {%- for tag in collections.nicaragua | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+	</details>
+
+    <details open>
+	<summary id="nav2" class="ml-2 text-lg">Mexico</summary>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Chiapas</summary>
+        <ol>
+        {%- for tag in collections.chiapas | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+    </details>
+
+</details>
+
+</div>

@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Utah
+title: Utah
   order: 25
 ---

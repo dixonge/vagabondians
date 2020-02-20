@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: 'Clothes Shopping in the Big City -- Guadalajara, Jalisco, MX'
-  parent: Mexico
+title: 'Clothes Shopping in the Big City -- Guadalajara, Jalisco, MX'
 date: 2012-06-17
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

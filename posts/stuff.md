@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Getting Ready
-  key: Stuff
+title: Stuff
 date: 2010-07-03
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -12,6 +10,8 @@ image:  /img/hoarder-1.jpg
 categories:
   - News
 tags:
+  - usa
+  - sixmonths
 ---
 When Bryn and I got married (almost 20 years ago!) we lived where almost all newlyweds live -- an apartment! It was a really nice area near the D/FW airport. Lots of trees, a park, a swimming pool. We walked and rode our bikes a lot. We shared the facilities with a lot of stewardesses too. And even through we were on the third floor, we truly enjoyed the location. We had one bedroom and one living area, and it was just about right.
 

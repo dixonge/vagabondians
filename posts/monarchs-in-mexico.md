@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Mexico
-  key: Monarchs in Mexico
+title: Monarchs in Mexico
 date: 2019-05-11
 permalink: /monarchs-in-mexico/
 author: "Glenn"

@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Mañana in Mexico
-  parent: Mexico
+title: Mañana in Mexico
 date: 2012-03-24
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

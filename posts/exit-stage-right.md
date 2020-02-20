@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Exit, Stage Right!
-  parent: Getting Ready
+title: Exit, Stage Right!
 date: 2011-04-04
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

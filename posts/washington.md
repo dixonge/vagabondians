@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Washington
+title: Washington
   order: 26
 ---

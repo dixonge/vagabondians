@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Under the Big Sky
-  parent: Montana
+title: Under the Big Sky
 date: 2011-09-20
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

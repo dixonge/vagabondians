@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Misc
-  key: My Unsolicited Open Letter to the Class of ________
+title: My Unsolicited Open Letter to the Class of ________
 date: 2012-06-03
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
@@ -12,6 +10,9 @@ image:  /img/flinch.jpg
 categories:
   - News
 tags:
+  - mexico
+  - chiapas
+  - sancristobal
 ---
 I found out late in life that being a normal worker bee, a cog in the wheel of American society, dragged along by life and what everybody normally does -- school, job, house, cars, possessions, waiting to get old and retire if I didn’t die of some disease or accident first -- maybe wasn’t what I should have done with this one precious life on earth that I was lucky enough to get.
 

@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Misc
-  key: 'Photo Contest: Capture the Colour'
+title: 'Photo Contest: Capture the Colour'
 date: 2012-08-01
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -12,6 +10,9 @@ image:  /img/capture-color.jpg
 categories:
   - News
 tags:
+  - mexico
+  - chiapas
+  - sancristobal
 ---
 There’s a new photo contest going on and I was 'tagged' by my friend Wes (aka <a href="https://johnnyvagabond.com">Johnny Vagabond</a>). Sponsored by <a href="https://www.travelsupermarket.com/">TravelSupermarket.com</a>, there are some great prizes (iPads!) and the contest is being judged by some amazing photographers/bloggers.
 

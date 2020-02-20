@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Oregon
+title: Oregon
   order: 23
 ---

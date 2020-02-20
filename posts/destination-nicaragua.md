@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Nicaragua
-  key: 'Destination: Nicaragua'
+title: 'Destination: Nicaragua'
 date: 2013-06-12
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -12,7 +10,7 @@ image:  /img/nicaragua.png
 categories:
   - News
 tags:
-  - Nicaragua
+  - nicaragua
 ---
 At long, LONG last we've finally purchased tickets for our next destination: Nicaragua! We are so excited. We'll even get to hook up with our buddy [Wes Nations][1] again! Fun times will be had. Sober times, not so much...
 

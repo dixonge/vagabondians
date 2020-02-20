@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Getting Ready
-  key: Our Bed Finds a Good Home
+title: Our Bed Finds a Good Home
 date: 2011-01-24
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -14,6 +12,8 @@ dsq_thread_id:
 categories:
   - News
 tags:
+  - usa
+  - sixmonths
 ---
 We have been sleeping on a Select Comfort air mattress for ten years now.  Bryn kept her side fairly firm, I kept mine about as soft as a hammock.  And when our plans included long-term RV travel we fully intended to keep that bed.  But once we changed plans to simple car-camping the bed had to go.
 

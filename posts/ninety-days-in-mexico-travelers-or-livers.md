@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: 'Ninety Days In Mexico -- Travelers or Livers?'
-  parent: Mexico
+title: 'Ninety Days In Mexico -- Travelers or Livers?'
 date: 2012-05-15
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

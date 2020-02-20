@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Why We Did It
-  parent: Getting Ready
+title: Why We Did It
 date: 2011-04-16
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
@@ -12,6 +10,8 @@ image:  /img/2011/04/P1000564.jpg
 categories:
   - sixmonths
 tags:
+  - usa
+  - sixmonths
 ---
 Lately our attention has been focused on the final stages of transition.  Moving sales, Craigslist, eBay, vehicle titles, Goodwill, item delivery, meeting friends, leaving &#8212; it's been a whirlwind, and it was much more mentally taxing than we had anticipated.  It was also a bit emotionally wrenching.  Bryn, of course, shed a few tears here and there, and even gruff old curmudgeonly Glenn gets a bit misty-eyed now and then about leaving his Denton pals behind.  And one thing that gets drowned out by the emotions and whirlwind of activity is the motivation behind it all.  More than once we have had to stop and ask ourselves "Why are we doing this again?"  And now that things have started to settle down a bit, it seemed like a good time to reconnect with the 'why' of it all
 

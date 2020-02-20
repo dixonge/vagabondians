@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: 'Tales From the Tiki Bar - 2'
-  parent: Misc
+title: 'Tales From the Tiki Bar - 2'
 date: 2011-05-08
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
@@ -13,6 +11,9 @@ categories:
   - sixmonths
   - Tales From the Tiki Bar
 tags:
+  - usa
+  - newmexico
+  - sixmonths
 ---
 This one’s for the girls.  Get your umbrella drink and come on over here; it’s kinda personal.
 

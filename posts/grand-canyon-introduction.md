@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: 'Grand Canyon -- Introduction'
-  parent: Arizona
+title: 'Grand Canyon -- Introduction'
 date: 2011-06-12
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

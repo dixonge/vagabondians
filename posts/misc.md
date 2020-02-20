@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Misc
+title: Misc
   order: 1
 ---

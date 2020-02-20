@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: I Feel the Earth ~~ Move ~~ Under My Feet
-  parent: Mexico
+title: I Feel the Earth ~~ Move ~~ Under My Feet
 date: 2012-04-12
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

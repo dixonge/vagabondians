@@ -1,5 +1,4 @@
 ---
-eleventyNavigation:
-  key: Wisconsin
+title: Wisconsin
   order: 27
 ---

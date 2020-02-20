@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Grove of Titans
-  parent: California
+title: Grove of Titans
 date: 2011-08-22
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

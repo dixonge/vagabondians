@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  parent: Mexico
-  key: Oh, Mexico
+title: Oh, Mexico
 date: 2012-03-01
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

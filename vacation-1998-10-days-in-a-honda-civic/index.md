@@ -1,6 +1,5 @@
 ---
-eleventyNavigation:
-  key: 'Vacation 1998 - 10 Days in a Honda Civic'
+title: 'Vacation 1998 - 10 Days in a Honda Civic'
   order: 8
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"

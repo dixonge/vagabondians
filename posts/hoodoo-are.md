@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Hoodoo You Think You Are?
-  parent: Utah
+title: Hoodoo You Think You Are?
 date: 2011-06-30
 author: "Bryn"
 authorDescription: "Court reporter turned internet bum"

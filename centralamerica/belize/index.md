@@ -1,7 +1,5 @@
 ---
-eleventyNavigation:
-  key: Belize
-  parent: Central America
+title: Belize
 layout: layouts/home.njk
 ---
 
