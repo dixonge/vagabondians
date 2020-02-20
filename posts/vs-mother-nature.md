@@ -10,7 +10,9 @@ image:  /img/2011/05/P1090122.jpg
 categories:
   - sixmonths
 tags:
-  - Texas
+  - usa
+  - texas
+  - sixmonths
 ---
 > But Mousie, thou art no thy lane,  
 > In proving foresight may be vain:  

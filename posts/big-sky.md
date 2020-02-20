@@ -10,7 +10,7 @@ image:  /img/2011/09/montana.jpg
 categories:
   - sixmonths
 tags:
-  - Montana
+  - montana
   - sixmonths
 ---
 So eventually we reached our destination in St. Regis and stayed there a couple of nights, catching up on laundry, rest, reading and writing. 

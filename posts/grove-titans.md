@@ -12,10 +12,11 @@ dsq_thread_id:
 categories:
   - sixmonths
 tags:
-  - California
-  - coastal redwoods
-  - grove of titans
-  - jedediah smith redwoods state park
+  - usa
+  - california
+  - coastal-redwoods
+  - grove-of-titans
+  - jedediah-smith-redwoods-state-park
   - sixmonths
 ---
 Two of our favorite authors are <a href="https://www.prestonchild.com/" target="_blank">Douglas Preston and Lincoln Child</a>. You may have seen the movie '<a href="https://www.zuguide.com/#The-Relic" target="_blank">The Relic</a>' which was based on some of their books. Douglas Preston has also written several non-fiction books which we love. Back in May of 2007 I stumbled across a book written by Douglas' brother, Richard, entitled [The Wild Trees: A Story of Passion and Daring][1]<img class=" ahvsxllnypvwxbzmklmr" style="border: none !important; margin: 0px !important;" src="https://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=0812975596&camp=217145&creative=399369" alt="" width="1" height="1" border="0" />. We were captivated and enthralled by these stories of people exploring vast acres of previously unexplored redwood forests and finding and climbing taller and taller trees. We began reading everything we could find about these trees, in print or on the internet. Scientists have found entire ecosystems living in the upper branches over 300 feet from the forest floor.

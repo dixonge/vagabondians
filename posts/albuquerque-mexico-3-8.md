@@ -10,7 +10,9 @@ image:  /img/2011/06/RoxiNewMexico.jpg
 categories:
   - sixmonths
 tags:
-  - New Mexico
+  - usa
+  - sixmonths
+  - newmexico
 ---
 Tuesday we packed it all up and headed west. We somehow completely missed Cadillac Ranch! Oh well, at least we've been there before...
 

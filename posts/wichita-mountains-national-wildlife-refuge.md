@@ -12,7 +12,9 @@ dsq_thread_id:
 categories:
   - sixmonths
 tags:
+  - usa
   - oklahoma
+  - sixmonths
 ---
 In my previous post I mentioned catching up -- well here goes!
 

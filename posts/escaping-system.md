@@ -13,6 +13,7 @@ categories:
   - News
 tags:
   - usa
+  - texas
   - sixmonths
 ---
 A timely topic as today is our last day at our jobs.

@@ -10,8 +10,10 @@ image:  /img/2011/08/talltree.jpg
 categories:
   - sixmonths
 tags:
-  - California
-  - humboldt redwoods state park
+  - usa
+  - california
+  - sixmonths
+  - humboldt-redwoods-state-park
 ---
 On July 29th we left Napa Valley and drove up to the redwoods of Humboldt County.  Once you get near Humboldt Redwoods State Park you can take the scenic route dubbed Avenue of the Giants.  It is a two-lane road which winds through the edge of the forest, dodging giant redwoods all along the way.  Our destination was the <a href="https://ancientredwoods.net" target="_blank">Ancient Redwoods RV Park</a>.
 

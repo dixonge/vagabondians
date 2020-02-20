@@ -11,7 +11,9 @@ categories:
   - sixmonths
   - Tales From the Tiki Bar
 tags:
-  - New Mexico
+  - usa
+  - newmexico
+  - sixmonths
 ---
 Greetings from the middle of nowhere.  For real.  The nearest ATM is an almost 20-mile round trip.  Nearest Walmart is in Grants, NM, 40 miles one way.  Here is a mix of unique people dealing with life together in a secluded, beautiful place.  Life and living can be harsh in this high desert area, but to them it's all worth it.  Here everyone is free to be themselves or figure out who that self might be or become.
 

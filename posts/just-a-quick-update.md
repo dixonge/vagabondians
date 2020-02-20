@@ -10,7 +10,7 @@ image:  /img/quick-update.jpg
 categories:
   - News
 tags:
-  - Texas
+  - texas
 ---
 Yep, we're still in Texas!
 

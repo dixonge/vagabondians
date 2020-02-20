@@ -10,7 +10,9 @@ image:  /img/2011/06/valve1.jpg
 categories:
   - sixmonths
 tags:
-  - Arizona
+  - usa
+  - arizona
+  - sixmonths
 ---
 Just thought I would give an update on our gas situation.
 

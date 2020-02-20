@@ -12,8 +12,9 @@ dsq_thread_id:
 categories:
   - sixmonths
 tags:
+  - usa
   - sixmonths
-  - Utah
+  - utah
 ---
 When we finally left the North Rim area of the Grand Canyon, we drove off of the Kaibab Plateau and over to Utah. We stopped for the night in Hatch in a nice little campground. Good prices and the most amazing bathrooms of the trip so far!
 

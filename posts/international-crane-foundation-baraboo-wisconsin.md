@@ -8,6 +8,8 @@ authorAvatar: "/img/avatar.jpg"
 permalink: /international-crane-foundation-baraboo-wisconsin/
 image:  /img/cranes.jpg
 categories:
+  - usa
+  - wisconsin
   - sixmonths
 ---
 Of all the things that Aldo Leopold wrote about, I was most interested in his observations about birds. He is possibly most well-known for the things he wrote about Cranes. In my [previous article][1] on our visit to the <a href="https://aldoleopold.org" target="_blank">Aldo Leopold Center</a> I quoted Leopold's famous Marshland Elegy about Sandhill Cranes. We saw a few of these amazing birds on our way to the Center that day. But a day later we saw all fifteen Crane species in one place!

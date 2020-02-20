@@ -10,7 +10,9 @@ image:  /img/2011/06/NorthRimSunset.jpg
 categories:
   - sixmonths
 tags:
-  - Arizona
+  - usa
+  - arizona
+  - sixmonths
 ---
 A few days ago Bryn and I got all packed up and headed north. After leaving Flagstaff we crossed a barren stretch of land. Most of the Native American reservations appear this way. The one good thing about rez land out here is that at least there is an ancient connection between the people and the land. There are many ancient ruins indicating thousands of years of Pueblo and Navajo ancestors. But it's still desert, and we took anything resembling decent land away long ago. But I digress...
 

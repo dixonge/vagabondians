@@ -8,6 +8,8 @@ authorAvatar: "/img/avatar.jpg"
 permalink: /major-change-plans/
 image:  /img/2011/01/camping.jpg
 categories:
+  - usa
+  - texas
   - sixmonths
 ---
 > "Nothing endures but change" -- Heraclitus (535-475 BC)

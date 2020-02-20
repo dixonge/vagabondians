@@ -8,8 +8,10 @@ authorAvatar: "/img/bryn.jpg"
 permalink: /happy-year-times-awastin/
 image:  /img/fireworks.jpeg
 categories:
+  - usa
+  - texas
   - sixmonths
-  - Tales From the Tiki Bar
+  - Tales-From-the-Tiki-Bar
 ---
 I read this from a Facebook friend:
 

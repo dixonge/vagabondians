@@ -10,7 +10,9 @@ image:  /img/2011/11/texas.jpg
 categories:
   - sixmonths
 tags:
-  - Texas
+  - usa
+  - texas
+  - sixmonths
 ---
 Sorry, I just really, REALLY love that old Louis Prima song. 
 

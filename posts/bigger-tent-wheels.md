@@ -12,7 +12,7 @@ dsq_thread_id:
 categories:
   - sixmonths
 tags:
-  - New Mexico
+  - newmexico
   - sixmonths
 ---
 There is a saying in the RV world, especially true for those who intend to travel full-time:

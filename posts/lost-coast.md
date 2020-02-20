@@ -12,7 +12,9 @@ dsq_thread_id:
 categories:
   - sixmonths
 tags:
-  - California
+  - usa
+  - california
+  - sixmonths
 ---
 On August the first we took a recommended road to see some scenery. A fellow Escapee recommended it to us. It follows the same road that one takes to get to the Tall and Giant trees in the park, then continues on out to the coast. We already knew that the section through the park was a slow drive due to both roughness and lots of huge trees which force the road to wind around a lot. What we didn't know is that the road is pretty much just as rough and windy all the way out. Cell phones don't work out here. Hardly anyone lives out here. I discovered later that this region is called The Lost Coast, and is the most undeveloped part of all of California. I'm not surprised.
 

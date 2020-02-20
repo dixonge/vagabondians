@@ -10,7 +10,7 @@ image:  /img/jetplane.jpg
 categories:
   - News
 tags:
-  - Texas
+  - texas
 ---
 We’ve been so busy over the last few months that I don’t think I’ve had the chance for all of this to sink in yet. Living in a ‘foreign’ country for a few months really isn’t that earth-shattering. Millions have done it before, and millions will do it in the future. I try to look at it that way. However, if you add the fact that we will continue to do this for the foreseeable future, with only occasional trips back home, our adventure becomes much more unusual!
 

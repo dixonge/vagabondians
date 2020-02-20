@@ -10,7 +10,9 @@ image:  /img/2011/05/Wolf1.jpg
 categories:
   - sixmonths
 tags:
-  - New Mexico
+  - usa
+  - newmexico
+  - sixmonths
 ---
 [written 5/25/2011]
 

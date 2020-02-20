@@ -12,7 +12,9 @@ dsq_thread_id:
 categories:
   - sixmonths
 tags:
-  - Arizona
+  - usa
+  - arizona
+  - sixmonths
 ---
 What? You've never heard of the famous Williams, Arizona?
 

@@ -11,7 +11,9 @@ categories:
   - sixmonths
   - Tales From the Tiki Bar
 tags:
+  - usa
   - oklahoma
+  - sixmonths
 ---
 Cheers, friends! Everyone got your umbrella drink? Excellent!
 

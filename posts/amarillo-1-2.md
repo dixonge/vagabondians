@@ -11,7 +11,7 @@ categories:
   - sixmonths
 tags:
   - sixmonths
-  - Texas
+  - texas
 ---
 After escaping the rain in Lawton and the scary lady with a hammer, we stopped for a couple of days of work in Amarillo at the La Quinta East. I wrote stuff, Bryn wrote stuff.
 

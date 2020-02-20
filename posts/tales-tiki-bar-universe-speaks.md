@@ -10,7 +10,9 @@ image:  /img/2011/07/universe.jpg
 categories:
   - sixmonths
 tags:
-  - California
+  - usa
+  - california
+  - sixmonths
 ---
 We should have listened!  We should have accepted the help offered after we had asked for help!  Duh! It was an awesome adventure that we missed out on, and it led to a low-level disaster.  There's an important lesson in serendipity here:  Don't swim against the tide -- just go with it. Isn't that what we're out here for?  GAH!
 

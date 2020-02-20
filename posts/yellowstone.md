@@ -12,7 +12,9 @@ dsq_thread_id:
 categories:
   - sixmonths
 tags:
-  - Wyoming
+  - usa
+  - wyoming
+  - sixmonths
 ---
 We Arrive
 

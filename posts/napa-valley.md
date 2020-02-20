@@ -10,8 +10,10 @@ image:  /img/2011/08/napavalley.jpg
 categories:
   - sixmonths
 tags:
-  - California
-  - napa valley
+  - usa
+  - california
+  - sixmonths
+  - napa-valley
 ---
 Our trip to Napa Valley didn't start as we had planned. After leaving the wonderful <a title="Park Sierra" href="https://www.parksierra.net/" target="_blank">Escapee's SKP Park Sierra</a> north of Fresno we made the long haul drive out of the San Joaquin valley and then north on I-5. We made the usual pit stops for gas and snacks and bathroom visits, and we made decent time. We were slowing down to make the last turn from Hwy 12 to Hwy 29 when the trailer brakes clamped down and caused the tires to screech. WTF? We took it easy until we found a place to pull over and I got out to inspect things. It wasn't pretty.
 
