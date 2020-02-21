@@ -3,7 +3,7 @@ layout: layouts/base.njk
 ---
 
 {% include "layouts/menu.njk" %}
-
+<div id="right" class="w-full lg:flex">
 {% if eleventyNavigation and eleventyNavigation.key and eleventyNavigation.parent %}
 <nav class="breadcrumb" aria-labelledby="breadcrumb">
   <h2 class="sr-only" id="breadcrumb">Breadcrumbs: </h2>
@@ -11,7 +11,7 @@ layout: layouts/base.njk
 </nav>
 {% endif %}
 
-<div id="article" class="mt-1 lg:flex-grow">
+<div id="article" class="mt-1">
 
 <img src="{{ image }}">
 
@@ -21,4 +21,5 @@ layout: layouts/base.njk
 
 <p><a href="{{ '/' | url }}">← Home</a></p>
 
+</div>
 </div>

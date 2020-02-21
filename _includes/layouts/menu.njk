@@ -1,13 +1,13 @@
-<div ID="TOC" class="min-w-full mt-1 ml-2 text-base text-left border-2 border-solid lg:flex-1 lg:w-48 lg:py-8 lg:ml-4 lg:-mr-6">
+<div ID="TOC" class="w-full mt-1 ml-2 text-base text-left border-2 border-solid lg:flex-1 lg:w-48 lg:py-8 lg:ml-4 lg:-mr-6">
 
-<details open class="det-open">
+<details open class="det-menu">
 <summary id="nav1" class="text-lg btn-primary">Menu</summary>
 {%- if eleventyNavigation -%}
 	{%- set navKey = eleventyNavigation.key -%}
 {%- endif -%}
 {{ collections.all | eleventyNavigation("Menu") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
 
-	<details open>
+	<details>
 	<summary id="nav2" class="ml-2 text-lg">Central America</summary>
 
 		<details>
@@ -15,7 +15,7 @@
         <ol>
         {%- for tag in collections.belize | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -26,7 +26,7 @@
         <ol>
         {%- for tag in collections.costarica | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -36,7 +36,7 @@
         <ol>
         {%- for tag in collections.guatemala | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -46,7 +46,7 @@
         <ol>
         {%- for tag in collections.nicaragua | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -54,7 +54,7 @@
 
 	</details>
 
-    <details open>
+    <details>
 	<summary id="nav2" class="ml-2 text-lg">Mexico</summary>
 
    		<details>
@@ -62,7 +62,7 @@
         <ol>
         {%- for tag in collections.bajasur | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -73,7 +73,7 @@
         <ol>
         {%- for tag in collections.cdmx | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -84,7 +84,7 @@
         <ol>
         {%- for tag in collections.chiapas | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -95,7 +95,7 @@
         <ol>
         {%- for tag in collections.guanajuato | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -106,7 +106,7 @@
         <ol>
         {%- for tag in collections.jalisco | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -117,7 +117,7 @@
         <ol>
         {%- for tag in collections.queretaro | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -128,7 +128,7 @@
         <ol>
         {%- for tag in collections.quintanaroo | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -139,7 +139,7 @@
         <ol>
         {%- for tag in collections.slp | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -150,7 +150,7 @@
         <ol>
         {%- for tag in collections.yucatan | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -161,7 +161,7 @@
         <ol>
         {%- for tag in collections.zacatecas | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -169,7 +169,7 @@
 
     </details>
 
-    <details open>
+    <details>
 	<summary id="nav2" class="ml-2 text-lg">U.S.A.</summary>
 
 		<details>
@@ -177,7 +177,7 @@
         <ol>
         {%- for tag in collections.texas | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -188,7 +188,7 @@
         <ol>
         {%- for tag in collections.oklahoma | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -199,7 +199,7 @@
         <ol>
         {%- for tag in collections.newmexico | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -210,7 +210,7 @@
         <ol>
         {%- for tag in collections.arizona | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -221,7 +221,7 @@
         <ol>
         {%- for tag in collections.utah | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -232,7 +232,7 @@
         <ol>
         {%- for tag in collections.nevada | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -243,7 +243,7 @@
         <ol>
         {%- for tag in collections.california | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -254,7 +254,7 @@
         <ol>
         {%- for tag in collections.oregon | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -265,7 +265,7 @@
         <ol>
         {%- for tag in collections.washington | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -276,7 +276,7 @@
         <ol>
         {%- for tag in collections.idaho | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -287,7 +287,7 @@
         <ol>
         {%- for tag in collections.montana | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -298,7 +298,7 @@
         <ol>
         {%- for tag in collections.wyoming | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -309,7 +309,7 @@
         <ol>
         {%- for tag in collections.northdakota | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -320,7 +320,7 @@
         <ol>
         {%- for tag in collections.minnesota | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -331,7 +331,7 @@
         <ol>
         {%- for tag in collections.wisconsin | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -342,7 +342,7 @@
         <ol>
         {%- for tag in collections.illinois | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -353,7 +353,7 @@
         <ol>
         {%- for tag in collections.michigan | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -364,7 +364,7 @@
         <ol>
         {%- for tag in collections.ohio | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -375,7 +375,7 @@
         <ol>
         {%- for tag in collections.indiana | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -386,7 +386,7 @@
         <ol>
         {%- for tag in collections.illinois | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -397,7 +397,7 @@
         <ol>
         {%- for tag in collections.iowa | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -408,7 +408,7 @@
         <ol>
         {%- for tag in collections.missouri | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>
@@ -419,7 +419,7 @@
         <ol>
         {%- for tag in collections.kansas | sort -%}
         <li>
-        <a href="{{ tag.url }}" class="tag"> {{ tag.data.title }} </a>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
         </li>
         {%- endfor -%}
         </ol>

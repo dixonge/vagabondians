@@ -1,7 +1,7 @@
 .elv-toc {
 	font-size: 1rem; /* Reset */
 }
-.elv-toc details {
+details.det-menu {
 	--details-force-closed: (max-width: 63.9375em); /* 1023px */
 }
 .elv-toc details > summary {
