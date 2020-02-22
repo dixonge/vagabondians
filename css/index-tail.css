@@ -25,6 +25,9 @@ a {
   font-style: italic;
   src: url(/css/fonts/Tiresias_Infofont-Italic-webfont.woff) format("woff");
 }
+html {
+  font-family: 'Tiresias Infofont';
+}
 
 @import "tailwindcss/components";
 
@@ -61,8 +64,7 @@ div#TOC {
 
 #menu ul {
     margin: 0;
-    padding: 0;
-  }
+    padding: 0;  }
   
   #menu .main-menu {
     display: none;
@@ -146,6 +148,11 @@ div#TOC {
     right: 1.5em;
     top: 1.25em;
   }
+
+  #menu label.drop-icon img, #menu .drop-icon img {
+    max-width: 32px;
+    max-height: 32px;
+  }
   
   #menu label.drop-icon, #toggle-menu span.drop-icon {
     border-radius: 50%;
@@ -174,6 +181,10 @@ div#TOC {
   }
   
   @media only screen and (min-width: 52em) {
+    #menu {
+    flex: 1 1 20%;
+    }
+
     #menu .main-menu {
       display: block;
     }
@@ -185,11 +196,13 @@ div#TOC {
   
     #menu ul span.drop-icon {
       display: inline-block;
+      float: right;
     }
   
     #menu li {
       float: left;
       border-width: 0 1px 0 0;
+      width: 100%;
     }
   
     #menu .sub-menu li {
@@ -202,7 +215,7 @@ div#TOC {
       position: absolute;
       top: 100%;
       left: 0;
-      width: 12em;
+      width: 15em;
       z-index: 3000;
     }
   
