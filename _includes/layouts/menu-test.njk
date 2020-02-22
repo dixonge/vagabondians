@@ -1,0 +1,557 @@
+<nav id="menu" class="w-full mt-1 ml-2 text-base text-left border-2 border-solid lg:flex-1 lg:w-48 lg:py-8 lg:ml-4 lg:-mr-6">
+  <label for="tm" id="toggle-menu">Menu <span class="drop-icon">▾</span></label>
+  <input type="checkbox" id="tm">
+  <ul class="clearfix main-menu">
+
+    <li><a href="#">Central America 
+        <span class="drop-icon">▾</span>
+        <label title="Toggle Drop-down" class="drop-icon" for="sm1">▾</label>
+      </a>
+      <input type="checkbox" id="sm1">
+      <ul class="sub-menu">
+
+        <li><a href="#">Belize
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm4">▾</label>
+          </a>
+          <input type="checkbox" id="sm4">
+          <ul class="sub-menu">
+            {%- for tag in collections.belize | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Costa Rica
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm5">▾</label>
+          </a>
+          <input type="checkbox" id="sm5">
+          <ul class="sub-menu">
+            {%- for tag in collections.costarica | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Guatemala
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm6">▾</label>
+          </a>
+          <input type="checkbox" id="sm6">
+          <ul class="sub-menu">
+            {%- for tag in collections.guatemala | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Nicaragua
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm7">▾</label>
+          </a>
+          <input type="checkbox" id="sm7">
+          <ul class="sub-menu">
+            {%- for tag in collections.nicaragua | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+      </ul>
+    </li>
+
+    <li><a href="#">Mexico
+        <span class="drop-icon">▾</span>
+        <label title="Toggle Drop-down" class="drop-icon" for="sm2">▾</label>
+      </a>
+      <input type="checkbox" id="sm2">
+      <ul class="sub-menu">
+
+        <li><a href="#">Baja California Sur
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm8">▾</label>
+          </a>
+          <input type="checkbox" id="sm8">
+          <ul class="sub-menu">
+            {%- for tag in collections.bajasur | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+        
+        <li><a href="#">Mexico City
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm9">▾</label>
+          </a>
+          <input type="checkbox" id="sm9">
+          <ul class="sub-menu">
+            {%- for tag in collections.cdmx | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Chiapas
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm10">▾</label>
+          </a>
+          <input type="checkbox" id="sm10">
+          <ul class="sub-menu">
+            {%- for tag in collections.chiapas | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Guanajuato
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm11">▾</label>
+          </a>
+          <input type="checkbox" id="sm11">
+          <ul class="sub-menu">
+            {%- for tag in collections.guanajuato | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Jalisco
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm12">▾</label>
+          </a>
+          <input type="checkbox" id="sm12">
+          <ul class="sub-menu">
+            {%- for tag in collections.jalisco | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Queretaro
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm13">▾</label>
+          </a>
+          <input type="checkbox" id="sm13">
+          <ul class="sub-menu">
+            {%- for tag in collections.queretaro | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Quintana Roo
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm14">▾</label>
+          </a>
+          <input type="checkbox" id="sm14">
+          <ul class="sub-menu">
+            {%- for tag in collections.quintanaroo | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">San Luis Potosi
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm15">▾</label>
+          </a>
+          <input type="checkbox" id="sm15">
+          <ul class="sub-menu">
+            {%- for tag in collections.slp | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Yucatan
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm16">▾</label>
+          </a>
+          <input type="checkbox" id="sm16">
+          <ul class="sub-menu">
+            {%- for tag in collections.yucatan | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Zacatecas
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm17">▾</label>
+          </a>
+          <input type="checkbox" id="sm17">
+          <ul class="sub-menu">
+            {%- for tag in collections.zacatecas | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+      </ul>
+
+    </li>
+
+    <li><a href="#">U.S.A.
+        <span class="drop-icon">▾</span>
+        <label title="Toggle Drop-down" class="drop-icon" for="sm3">▾</label>
+      </a>
+      <input type="checkbox" id="sm3">
+      <ul class="sub-menu">
+
+        <li><a href="#">Texas
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm18">▾</label>
+          </a>
+          <input type="checkbox" id="sm18">
+          <ul class="sub-menu">
+            {%- for tag in collections.texas | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Oklahoma
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm19">▾</label>
+          </a>
+          <input type="checkbox" id="sm19">
+          <ul class="sub-menu">
+            {%- for tag in collections.oklahoma | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">New Mexico
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm20">▾</label>
+          </a>
+          <input type="checkbox" id="sm20">
+          <ul class="sub-menu">
+            {%- for tag in collections.newmexico | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Arizona
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm21">▾</label>
+          </a>
+          <input type="checkbox" id="sm21">
+          <ul class="sub-menu">
+            {%- for tag in collections.arizona | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Utah
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm22">▾</label>
+          </a>
+          <input type="checkbox" id="sm22">
+          <ul class="sub-menu">
+            {%- for tag in collections.utah | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Nevada
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm23">▾</label>
+          </a>
+          <input type="checkbox" id="sm23">
+          <ul class="sub-menu">
+            {%- for tag in collections.nevada | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">California
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm24">▾</label>
+          </a>
+          <input type="checkbox" id="sm24">
+          <ul class="sub-menu">
+            {%- for tag in collections.california | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Oregon
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm25">▾</label>
+          </a>
+          <input type="checkbox" id="sm25">
+          <ul class="sub-menu">
+            {%- for tag in collections.oregon | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Washington
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm26">▾</label>
+          </a>
+          <input type="checkbox" id="sm26">
+          <ul class="sub-menu">
+            {%- for tag in collections.washington | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Idaho
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm27">▾</label>
+          </a>
+          <input type="checkbox" id="sm27">
+          <ul class="sub-menu">
+            {%- for tag in collections.idaho | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Montana
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm28">▾</label>
+          </a>
+          <input type="checkbox" id="sm28">
+          <ul class="sub-menu">
+            {%- for tag in collections.montana | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Wyoming
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm29">▾</label>
+          </a>
+          <input type="checkbox" id="sm29">
+          <ul class="sub-menu">
+            {%- for tag in collections.wyoming | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">North Dakota
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm30">▾</label>
+          </a>
+          <input type="checkbox" id="sm30">
+          <ul class="sub-menu">
+            {%- for tag in collections.northdakota | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Minnesota
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm31">▾</label>
+          </a>
+          <input type="checkbox" id="sm31">
+          <ul class="sub-menu">
+            {%- for tag in collections.minnesota | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Wisconsin
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm32">▾</label>
+          </a>
+          <input type="checkbox" id="sm32">
+          <ul class="sub-menu">
+            {%- for tag in collections.wisconsin | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Illinois
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm33">▾</label>
+          </a>
+          <input type="checkbox" id="sm33">
+          <ul class="sub-menu">
+            {%- for tag in collections.illinois | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Michigan
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm34">▾</label>
+          </a>
+          <input type="checkbox" id="sm34">
+          <ul class="sub-menu">
+            {%- for tag in collections.michigan | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Ohio
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm35">▾</label>
+          </a>
+          <input type="checkbox" id="sm35">
+          <ul class="sub-menu">
+            {%- for tag in collections.ohio | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Indiana
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm36">▾</label>
+          </a>
+          <input type="checkbox" id="sm36">
+          <ul class="sub-menu">
+            {%- for tag in collections.indiana | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Illinois
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm37">▾</label>
+          </a>
+          <input type="checkbox" id="sm37">
+          <ul class="sub-menu">
+            {%- for tag in collections.illinois | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Iowa
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm38">▾</label>
+          </a>
+          <input type="checkbox" id="sm38">
+          <ul class="sub-menu">
+            {%- for tag in collections.iowa | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Missouri
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm39">▾</label>
+          </a>
+          <input type="checkbox" id="sm39">
+          <ul class="sub-menu">
+            {%- for tag in collections.missouri | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+        <li><a href="#">Kansas
+            <span class="drop-icon">▾</span>
+            <label title="Toggle Drop-down" class="drop-icon" for="sm40">▾</label>
+          </a>
+          <input type="checkbox" id="sm40">
+          <ul class="sub-menu">
+            {%- for tag in collections.kansas | sort -%}
+            <li>
+            <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+
+      </ul>
+
+    </li>
+
+  </ul>
+</nav>

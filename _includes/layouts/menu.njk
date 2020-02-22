@@ -1,17 +1,18 @@
 <div ID="TOC" class="w-full mt-1 ml-2 text-base text-left border-2 border-solid lg:flex-1 lg:w-48 lg:py-8 lg:ml-4 lg:-mr-6">
 
-<details open class="det-menu">
-<summary id="nav1" class="text-lg btn-primary">Menu</summary>
-{%- if eleventyNavigation -%}
-	{%- set navKey = eleventyNavigation.key -%}
-{%- endif -%}
-{{ collections.all | eleventyNavigation("Menu") | eleventyNavigationToHtml({ activeKey: navKey, listClass: 'elv-toc-list', activeListItemClass: 'elv-toc-active' }) | safe }}
+<div id="nav-menu" class="relative">
+<input type="checkbox" id="nav-menu-input" class="absolute top-0 left-0 w-full h-full opacity-0">
+<label for="nav-menu-input" class="relative block cursor-pointer pl">Menu</label>
 
-	<details>
-	<summary id="nav2" class="ml-2 text-lg">Central America</summary>
 
-		<details>
-		<summary id="nav3" class="ml-4 text-lg">Belize</summary>
+    <div id="nav-ca" class="relative">
+    <input type="checkbox" id="nav-ca-input" class="absolute top-0 left-0 w-full h-full opacity-0">
+    <label for="nav-ca-input" class="relative block cursor-pointer pl">Central America</label>
+
+        <div id="nav-belize" class="relative">
+        <input type="checkbox" id="nav-belize-input" class="absolute top-0 left-0 w-full h-full opacity-0">
+        <label for="nav-belize-input" class="relative block cursor-pointer pl">Belize</label>
+
         <ol>
         {%- for tag in collections.belize | sort -%}
         <li>
@@ -19,7 +20,7 @@
         </li>
         {%- endfor -%}
         </ol>
-		</details>
+		</div>
 
 		<details>
 		<summary id="nav3" class="ml-4 text-lg">Costa Rica</summary>
@@ -52,7 +53,7 @@
         </ol>
 		</details>
 
-	</details>
+    </div>
 
     <details>
 	<summary id="nav2" class="ml-2 text-lg">Mexico</summary>
@@ -427,6 +428,6 @@
 
     </details>
 
-</details>
+</div>
 
 </div>
