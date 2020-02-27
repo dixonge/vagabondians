@@ -14,3 +14,5 @@ css/fonts/.DS_Store
 img/states/.DS_Store
 .DS_Store
 css/.DS_Store
+node_modules/markdown-it/package.json
+node_modules/markdown-it-anchor/package.json
