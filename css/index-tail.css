@@ -149,7 +149,7 @@ div#TOC {
     top: 1.25em;
   }
 
-  #menu label.drop-icon img, #menu .drop-icon img {
+  #menu label.drop-icon img, #menu .drop-icon img, #menu .states-menu img {
     max-width: 32px;
     max-height: 32px;
   }
