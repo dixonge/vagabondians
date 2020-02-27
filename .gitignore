@@ -8,11 +8,3 @@ css/index-tail.css
 css/minilink.css
 css/navigation.css
 css/toc.css
-.DS_Store
-css/.DS_Store
-css/fonts/.DS_Store
-img/states/.DS_Store
-.DS_Store
-css/.DS_Store
-node_modules/markdown-it/package.json
-node_modules/markdown-it-anchor/package.json
