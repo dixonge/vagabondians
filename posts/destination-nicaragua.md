@@ -31,4 +31,4 @@ So now we're off for the next phase. After a year in Mexico w/ short side-trips 
 
 Only 17 days until departure!
 
- [1]: https://johnnyvagabond.com "Jonny Vagabond"
+ [1]: https://johnnyvagabond.com "Johnny Vagabond"
