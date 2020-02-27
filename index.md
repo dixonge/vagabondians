@@ -17,4 +17,4 @@ As of 2020 they have visited:
 - Seven countries
 - Forty-three states in the U.S.
 - Eighteen states in Mexico
-- Twenty-plus airports, from [Fairbanks, AK] to [Newark, NJ] to San Jose, Costa Rica
+- Twenty-plus airports, from Fairbanks, AK to Newark, NJ to San Jose, Costa Rica
