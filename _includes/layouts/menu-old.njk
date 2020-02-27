@@ -1,0 +1,433 @@
+<div ID="TOC" class="w-full mt-1 ml-2 text-base text-left border-2 border-solid lg:flex-1 lg:w-48 lg:py-8 lg:ml-4 lg:-mr-6">
+
+<div id="nav-menu" class="relative">
+<input type="checkbox" id="nav-menu-input" class="absolute top-0 left-0 w-full h-full opacity-0">
+<label for="nav-menu-input" class="relative block cursor-pointer pl">Menu</label>
+
+
+    <div id="nav-ca" class="relative">
+    <input type="checkbox" id="nav-ca-input" class="absolute top-0 left-0 w-full h-full opacity-0">
+    <label for="nav-ca-input" class="relative block cursor-pointer pl">Central America</label>
+
+        <div id="nav-belize" class="relative">
+        <input type="checkbox" id="nav-belize-input" class="absolute top-0 left-0 w-full h-full opacity-0">
+        <label for="nav-belize-input" class="relative block cursor-pointer pl">Belize</label>
+
+        <ol>
+        {%- for tag in collections.belize | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</div>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Costa Rica</summary>
+        <ol>
+        {%- for tag in collections.costarica | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Guatemala</summary>
+        <ol>
+        {%- for tag in collections.guatemala | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Nicaragua</summary>
+        <ol>
+        {%- for tag in collections.nicaragua | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+    </div>
+
+    <details>
+	<summary id="nav2" class="ml-2 text-lg">Mexico</summary>
+
+   		<details>
+		<summary id="nav3" class="ml-4 text-lg">Baja California Sur</summary>
+        <ol>
+        {%- for tag in collections.bajasur | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Mexico City</summary>
+        <ol>
+        {%- for tag in collections.cdmx | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Chiapas</summary>
+        <ol>
+        {%- for tag in collections.chiapas | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+        
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Guanajuato</summary>
+        <ol>
+        {%- for tag in collections.guanajuato | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Jalisco</summary>
+        <ol>
+        {%- for tag in collections.jalisco | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Queretaro</summary>
+        <ol>
+        {%- for tag in collections.queretaro | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Quintana Roo</summary>
+        <ol>
+        {%- for tag in collections.quintanaroo | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">San Luis Potosi</summary>
+        <ol>
+        {%- for tag in collections.slp | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+   		<details>
+		<summary id="nav3" class="ml-4 text-lg">Yucatan</summary>
+        <ol>
+        {%- for tag in collections.yucatan | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+   		<details>
+		<summary id="nav3" class="ml-4 text-lg">Zacatecas</summary>
+        <ol>
+        {%- for tag in collections.zacatecas | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+    </details>
+
+    <details>
+	<summary id="nav2" class="ml-2 text-lg">U.S.A.</summary>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Texas</summary>
+        <ol>
+        {%- for tag in collections.texas | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Oklahoma</summary>
+        <ol>
+        {%- for tag in collections.oklahoma | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">New Mexico</summary>
+        <ol>
+        {%- for tag in collections.newmexico | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Arizona</summary>
+        <ol>
+        {%- for tag in collections.arizona | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Utah</summary>
+        <ol>
+        {%- for tag in collections.utah | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Nevada</summary>
+        <ol>
+        {%- for tag in collections.nevada | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">California</summary>
+        <ol>
+        {%- for tag in collections.california | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Oregon</summary>
+        <ol>
+        {%- for tag in collections.oregon | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Washington</summary>
+        <ol>
+        {%- for tag in collections.washington | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Idaho</summary>
+        <ol>
+        {%- for tag in collections.idaho | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Montana</summary>
+        <ol>
+        {%- for tag in collections.montana | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Wyoming</summary>
+        <ol>
+        {%- for tag in collections.wyoming | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">North Dakota</summary>
+        <ol>
+        {%- for tag in collections.northdakota | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Minnesota</summary>
+        <ol>
+        {%- for tag in collections.minnesota | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Wisconsin</summary>
+        <ol>
+        {%- for tag in collections.wisconsin | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Illinois</summary>
+        <ol>
+        {%- for tag in collections.illinois | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Michigan</summary>
+        <ol>
+        {%- for tag in collections.michigan | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Ohio</summary>
+        <ol>
+        {%- for tag in collections.ohio | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Indiana</summary>
+        <ol>
+        {%- for tag in collections.indiana | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Illinois</summary>
+        <ol>
+        {%- for tag in collections.illinois | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Iowa</summary>
+        <ol>
+        {%- for tag in collections.iowa | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Missouri</summary>
+        <ol>
+        {%- for tag in collections.missouri | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+		<details>
+		<summary id="nav3" class="ml-4 text-lg">Kansas</summary>
+        <ol>
+        {%- for tag in collections.kansas | sort -%}
+        <li>
+        <a href="{{ tag.url }}" class="ml-6 tag"> {{ tag.data.title }} </a>
+        </li>
+        {%- endfor -%}
+        </ol>
+		</details>
+
+    </details>
+
+</div>
+
+</div>
