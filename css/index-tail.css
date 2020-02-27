@@ -56,6 +56,10 @@ div#TOC {
     margin-right: 15px;
 }
 
+#article p img, #article img, .postlist li img {
+  width: 95vw;
+}
+
 /* MENU */
 
 #menu ul {
