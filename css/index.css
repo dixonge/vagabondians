@@ -13423,11 +13423,6 @@ html {
 
 @import "toc.css";
 
-#background img {
-  max-width: auto;
-  height: 85px;
-}
-
 details ul.elv-toc-list > li {
   background-color: lightgray;
   display: table;
@@ -13542,12 +13537,9 @@ div#TOC {
 }
 
 #menu label.drop-icon, #toggle-menu span.drop-icon {
-  border-radius: 50%;
-  width: 1em;
-  height: 1em;
+  width: 2em;
+  height: 2em;
   text-align: center;
-  background-color: rgba(0, 0, 0, .125);
-  text-shadow: 0 0 0 transparent;
   color: rgba(255, 255, 255, .75);
 }
 
@@ -13569,7 +13561,7 @@ div#TOC {
 
 @media only screen and (min-width: 52em) {
   #menu {
-    flex: 1 1 20%;
+    flex: 1 1 25%;
   }
 
   #menu .main-menu {
@@ -13606,6 +13598,10 @@ div#TOC {
     z-index: 3000;
   }
 
+  #menu .states-menu {
+    margin-left: 9rem;
+  }
+
   #menu .sub-menu, 
     #menu input[type="checkbox"]:checked + .sub-menu {
     display: none;
@@ -13623,6 +13619,14 @@ div#TOC {
   #menu li:hover > input[type="checkbox"] + .sub-menu {
     display: block;
   }
+
+  #article p img, #article img {
+    width: 100%;
+  }
+}
+
+td {
+  border: 2px solid #000;
 }
 
 @media (min-width: 640px) {
