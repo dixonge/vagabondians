@@ -2,25 +2,31 @@
 layout: layouts/base.njk
 ---
 
-{% include "layouts/menu-test.njk" %}
+{% include "layouts/menu.njk" %}
 
-<div id="right" class="w-full lg:flex lg:ml-1">
-{% if eleventyNavigation and eleventyNavigation.key and eleventyNavigation.parent %}
-<nav class="breadcrumb" aria-labelledby="breadcrumb">
-  <h2 class="sr-only" id="breadcrumb">Breadcrumbs: </h2>
-  {{ collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key) | eleventyNavigationToHtml({ listClass: 'lo lo-inline', listItemClass: 'lo-c', activeListItemClass: 'breadcrumb-active' }) | safe }}
-</nav>
-{% endif %}
+<div id="right" class="w-full lg:flex lg:ml-1 lg:flex-col">
+    {% if tags %}
+  <div id="breadcrumb">
+  <nav class="float-left breadcrumb" aria-labelledby="breadcrumb">
+    <h2 class="sr-only" id="breadcrumb">Breadcrumbs: </h2>
+    <ul class="flex pl-0 list-none">
+    {% for tag in tags %}
+    <li class=""><a href="/tags/{{ tag }}" class="inline-block ml-6"  >  {{ tag }} </a> ></li>
+    {% endfor %}
+    </ul>
+  </nav>
+  </div>
+    {% endif %}
+  <div id="article" class=" lg:w-10/12">
 
-<div id="article" class="mt-1">
+    <img src="{{ image }}">
 
-<img src="{{ image }}">
+    <h1>{{ title }}</h1>
 
-<h1>{{ title }}</h1>
+    {{ content | safe }}
 
-{{ content | safe }}
+    <p><a href="{{ '/' | url }}">← Home</a></p>
 
-<p><a href="{{ '/' | url }}">← Home</a></p>
+  </div>
 
-</div>
 </div>
