@@ -1,10 +1,7 @@
 ---
-title: Home
+title: Welcome
 layout: layouts/home.njk
 ---
-
-# Welcome
-
 Shortly after Glenn's 50th birthday, he and his wife, Bryn, quit their jobs and went traveling. They spent the first year seeing the amazing sights and sounds of their home country.
 
 [Six Months in a Popup](/tags/sixmonths/)
