@@ -12,9 +12,9 @@ dsq_thread_id:
 categories:
   - News
 tags:
-  - usa
-  - texas
-  - sixmonths
+  - USA
+  - Six Months
+  - Texas
 ---
 A timely topic as today is our last day at our jobs.
 

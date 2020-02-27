@@ -8,11 +8,11 @@ authorAvatar: "/img/avatar.jpg"
 permalink: /new-mexico-again/
 image:  /img/2011/05/P1090235-Version-2.jpg
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - usa
-  - newmexico
-  - sixmonths
+  - USA
+  - Six Months
+  - New Mexico
 ---
 As we planned our trip out and selected places to stop and visit, New Mexico received several pins on the map.  Most were in the southern or western parts of the state, but I think both of us regarded New Mexico as the true start of our trip, new territory to be explored.  And then we began talking about places we had been before, and as it turns out we're not exactly strangers to the land of enchantment!
 

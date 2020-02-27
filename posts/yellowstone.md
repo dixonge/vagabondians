@@ -10,11 +10,11 @@ image:  /img/2011/09/yellowstone.jpg
 dsq_thread_id:
   - 3099321949
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - usa
-  - wyoming
-  - sixmonths
+  - USA
+  - Wyoming
+  - Six Months
 ---
 We Arrive
 

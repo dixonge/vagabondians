@@ -12,6 +12,10 @@ dsq_thread_id:
 categories:
   - Mexico
   - Tales From the Tiki Bar
+tags:
+  - Mexico
+  - Jalisco
+  - Chapala
 ---
 <span id="internal-source-marker_0.8239042330533266">LET’S START WITH SHOPPING</span>
 

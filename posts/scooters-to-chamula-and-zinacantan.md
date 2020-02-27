@@ -12,8 +12,9 @@ dsq_thread_id:
 categories:
   - Mexico
 tags:
-  - sancristobal
-  - chiapas
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 "We're taking scooters to see the neighboring Tzotzil villages of Chamula and Zinacantan, do you want to come?"  Music to my ears -- road trip!   So the next morning I was off with a local scooter shop owner's son Justin, his girlfriend Sam, and a bilingual friend.   When visiting interesting places it's always helpful to have someone who understands the language so you can get questions answered and generally understand better what you're seeing.
 

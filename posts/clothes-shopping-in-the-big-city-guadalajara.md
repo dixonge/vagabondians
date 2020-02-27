@@ -12,8 +12,10 @@ dsq_thread_id:
 categories:
   - Mexico
 tags:
-  - guadalajara
-  - mexico
+  - Mexico
+  - Jalisco
+  - Guadalajara
+
 ---
 Today was a big treat -- my neighborhood friend Yolanda took me shopping all around the city center area near the big cathedral in downtown Guadalajara.
 

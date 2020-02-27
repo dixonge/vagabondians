@@ -12,10 +12,9 @@ dsq_thread_id:
 categories:
   - News
 tags:
-  - mexico
-  - chiapas
-  - sancristobal
-  - misc
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 Today. Three years ago today was our [last day at work][1]. We celebrated with friends and co-workers, we said our goodbyes.
 

@@ -10,7 +10,8 @@ image:  /img/nicaragua.png
 categories:
   - News
 tags:
-  - nicaragua
+  - Central America
+  - Nicaragua
 ---
 At long, LONG last we've finally purchased tickets for our next destination: Nicaragua! We are so excited. We'll even get to hook up with our buddy [Wes Nations][1] again! Fun times will be had. Sober times, not so much...
 

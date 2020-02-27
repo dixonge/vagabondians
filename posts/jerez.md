@@ -9,6 +9,8 @@ image:  /img/jerez.jpg
 categories:
   - Mexico
 tags:
+  - Mexico
+  - Zacatecas
   - Jerez
 ---
 

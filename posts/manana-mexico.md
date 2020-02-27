@@ -11,6 +11,10 @@ dsq_thread_id:
   - 3769804446
 categories:
   - Mexico
+tags:
+  - Mexico
+  - Jalisco
+  - Chapala
 ---
 Just some rambling, random thoughts on our new home.
 

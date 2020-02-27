@@ -9,6 +9,8 @@ permalink: /can-check-time-like/
 image:  /img/alcatraz.jpg
 categories:
   - Mexico
+  - Jalisco
+  - Ajijic
 tags:
 format: image
 ---

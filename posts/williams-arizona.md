@@ -10,11 +10,11 @@ image:  /img/2011/06/horsies.jpg
 dsq_thread_id:
   - 3671343100
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - usa
-  - arizona
-  - sixmonths
+  - USA
+  - Six Months
+  - Arizona
 ---
 What? You've never heard of the famous Williams, Arizona?
 

@@ -8,11 +8,11 @@ authorAvatar: "/img/avatar.jpg"
 permalink: /learning-chill/
 image:  /img/2011/06/UseExtremeCaution.jpg
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - usa
-  - newmexico
-  - sixmonths
+  - USA
+  - Six Months
+  - New Mexico
 ---
 I normally think of myself as a fairly laid back person, moreso than most.  And yet even I have my moments where I get frustrated.  It isn't pretty.  Today was one of those days.
 

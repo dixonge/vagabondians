@@ -10,12 +10,12 @@ image:  /img/2011/07/napa.jpg
 dsq_thread_id:
   - 3239705075
 categories:
-  - sixmonths
+  - Six Months
   - Tales From the Tiki Bar
 tags:
-  - usa
-  - california
-  - sixmonths
+  - USA
+  - California
+  - Six Months
   - napa-valley
 ---
 Highway 29 from Napa to Calistoga will take you through a river of wine.  If each winery is a boulder, it's a rapid run of gargantuan proportions. The term "highway" is kind of a misnomer too.  It's a two-lane road winding through gorgeous wineries at about 35 mph. Sometimes it's just a long line of cars, but mostly it kept moving.

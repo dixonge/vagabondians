@@ -11,9 +11,9 @@ categories:
   - Mexico
   - Tales From the Tiki Bar
 tags:
-  - mexico
-  - chiapas
-  - sancristobal
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 I bought a special treat at the market this afternoon. They look freaky but are delicious!
 

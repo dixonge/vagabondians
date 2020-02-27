@@ -12,10 +12,8 @@ dsq_thread_id:
 categories:
   - News
 tags:
-  - costarica
-  - mexico
-  - sancristobal
-  - chiapas
+  - Central America
+  - Costa Rica
 ---
 Planning and goal-setting have never been our strong suits. The fact that we were able to get out of debt, sell all our stuff, get out of our house and save up a lot of money is almost miraculous given our track record. So I'm going to cut myself some slack when it comes to timing. The fact is that when we quit our jobs we didn't have an income in place to pay for our travels. Up until very recently approximately 99% of our travel expenses have come out of our savings. It was a plan, but perhaps not the best plan. If we were a start-up business, or a rocket, you would say that our burn rate was unsustainable.
 

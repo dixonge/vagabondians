@@ -10,7 +10,8 @@ image:  /img/back-in-texas.jpg
 categories:
   - News
 tags:
-  - texas
+  - USA
+  - Texas
 ---
 So after we left Belize we flew back to Texas. We are here visiting friends and family for a bit, and trying to finish up some projects.
 

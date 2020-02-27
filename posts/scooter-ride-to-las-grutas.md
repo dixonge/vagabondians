@@ -12,9 +12,9 @@ dsq_thread_id:
 categories:
   - Mexico
 tags:
-  - mexico
-  - sancristobal
-  - chiapas
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 <p style="text-align: center;">
   <img class="aligncenter" style="border: 0px;" title="https://farm8.staticflickr.com/7112/7777222084_6cbd5f94be_n.jpg" src="https://farm8.staticflickr.com/7112/7777222084_6cbd5f94be_n.jpg" alt="https://farm8.staticflickr.com/7112/7777222084_6cbd5f94be_n.jpg" width="320" height="240" border="0" />

@@ -9,6 +9,10 @@ permalink: /oh-mexico/
 image:  /img/mexico2.jpg
 categories:
   - Mexico
+tags:
+  - Mexico
+  - Jalisco
+  - Chapala
 ---
 ### Two Weeks in Mexico
 

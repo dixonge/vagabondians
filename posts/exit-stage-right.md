@@ -8,9 +8,9 @@ authorAvatar: "/img/avatar.jpg"
 permalink: /exit-stage-right/
 image:  /img/2011/04/exitstageright.jpg
 tags:
-  - usa
-  - texas
-  - sixmonths
+  - USA
+  - Six Months 
+  - Texas
 ---
 When we first started telling people about our plans and handing out our 'business' cards I was expecting some negative reactions.  I fully anticipated that some would question our sanity, or at least our judgment.  I expected twenty questions, or a bit of an interrogation.  And yet everyone we told seemed to genuinely be excited for us, even encouraging.  They were jealous, they thought it was a great idea, and they wished it could be them.
 

@@ -9,6 +9,10 @@ permalink: /adventure-takes-shape/
 image:  /img/2011/03/Road-Trip-2011-Part-1-Google-Maps.jpg
 categories:
   - News
+tags:
+  - USA
+  - Texas
+  - Getting Ready
 ---
 After years of dreaming and planning, we are finally starting to believe that we will really do this.  Notice has been given to our landlord and employers.  Our final round of sales is well underway.  In two weeks we will be unemployed, and a week after that we'll be homeless.  We can't wait!
 

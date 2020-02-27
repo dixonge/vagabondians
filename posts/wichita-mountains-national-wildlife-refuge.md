@@ -10,11 +10,11 @@ image:  /img/2011/04/P1080954-e1307549467362.jpg
 dsq_thread_id:
   - 3131880057
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - usa
-  - oklahoma
-  - sixmonths
+  - USA
+  - Oklahoma
+  - Six Months
 ---
 In my previous post I mentioned catching up -- well here goes!
 

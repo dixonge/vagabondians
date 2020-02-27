@@ -12,7 +12,9 @@ dsq_thread_id:
 categories:
   - Mexico
 tags:
-  - puerto escondido
+  - Mexico
+  - Oaxaca
+  - Puerto Escondido
 ---
 House sit? On a private beach? At a yoga retreat that hasn't opened yet? There are calm rock pools to swim in out of the crashing surf? The work part is to walk the dogs on the beach and feed them and the cats? OH, YEAH! So after concluding our house sit in Chapala, we made our way across the large landscape that is Mexico. Our visas were to expire before the house sit concluded, so we needed to get to Guatemala for three days so that we would have another 180 days in Mexico. On the way, we stopped in to visit the current house sitter and see our future new digs.
 

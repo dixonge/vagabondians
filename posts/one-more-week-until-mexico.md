@@ -10,7 +10,7 @@ image:  /img/luggage.jpg
 categories:
   - News
 tags:
-  - texas
+  - Texas
 ---
 What would you do if you had only one week left in the country you were born and raised in?
 

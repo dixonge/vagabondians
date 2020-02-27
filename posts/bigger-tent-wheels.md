@@ -10,10 +10,11 @@ image:  /img/2011/05/Trailer.jpg
 dsq_thread_id:
   - 3118056058
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - newmexico
-  - sixmonths
+  - USA
+  - New Mexico
+  - Six Months
 ---
 There is a saying in the RV world, especially true for those who intend to travel full-time:
 

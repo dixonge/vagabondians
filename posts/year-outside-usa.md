@@ -12,9 +12,9 @@ dsq_thread_id:
 categories:
   - News
 tags:
-  - mexico
-  - chiapas
-  - sancristobal
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
   <p class="wp-caption-text">
     Popocatépetl -- the active volcano in Puebla, Mexico, east of Mexico City

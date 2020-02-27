@@ -10,9 +10,9 @@ image:  /img/teaser-mexico.jpg
 categories:
   - Mexico
 tags:
-  - mexico
-  - chiapas
-  - palenque
+  - Mexico
+  - Chiapas
+  - Palenque
 ---
 So our new traveling friend from Greece, Loretta, wanted to go to Palenque for a couple of days. I had had a hankering to go there too. Well, let's just go! Glenn did not really want to go, so we did a girls trip and had a blast!
 

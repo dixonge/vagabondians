@@ -12,10 +12,9 @@ dsq_thread_id:
 categories:
   - News
 tags:
-  - mexico
-  - chiapas
-  - sancristobal
-  - misc
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 This guy totally gets it. He escaped -- will you?
 

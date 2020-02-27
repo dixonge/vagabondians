@@ -12,9 +12,9 @@ dsq_thread_id:
 categories:
   - Mexico
 tags:
-  - mexico
-  - chiapas
-  - sancristobal
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 <span style="font-size: 15px; font-family: Arial; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Living in San Cristobal for almost two months brings up many interesting contrasts.  When you arrive, you see one city; but as you live here, you begin to recognize another quite different city.</span>
 

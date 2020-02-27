@@ -10,6 +10,10 @@ image:  /img/SeeClearly.jpg
 categories:
   - Mexico
   - Tales From the Tiki Bar
+tags:
+  - Mexico
+  - Jalisco
+  - Chapala
 ---
 One month (well, almost two since I started this post and never finished it!) under our belts living in a foreign country, here in Chapala, Jalisco, MX.  The time has flown by.  Somehow I thought that the days would seem longer, that I would have so much time on my hands to get things done.  Not so.  Of course, I've been mentally chained to my computer way more than I planned.  Just one more email check, a little more Facebook reading, one more game.  Then it's time for the dogs' afternoon walk, dinner.... That's got to change!  Glenn is using the time here to get his internet business going.  A lot of learning, trying things, changing things, on and on.  Couldn't do much of that when we were touring the US and seeing all those national parks and whatnot.  Here in our four-month house sitting job, maybe he can get it knocked out so he can get into maintenance mode before too long.
 

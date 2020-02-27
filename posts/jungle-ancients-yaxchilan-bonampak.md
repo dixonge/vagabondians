@@ -12,9 +12,10 @@ dsq_thread_id:
 categories:
   - Mexico
 tags:
-  - chiapas
-  - yaxchilan
-  - bonampak
+  - Mexico
+  - Chiapas
+  - Yaxchilan
+  - Bonampak
 ---
 <div class="separator" style="clear: both; text-align: none;">
   <a href="https://www.flickr.com/photos/48315294@N00/8256739844/in/set-72157632203613240" target="_blank"><img id="blogsy-1357143784506.2773" class="alignnone" src="https://farm9.staticflickr.com/8219/8256739844_5cf956317e.jpg" alt="" width="500" height="375" /></a>

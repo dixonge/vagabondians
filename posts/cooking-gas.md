@@ -8,11 +8,11 @@ authorAvatar: "/img/avatar.jpg"
 permalink: /cooking-gas/
 image:  /img/2011/06/valve1.jpg
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - usa
-  - arizona
-  - sixmonths
+  - USA
+  - Six Months
+  - Arizona
 ---
 Just thought I would give an update on our gas situation.
 

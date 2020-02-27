@@ -8,12 +8,12 @@ authorAvatar: "/img/bryn.jpg"
 permalink: /tales-tiki-bar-awesome-people/
 image:  /img/2011/07/water.jpg
 categories:
-  - sixmonths
+  - Six Months
   - Tales From the Tiki Bar
 tags:
-  - usa
-  - california
-  - sixmonths
+  - USA
+  - California
+  - Six Months
 ---
 We've had an interesting couple of days with our rig.  I say rig.  It's a rig to us.  But I digress.  Already.  Anyway, we discovered a leak under the kitchen sink.  Not a big one, but big enough to do damage if we didn't get it fixed right away.  We were getting ready to pack up and move from McAlpine Lake campground to near YOSEMITE -- yay!  Glenn investigated and determined where the little leak was and that he couldn't fix it. So we had to take a side trip to the nearest Camping World since we have a comprehensive warranty.  $50 at any CW takes care of it.  Called the place and they're booked and can't fix it for a few days, so we drive there anyway to see if we can get any action or even parts to try to DIY.  The desk guy said, oh, no, you have to take it to where you bought the camper.  Albuquerque, NM?  We can't do that.  So you want to talk to the supervisor?  Um, yeah.  Enter Max Hayes, the service manager and our hero!  He just jumped in and said, come on, let's take a look, pull it in over here.  We took off the outer cover and he looked at it and proceeded to send someone out to get some parts and fixed it himself in an hour and a half.  Charge?  $20.  Even.  What?  Are you sure?  Yep, $20.  Max Hayes at the Camping World in San Martin, CA!  CHEERS!
 

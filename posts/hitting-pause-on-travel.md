@@ -8,6 +8,9 @@ authorAvatar: "/img/avatar.jpg"
 permalink: "/hitting-pause-on-travel/"
 categories:
 - News
+tags:
+  - USA
+  - Texas
 image: "/img/25years.jpg"
 ---
 

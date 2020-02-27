@@ -10,8 +10,8 @@ image:  /img/2012/01/FreedomSculpture.jpg
 categories:
   - News
 tags:
-  - usa
-  - sixmonths
+  - USA
+  - Six Months
 ---
 ![](/img/2012/01/crazylady.jpeg)
 

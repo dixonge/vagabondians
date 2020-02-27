@@ -10,9 +10,9 @@ image:  /img/we-hiked.jpg
 categories:
   - Mexico
 tags:
-  - mexico
-  - jalisco
-  - ajijic
+  - Mexico
+  - Jalisco
+  - Ajijic
 ---
 <img src="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc7/318145_10150874198573993_677503992_11798280_942954306_n.jpg" alt="" width="550" />
 

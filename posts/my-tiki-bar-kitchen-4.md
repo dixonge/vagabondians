@@ -10,6 +10,10 @@ image:  /img/teaser-mexico.jpg
 categories:
   - Mexico
   - Tales From the Tiki Bar
+tags:
+  - Mexico
+  - Jalisco
+  - Chapala
 ---
 Today let's do a couple of different but out-of-the-ordinary recipes, both easy and delicious! That was one of my requirements for Lorena, simple. She came through on most occasions since I managed to communicate that I'm no cook. So put on your apron, pop a cork (always cook with wine!), and jump right in!
 

@@ -12,9 +12,9 @@ dsq_thread_id:
 categories:
   - News
 tags:
-  - chiapas
-  - mexico
-  - sancristobal
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 image: /img/johnny-vagabond.jpg
 comments: true
 ---

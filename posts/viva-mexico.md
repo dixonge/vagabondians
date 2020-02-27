@@ -10,10 +10,9 @@ image:  /img/mexico.jpg
 categories:
   - News
 tags:
-  - usa
-  - texas
-  - sixmonths
-  - mexico
+  - USA
+  - Six Months 
+  - Texas
 ---
 It has been a wonderful few months with family and friends, but we are about to move on to Phase 2. That's the part where we leave the United States! It took a lot of research and discussion but we finally got it all set. We are going to start in Mexico!
 

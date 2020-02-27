@@ -9,8 +9,9 @@ permalink: /love-your-enemas/
 image:  /img/enema.jpg
 dsq_thread_id:
   - 3070695184
-categories:
-  - costarica
+tags:
+  - Central America
+  - Costa Rica
 ---
 Warning: this post might get a bit graphic. You probably shouldn't read it while eating. You might not want to read it at all! You know how old people can't seem to have a conversation without over-sharing about their bodily functions? Yeah, that's how this is going to go. Alternate titles for this post that I considered:
 

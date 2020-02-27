@@ -11,9 +11,9 @@ categories:
   - Mexico
 format: image
 tags:
-  - mexico
-  - chiapas
-  - sancristobal
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 Nice, rare thunderstorm here in the mountain valley.  
 [March 8, 2014]

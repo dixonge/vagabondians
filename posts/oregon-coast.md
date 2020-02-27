@@ -7,11 +7,11 @@ authorAvatar: "/img/avatar.jpg"
 permalink: /oregon-coast/
 image:  /img/2011/08/oregoncoast.jpg
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - usa
-  - oregon
-  - sixmonths
+  - USA
+  - Oregon
+  - Six Months
 ---
 On August 5th we left the California Redwoods behind and drove up the Oregon Coast. There were no national parks or big tourist draws, just nice scenery and lots of ocean views. We drove through Gold Beach and Port Orford. At Coos Bay we stayed one night at the Mill Casino RV Park and robbed that casino of $17.50 in winnings!
 

@@ -7,8 +7,9 @@ authorAvatar: "/img/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /nicaragua-in-color/
 image:  /img/nicaragua-in-color.jpg
-categories:
-  - nicaragua
+tags:
+  - Central America
+  - Nicaragua
 ---
 Vagabondians adventures in lovely, hot, muggy, friendly Nicaragua! Enjoy.
 

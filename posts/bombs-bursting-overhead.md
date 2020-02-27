@@ -10,9 +10,9 @@ image:  /img/teaser-mexico.jpg
 categories:
   - Mexico
 tags:
-  - mexico
-  - chiapas
-  - sancristobal
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 
 ![](/img/2012/12/IMG_0253.jpg)

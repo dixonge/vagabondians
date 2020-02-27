@@ -9,6 +9,9 @@ permalink: "/an-update/"
 categories:
 - News
 tags:
+  - USA
+  - Texas
+  - Getting Ready
 image: "/img/an-update.jpg"
 ---
 

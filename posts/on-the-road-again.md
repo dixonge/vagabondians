@@ -10,11 +10,8 @@ image:  /img/teaser-mexico.jpg
 categories:
   - Mexico
 tags:
-  - chapala
-  - guadalajara
+  - Mexico
   - Guanajuato
-  - leon
-  - mexico
 ---
 <img class="alignnone" title="Bus Terminal" src="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash3/600165_10151896098365437_1236436281_n.jpg" alt="" width="550" />
 

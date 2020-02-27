@@ -4,8 +4,8 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 layout: layouts/home.njk
 tags:
-  - usa
-  - alaska
+  - USA
+  - Alaska
 ---
 
 Coming soon!

@@ -8,11 +8,11 @@ authorAvatar: "/img/avatar.jpg"
 permalink: /texas-rfd/
 image:  /img/2011/11/texas.jpg
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - usa
-  - texas
-  - sixmonths
+  - USA
+  - Six Months 
+  - Texas
 ---
 Sorry, I just really, REALLY love that old Louis Prima song. 
 

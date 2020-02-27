@@ -10,8 +10,8 @@ image:  /img/price-of-free.jpg
 categories:
   - nicaragua
 tags:
-  - centralamerica
-  - nicaragua
+  - Central America
+  - Nicaragua
 ---
 When we travel, we seek adventure. But sometimes you should be careful what you ask for...
 

@@ -10,7 +10,8 @@ image:  /img/we-woke-up.jpg
 categories:
   - centralamerica
 tags:
-  - nicaragua
+  - Central America
+  - Nicaragua
 ---
 Waking up in Nicaragua is different!  Bird calls outside the window.  Lots of them -- including a polite rooster across the drainage ditch who waited until after the sun was up to crow only one series of cock-a-doodle-doos.  (The Mexican ones crow constantly for any reason, not just good-morning!)
 

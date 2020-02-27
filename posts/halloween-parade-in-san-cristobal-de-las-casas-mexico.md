@@ -10,9 +10,9 @@ image:  /img/halloween-parade.png
 categories:
   - Mexico
 tags:
-  - mexico
-  - sancristobal
-  - chiapas
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 <div id="fb-root">
 </div>

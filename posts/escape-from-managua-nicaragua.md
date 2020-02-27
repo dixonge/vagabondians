@@ -12,8 +12,9 @@ dsq_thread_id:
 categories:
   - centralamerica
 tags:
-  - managua
-  - nicaragua
+  - Central America
+  - Nicaragua
+  - Managua
 ---
 <div style="width: 1034px" class="wp-caption aligncenter">
   <a href="https://www.flickr.com/photos/48315294@N00/9240886396"><img title="The malecon in Managua, Nicaragua" src="https://farm6.static.flickr.com/5333/9240886396_92b01f58c2_b.jpg" alt="The malecon in Managua, Nicaragua" width="1024" height="768" /></a>

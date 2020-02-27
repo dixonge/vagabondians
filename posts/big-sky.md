@@ -8,10 +8,11 @@ authorAvatar: "/img/avatar.jpg"
 permalink: /big-sky/
 image:  /img/2011/09/montana.jpg
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - montana
-  - sixmonths
+  - USA
+  - Montana
+  - Six Months
 ---
 So eventually we reached our destination in St. Regis and stayed there a couple of nights, catching up on laundry, rest, reading and writing. 
 

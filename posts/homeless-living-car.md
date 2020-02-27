@@ -7,10 +7,10 @@ authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /homeless-living-car/
 image:  /img/2011/04/P1080519.jpg
-categories:
-  - usa
-  - texas
-  - sixmonths
+tags:
+  - USA
+  - Texas
+  - Six Months
 ---
 It's official, we are homeless, and living in our car!
 

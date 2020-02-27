@@ -10,9 +10,9 @@ image:  /img/redpill-1.jpg
 categories:
   - News
 tags:
-  - usa
-  - texas
-  - sixmonths
+  - USA
+  - Six Months 
+  - Texas
 ---
 Conversations with others remind us just how far out ideas of financial independence can seem to many.  Most are content with the typical structure, where the ability to pay for food and shelter is closely tied to the most recent paycheck.
 

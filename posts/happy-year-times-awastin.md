@@ -7,10 +7,10 @@ authorAvatar: "/img/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /happy-year-times-awastin/
 image:  /img/fireworks.jpeg
-categories:
-  - usa
-  - texas
-  - sixmonths
+tags:
+  - USA
+  - Texas
+  - Six Months
   - Tales-From-the-Tiki-Bar
 ---
 I read this from a Facebook friend:

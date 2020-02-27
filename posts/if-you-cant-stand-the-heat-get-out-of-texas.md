@@ -10,7 +10,7 @@ image:  /img/texas-heat.jpg
 categories:
   - News
 tags:
-  - texas
+  - Texas
 ---
 As we approach our final few days in Texas our home state has decided to give us a warm send-off. VERY warm. Today's high will reach 101-104. Friday it will hit 103-109, depending on which weather source you look at.
 

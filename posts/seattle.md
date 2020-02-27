@@ -8,11 +8,11 @@ authorAvatar: "/img/avatar.jpg"
 permalink: /seattle/
 image:  /img/2011/09/seattle.jpg
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - usa
-  - washington
-  - sixmonths
+  - USA
+  - Washington
+  - Six Months
 ---
 On August 10th we departed from the Mt. St. Helens area and drove north to Seattle. It was our first time here, and our first time to see our old friends Angie and Rand in their home. We backed in to their driveway and set up the trailer which fit perfectly behind their gate. Urban incognito.
 

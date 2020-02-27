@@ -8,11 +8,11 @@ authorAvatar: "/img/avatar.jpg"
 permalink: /grand-canyon-introduction/
 image:  /img/2011/06/ToughGuy.jpg
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - usa
-  - arizona
-  - sixmonths
+  - USA
+  - Six Months
+  - Arizona
 ---
 After leaving Winslow we drove through Flagstaff and on to Williams, Arizona. About nine miles north of I-40 is an interesting little place near Red Lake which is a combination gas station/convenience store/hostel/RV park. The RV spots are out back and are very basic, just water and electricity. But restrooms are close and very nice, and coin-operated showers are available as well. It is a nice and inexpensive place to begin our exploration of the South Rim from.
 

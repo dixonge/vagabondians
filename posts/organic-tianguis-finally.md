@@ -12,9 +12,9 @@ dsq_thread_id:
 categories:
   - Mexico
 tags:
-  - mexico
-  - chiapas
-  - sancristobal
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 What the heck is a "tianguis"? you might ask.  Well, I believe it's loosely translated as a flea market. Back in Chapala, Jalisco, MX, they had the weekly tianguis, and you could buy almost anything there. Blocks of temporary stalls lining both sides of the street, everything from shoes to clothing to jewelry to toys; live farm animals and all kinds of fresh produce; stalls where savory food was prepared before your eyes.
 

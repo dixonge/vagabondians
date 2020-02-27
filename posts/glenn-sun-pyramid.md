@@ -12,7 +12,9 @@ dsq_thread_id:
 categories:
   - Mexico
   - News
-format: image
+tags:
+  - Mexico
+  - Mexico City
 ---
 <div id="fb-root">
 </div>

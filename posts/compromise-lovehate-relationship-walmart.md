@@ -10,8 +10,8 @@ image:  /img/2011/01/india-10-06-10-wal-mart.jpg
 categories:
   - News
 tags:
-  - usa
-  - sixmonths
+  - USA
+  - Six Months
 ---
 Up until a few years ago my opinion of WalMart probably aligned with the majority here in the United States.  Sam Walton had built a better mousetrap, and the prices were good so why should anyone complain?  They provide good benefits for entry-level people and buy things from people all over the world.  Sounded like a win-win.  Lately, however, I began to develop a bit of a social conscience and paid more attention to some of the negatives.
 

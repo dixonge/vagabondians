@@ -12,7 +12,8 @@ dsq_thread_id:
 categories:
   - centralamerica
 tags:
-  - guatemala
+  - Central America
+  - Guatemala
 ---
 Since our visas for Mexico were about to expire, we had to take a little trip over the border for at least 72 hours, so we chose the nearest border, Guatemala.  We'd heard good things about Panajachel on Lake Atitlan, so that's where we decided to head.  Friends told us the best way to go is on a shuttle instead of taking a bus line as one bus line will take you to the border and then you have to pick up another, and you are left to your own devices in accomplishing the border crossing.  With the shuttle, the driver makes sure everyone gets through immigration and onto the shuttle in the next country.  Much easier to avoid all kinds of scams from people offering to "help" you.
 

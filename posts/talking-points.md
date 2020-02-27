@@ -13,9 +13,9 @@ categories:
   - News
   - Tales From the Tiki Bar
 tags:
-  - mexico
-  - chiapas
-  - sancristobal
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 ![spider](/img/2012/10/spider.jpg)
 

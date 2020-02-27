@@ -10,9 +10,9 @@ image:  /img/squinting.jpg
 categories:
   - Mexico
 tags:
-  - mexico
-  - chiapas
-  - sancristobal
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 Last night was tamale night, picking up where we had left off with good friends and making new ones. [Wes][1] picked up tamales prepared by hand, wrapped in banana leaves, traditional for this area. Some had pork, the rest were a mystery since he didn't quite understand what the abuelita (little grandmother) told him. Some had molé sauce (that's "mo-lay," not the little blind rodent) with shredded chicken, others remained unidentified. All had a prune in the center, and all were delicious! We washed them down with cheap wine and ghost stories while enjoying the cool breeze and wonderful view from Star's rooftop patio above her book store. A few of us wandered off around eleven, others stayed out till later.
 

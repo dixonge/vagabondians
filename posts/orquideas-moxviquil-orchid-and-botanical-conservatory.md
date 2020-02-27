@@ -12,7 +12,9 @@ dsq_thread_id:
 categories:
   - Mexico
 tags:
-  - chiapas
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 <img class="alignnone" style="border: 0px;" src="https://farm9.staticflickr.com/8305/8000275036_1e013ff3b1_z.jpg" alt="Tiny orchids" width="640" height="480" border="0" />
 

@@ -10,10 +10,9 @@ image:  /img/shenzhen-night.jpg
 categories:
   - News
 tags:
-  - guatemala
-  - mexico
-  - sancristobal
-  - chiapas
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 ![SanCris Guat](/img/2012/08/SanCris-Guat.jpg")
 

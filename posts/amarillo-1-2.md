@@ -8,10 +8,11 @@ authorAvatar: "/img/avatar.jpg"
 permalink: /amarillo-1-2/
 image:  /img/2011/06/Guppy.jpg
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - sixmonths
-  - texas
+  - USA
+  - Six Months
+  - Texas
 ---
 After escaping the rain in Lawton and the scary lady with a hammer, we stopped for a couple of days of work in Amarillo at the La Quinta East. I wrote stuff, Bryn wrote stuff.
 

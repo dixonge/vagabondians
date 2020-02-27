@@ -10,6 +10,10 @@ image:  /img/chicken-feet.jpg
 categories:
   - Mexico
   - Tales From the Tiki Bar
+tags:
+  - Mexico
+  - Jalisco
+  - Chapala
 ---
 THE FOOD IS DIFFERENT HERE
 

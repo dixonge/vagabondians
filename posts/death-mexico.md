@@ -12,9 +12,9 @@ dsq_thread_id:
 categories:
   - Mexico
 tags:
-  - mexico
-  - chiapas
-  - sancristobal
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 <span style="line-height: 1.714285714; font-size: 1rem;">Mexican traditional celebration of the Day of the Dead is coming up! <a title="Day of the Dead altar 1" href="https://www.flickr.com/photos/48315294@N00/10578783206/" rel=""><img class="aligncenter" title="Day of the Dead altar 1" src="https://farm3.staticflickr.com/2822/10578783206_48842d9ee9.jpg" alt="Day of the Dead altar 1" width="500" height="375" /></a></span>
 

@@ -9,6 +9,10 @@ permalink: /feel-earth-move-feet/
 image:  /img/quakezone1.gif
 categories:
   - Mexico
+tags:
+  - Mexico
+  - Jalisco
+  - Chapala
 ---
 I guess it was bound to happen eventually, but I'm a little surprised as to just how totally unprepared I was for my first earthquake. Sure, earthquakes are always a surprise, I get that. But it was nothing like what I thought it would be. I expected I would hear rumbling and rattling and feel lots of vibrations, like riding the old Texas Giant at Six Flags in Arlington (before the recent renovation). Instead, it was nothing like that.
 

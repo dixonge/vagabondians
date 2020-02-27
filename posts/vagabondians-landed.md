@@ -9,6 +9,8 @@ permalink: /vagabondians-landed/
 categories:
   - Mexico
 tags:
+  - USA
+  - Texas
 latitude: 20.3001977
 longitude: -103.2619347
 image: /img/garden-view.jpg

@@ -10,9 +10,9 @@ image:  /img/trail-1.jpg
 categories:
   - News
 tags:
-  - usa
-  - texas
-  - sixmonths
+  - USA
+  - Six Months 
+  - Texas
 ---
 [The title of this post is the correct quote from Lao-Tse's "Tao te Ching" -- and in case you are wondering, a 'li' is a unit of Chinese measurement that is roughly equivalent to 1/3 of a mile.]
 

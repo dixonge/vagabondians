@@ -12,7 +12,9 @@ dsq_thread_id:
 categories:
   - Mexico
 tags:
-  - san miguel de allende
+  - Mexico
+  - Queretaro
+  - San Miguel de Allende
 ---
 We arrived safely here after a rather hair-raising bus ride in a very luxurious coach.  Our driver was apparently in rather a hurry to get here on the winding country highway. Glenn was bothered by this a lot more than Bryn was.
 

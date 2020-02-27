@@ -8,12 +8,12 @@ authorAvatar: "/img/bryn.jpg"
 permalink: /tales-tiki-bar-1/
 image:  /img/2011/04/P1080954.jpg
 categories:
-  - sixmonths
+  - Six Months
   - Tales From the Tiki Bar
 tags:
-  - usa
-  - oklahoma
-  - sixmonths
+  - USA
+  - Oklahoma
+  - Six Months
 ---
 Cheers, friends! Everyone got your umbrella drink? Excellent!
 

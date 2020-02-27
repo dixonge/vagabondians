@@ -8,11 +8,11 @@ authorAvatar: "/img/avatar.jpg"
 permalink: /wisconsin-dells/
 image:  /img/2011/11/Wisconsin.jpg
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - usa
-  - wisconsin
-  - sixmonths
+  - USA
+  - Wisconsin
+  - Six Months
 ---
 Wisconsin had some very interesting things to see, like highway signs, and upside-down buildings...
 

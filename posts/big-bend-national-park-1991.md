@@ -9,6 +9,9 @@ permalink: /big-bend-national-park-1991/
 categories:
   - Miscellaneous
 tags:
+  - USA
+  - Texas
+  - Big Bend
 image: /img/bigbend.jpg
 ---
 Here's some old photos from one of our first big adventures. In 1991 we drove to Austin where Bryn took her state test for Court Reporting. Right after the test, we drove west to Big Bend National Park. We arrived at the Chisos Basin camp around two in the morning, having dodged wildlife for hours. We found no open spaces, so we grabbed an empty spot in the group camping area. We awoke to a frost-covered tent and a park ranger staring down at us through the tent mesh. He informed us that we needed to find another spot! We didn't argue.

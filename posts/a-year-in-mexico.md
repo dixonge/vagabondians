@@ -9,7 +9,8 @@ image:  /img/year-in-mexico.jpeg
 categories:
   - Mexico
 tags:
-  - posts
+  - USA
+  - Texas
 ---
 ![](/img/2013/02/La-Pochota.jpg)
 

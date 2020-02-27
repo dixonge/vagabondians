@@ -10,8 +10,8 @@ image:  /img/2011/02/P1070850.jpg
 categories:
   - News
 tags:
-  - usa
-  - sixmonths
+  - USA
+  - Six Months
 ---
 Wow.  Exciting stuff, huh?  But it's something we should probably think about more often in general.  People will sleep on beds for years and wonder why they can't stay asleep or why they wake up sore and stiff!  The whole bed industry is insane and is a topic for another day, or maybe another blog!
 

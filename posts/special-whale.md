@@ -8,11 +8,11 @@ authorAvatar: "/img/avatar.jpg"
 permalink: /special-whale/
 image:  /img/2011/08/whale.jpg
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - usa
-  - california
-  - sixmonths
+  - USA
+  - California
+  - Six Months
 ---
 On August the 2nd, after bidding a fond farewell to the <a href="https://ancientredwoods.net/" target="_blank">Ancient Redwoods RV Park</a>, we headed north along the coast to our next destination. We had reservations at the Golden Bear RV Park near Klamath, California. We were also hoping to see a whale which had been hanging out in the Klamath River!
 

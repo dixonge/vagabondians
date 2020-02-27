@@ -12,10 +12,9 @@ dsq_thread_id:
 categories:
   - Mexico
 tags:
-  - antigua
-  - guatemala
-  - mexico
-  - puerto escondido
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 Random thought of the day:
 

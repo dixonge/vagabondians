@@ -9,10 +9,10 @@ permalink: /leopold-center-baraboo-wisconsin/
 image:  /img/leopold.jpg
 dsq_thread_id:
   - 3097777472
-categories:
-  - usa
-  - wisconsin
-  - sixmonths
+tags:
+  - USA
+  - Wisconsin
+  - Six Months
 ---
 Bryn has always loved nature and wildlife. As a child, she thought nothing of picking up a skunk by the tail and bringing it home for a pet. (Strangely enough, her mother let her keep it!) In high school and college she developed an interest in herpetology and had quite a succession of snakes as pets. It was quite natural, therefore, that she fell in love with her first copy of Sand County Almanac.
 

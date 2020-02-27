@@ -7,7 +7,9 @@ authorAvatar: "/img/avatar.jpg"
 permalink: /hitting-road/
 image:  "/img/2011/04/LongTimeScreenCap.jpg"
 tags:
-  - posts
+  - USA
+  - Texas
+  - Six Months
 categories:
   - News
 ---

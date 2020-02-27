@@ -8,11 +8,11 @@ authorAvatar: "/img/avatar.jpg"
 permalink: /communications-road/
 image:  /img/SANY0001.jpg
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - usa
-  - texas
-  - bigbend
+  - USA
+  - Texas
+  - Big Bend
 ---
 One thing that I have spent a LOT of time on is research for how to stay connected while traveling.  The connection between us and the internet is key, and not fully resolved.  Lately I've been leaning toward using a satellite dish on a tripod since we are planning on doing a lot of 'boondocking.'  It's really a conundrum.  We want to go where there aren't very many people, yet we want to use the internet which isn't readily available in sparsely populated areas.  Last December we went camping in Big Bend National Park and spent a few days with ZERO cell phone connection.  No voice, no data.  Lots of RV'ers will tell you that they rarely go without a cellular data connection, but they don't go where we're going.  Fortunately a satellite data plan just needs a view of the southern sky.  Yes, this can be an issue if there are a lot of trees around, but then trees block the sun from solar panels so we'll be doing some interesting positioning in general.
 

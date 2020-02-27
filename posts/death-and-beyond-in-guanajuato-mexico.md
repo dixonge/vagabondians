@@ -12,6 +12,7 @@ dsq_thread_id:
 categories:
   - Mexico
 tags:
+  - Mexico
   - Guanajuato
 ---
 So Wednesday morning, July 4, we awoke early and went to breakfast at Casa Ofelia. We appeared to be the first customers of the day. Soon after we sat down, a very small indigenous man in white traditional garb with a guitar on his back came in to pray and bless himself at the little altar of Mary just inside the front door. Then he began to play and sing *Besa Me Mucho* at us. We were also his first customers of the day. Remembering what my Mexicana friend Tere had told me about the importance of the first customer and its influence on the way the day goes, we gave him a few pesos. The next customers rebuffed him and he left after kissing a few more pictures on the wall.

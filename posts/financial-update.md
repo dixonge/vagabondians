@@ -10,8 +10,8 @@ image:  /img/2011/09/money.jpg
 categories:
   - News
 tags:
-  - usa
-  - sixmonths
+  - USA
+  - Six Months
 ---
 Unlike some bloggers, we don't normally share a lot of details about our financial situation. Most who do are usually testing out various money-making schemes and then providing the details to their readers. And most of their readers are there in the first place because they want to learn techniques that will help them pay for their future travels. We're not that kind of blog.
 

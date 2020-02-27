@@ -8,11 +8,11 @@ authorAvatar: "/img/bryn.jpg"
 permalink: /tails-tiki-bar/
 image:  /img/2011/05/Wolf1.jpg
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - usa
-  - newmexico
-  - sixmonths
+  - USA
+  - Six Months
+  - New Mexico
 ---
 [written 5/25/2011]
 

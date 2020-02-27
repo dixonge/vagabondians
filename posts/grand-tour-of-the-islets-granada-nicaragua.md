@@ -9,8 +9,9 @@ permalink: /grand-tour-of-the-islets-granada-nicaragua/
 image:  /img/isletas.jpg
 dsq_thread_id:
   - 3109594693
-categories:
-  - nicaragua
+tags:
+  - Central America
+  - Nicaragua
 ---
 When the Mombacho Volcano erupted thousands of years ago, it threw huge rocks into Lake Nicaragua forming 365 islets, very large to very small.
 

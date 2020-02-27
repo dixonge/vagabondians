@@ -10,7 +10,8 @@ image:  /img/teaser-mexico.jpg
 categories:
   - Mexico
 tags:
-  - mexico city
+  - Mexico
+  - Mexico city
 ---
 We visited Mexico City in 2008 and it's an exciting city with lots to see and do, so we had to revisit while we were on our way, eventually, to Guatemala.  Thanks to <a href="https://tripadvisor.com" target="_blank">Trip Advisor</a> we found a great hotel in a great location for little money.  From the outside it looks like a flophouse between a newspaper company and an Oxxo convenience store, but it's actually a nice retro hotel on the inside, complete with an old crank-handle-and-cage elevator with a security guard running it 24 hours a day.  Our room had a nice view of the city and a kitchenette for around $40 a night.
 

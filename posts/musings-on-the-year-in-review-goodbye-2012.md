@@ -11,9 +11,8 @@ categories:
   - News
 tags:
   - Mexico
-  - sancristobal
-  - chiapas
-  - belize
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 ![Salsa with me!](/img/2013/01/2012-In-Review.jpg)
 

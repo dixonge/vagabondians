@@ -10,11 +10,11 @@ image:  /img/2011/08/BryceCanyon.jpg
 dsq_thread_id:
   - 3519443750
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - usa
-  - sixmonths
-  - utah
+  - USA
+  - Six Months
+  - Utah
 ---
 When we finally left the North Rim area of the Grand Canyon, we drove off of the Kaibab Plateau and over to Utah. We stopped for the night in Hatch in a nice little campground. Good prices and the most amazing bathrooms of the trip so far!
 

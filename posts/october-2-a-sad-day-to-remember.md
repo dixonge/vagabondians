@@ -10,9 +10,9 @@ image:  /img/teaser-mexico.jpg
 categories:
   - Mexico
 tags:
-  - mexico
-  - chiapas
-  - cdmx
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 <span style="color: #333333; font-family: Verdana; font-size: 12px; line-height: 16.78333282470703px; text-align: left;"><span style="color: #333333; font-family: Verdana; font-size: 12px; line-height: 16.78333282470703px; text-align: left;">2 October protest marches remembering the "1968 massacre, a day on which Mexican soldiers violently repressed a rally organized by the student-led National Strike Commission (CNH) in the Plaza de las Tres Culturas in the Tlatelolco district of Mexico City.  The exact number of victims left by the massacre is still unknown, although social organizations estimate that around 300 people were killed."</span> </span>
 

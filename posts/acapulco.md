@@ -10,7 +10,9 @@ image:  /img/acapulco.jpg
 categories:
   - Mexico
 tags:
-  - acapulco
+  - Mexico
+  - Guerrero
+  - Acapulco
 ---
 Acapulco has always held an allure for me.  My parents honeymooned there in the early '50s.  I had an image of the place, expectations.
 

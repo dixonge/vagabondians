@@ -8,12 +8,12 @@ authorAvatar: "/img/bryn.jpg"
 permalink: /tales-tiki-bar-2/
 image:  /img/2011/05/P1090389-Version-2.jpg
 categories:
-  - sixmonths
+  - Six Months
   - Tales From the Tiki Bar
 tags:
-  - usa
-  - newmexico
-  - sixmonths
+  - USA
+  - Six Months
+  - New Mexico
 ---
 This one’s for the girls.  Get your umbrella drink and come on over here; it’s kinda personal.
 

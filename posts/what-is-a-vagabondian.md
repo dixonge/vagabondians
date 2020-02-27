@@ -12,9 +12,9 @@ dsq_thread_id:
 categories:
   - News
 tags:
-  - usa
-  - texas
-  - sixmonths
+  - USA
+  - Six Months 
+  - Texas
 ---
 I think that is a fair question.  To be honest, just saying it out loud &#8212; "What is a Vagabondian?" makes me laugh.  It is a silly word, is it not?  But do we even know what a Vagabond is?  To some it is a poor tramp, a hobo.  To others it is someone who wanders and travels.  And to be honest, I had something closer to this last meaning in mind when I coined the word.  OK, so a few people have used it before me, but not in a web site name. 
 

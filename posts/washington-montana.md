@@ -8,13 +8,13 @@ authorAvatar: "/img/avatar.jpg"
 permalink: /washington-montana/
 image:  /img/2011/09/WashMont.jpg
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - usa
-  - washington
-  - idaho
-  - montana
-  - sixmonths
+  - USA
+  - Washington
+  - Six Months
+  - Idaho
+  - Montana
 ---
 We finally bid farewell to Rand and Angie and packed up for our departure from Seattle. Before we actually hit the road, we borrowed some caulk from the garage and recaulked the main seam down the middle of the roof. It had developed a small hole and water tended to puddle right near this hole. Fortunately we have experienced almost no rain on the entire trip so far!
 

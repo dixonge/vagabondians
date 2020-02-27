@@ -13,9 +13,9 @@ categories:
   - Mexico
   - Tales From the Tiki Bar
 tags:
-  - chapala
-  - jalisco
-  - mexico
+  - Mexico
+  - Jalisco
+  - Chapala
 ---
 I know, tiki is so South Pacific and we’re in Mexico -- but it’s also retro American kitsch that evokes silliness and warmth and friends having cocktails at sunset. So grab your tiki mug and just go with me!
 

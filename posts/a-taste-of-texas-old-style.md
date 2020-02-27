@@ -10,7 +10,8 @@ image:  /img/2013/03/DFW.jpg
 categories:
   - News
 tags:
-  - texas
+  - USA
+  - Texas
 ---
 
 We won't be back in Texas for very long, but one thing we want to do a bit differently this visit is to see some sights, things we haven't seen before, in spite of living here for most of our lives. In other words,we're going to visit Texas like a tourist!

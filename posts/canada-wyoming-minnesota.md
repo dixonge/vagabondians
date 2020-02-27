@@ -8,13 +8,13 @@ authorAvatar: "/img/avatar.jpg"
 permalink: /canada-wyoming-minnesota/
 image:  /img/2011/10/WY2MN.jpg
 categories:
-  - sixmonths
+  - Six Months
 tags:
-  - usa
-  - wyoming
-  - northdakota
-  - minnesota
-  - sixmonths
+  - USA
+  - Wyoming
+  - Six Months
+  - North Dakota
+  - Minnesota
 ---
 On September 2, we finally left Wyoming and headed for northern Minnesota. The first night we made it as far as eastern Montana. On the way, we passed what is possibly the funniest high school mascot we've ever seen!
 

@@ -10,12 +10,12 @@ image:  /img/2011/05/roxi.jpg
 dsq_thread_id:
   - 3178269708
 categories:
-  - sixmonths
+  - Six Months
   - Tales From the Tiki Bar
 tags:
-  - usa
-  - newmexico
-  - sixmonths
+  - USA
+  - Six Months
+  - New Mexico
 ---
 The Tiki BarV is open!  Roxi is an excellent little proprietress serving up her special concoctions and showing off Speedy the snake to unsuspecting patrons.  She loves the traveling life and adventure.  Come see us if we come near your neck of the woods!
 

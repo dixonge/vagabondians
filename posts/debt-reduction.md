@@ -10,8 +10,8 @@ image:  /img/debt-1.jpg
 categories:
   - News
 tags:
-  - usa
-  - sixmonths
+  - USA
+  - Six Months
 ---
 Many people seem to go their whole lives without once thinking about actually getting *out* of debt. But even if you do want to, it can be difficult. For most, the problem seems so insurmountable that they never try. And yet many have done so, and most use a simple technique usually referred to as the 'debt snowball.'
 

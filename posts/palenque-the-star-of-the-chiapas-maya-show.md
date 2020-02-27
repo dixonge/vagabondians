@@ -10,9 +10,9 @@ image:  /img/palenque-star.jpg
 categories:
   - Mexico
 tags:
-  - mexico
-  - chiapas
-  - palenque
+  - Mexico
+  - Chiapas
+  - Palenque
 ---
 <div class="separator" style="clear: both; text-align: none;">
   <a href="https://www.flickr.com/photos/48315294@N00/8318476989/in/set-72157632374614284" target="_blank"><img id="blogsy-1357837589276.013" class="alignnone" src="https://farm9.staticflickr.com/8077/8318476989_4793aa4d49.jpg" alt="" width="500" height="346" /></a>

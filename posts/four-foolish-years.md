@@ -12,9 +12,9 @@ dsq_thread_id:
 categories:
   - News
 tags:
-  - mexico
-  - chiapas
-  - sancristobal
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 On this day:
 

@@ -12,9 +12,9 @@ dsq_thread_id:
 categories:
   - Mexico
 tags:
-  - mexico
-  - chiapas
-  - sancristobal
+  - Mexico
+  - Chiapas
+  - San Cristobal de las Casas
 ---
 Initially I was just going to write something about cars, but I have also been contemplating a broader theme regarding Mexico, that of 'good enough;' so I guess I will go ahead and make this post the first part of that broader theme. And now for the car part...
 

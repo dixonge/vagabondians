@@ -10,8 +10,8 @@ image:  /img/awakening.jpg
 categories:
   - Mexico
 tags:
-  - mexico
-  - guanajuato
+  - Mexico
+  - Guanajuato
 ---
 Ahhh, to wake up in a new place with new sounds and new air -- refreshing!
 

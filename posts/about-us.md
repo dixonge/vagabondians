@@ -1,6 +1,7 @@
 ---
 title: "About Us"
 date: "2010-03-01"
+permalink: /about-us/
 layout: layouts/home.njk
 ---
 ![](/img/25years.jpg)
