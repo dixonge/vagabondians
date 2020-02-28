@@ -5,6 +5,7 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const markdownItImplicitFigures = require("markdown-it-anchor");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
@@ -41,10 +42,17 @@ module.exports = function(eleventyConfig) {
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
   let markdownItAnchor = require("markdown-it-anchor");
+  let markdownItImplicitFigures = require("markdown-it-implicit-figures");
   let options = {
     html: true,
     breaks: true,
     linkify: true
+  };
+  let figopts = {
+    dataType: false,  // <figure data-type="image">, default: false
+    figcaption: true,  // <figcaption>alternative text</figcaption>, default: false
+    tabindex: false, // <figure tabindex="1+n">..., default: false
+    link: false // <a href="img.png"><img src="img.png"></a>, default: false
   };
   let opts = {
     permalink: true,
@@ -56,7 +64,11 @@ module.exports = function(eleventyConfig) {
     .use(markdownItAnchor, opts)
   );
 
-  eleventyConfig.setBrowserSyncConfig({
+  let markdownLib = markdownIt(options).use(markdownItImplicitFigures, figopts);
+    
+    eleventyConfig.setLibrary("md", markdownLib);
+
+    eleventyConfig.setBrowserSyncConfig({
     callbacks: {
       ready: function(err, browserSync) {
         const content_404 = fs.readFileSync('_site/404.html');
