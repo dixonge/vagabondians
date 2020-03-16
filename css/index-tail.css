@@ -1,4 +1,13 @@
-/* @import "tailwindcss/base"; */
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+@import "breadcrumb.css";
+@import "details-oneway.css";
+@import "external-links.css";
+@import "minilink.css";
+@import "navigation.css";
+@import "toc.css";
 
 h1 {
   @apply text-2xl;
@@ -10,7 +19,7 @@ h3 {
   @apply text-lg;
 }
 a {
-  @apply text-blue-600 underline;
+  @apply text-blue-800 underline;
 }
 
 @font-face {
@@ -30,17 +39,6 @@ a {
 html {
   font-family: 'Tiresias Infofont';
 }
-
-@import "tailwindcss/components";
-
-@import "tailwindcss/utilities";
-
-@import "breadcrumb.css";
-@import "details-oneway.css";
-@import "external-links.css";
-@import "minilink.css";
-@import "navigation.css";
-@import "toc.css";
 
 details ul.elv-toc-list > li {
     background-color: lightgray;
@@ -94,7 +92,7 @@ div#TOC {
   }
   
   #menu .sub-menu {
-    background-color: #444;
+    background-color: rgb(3, 85, 113);
     border-width: 1px 1px 0;
     margin: 0 1em;
   }
@@ -114,7 +112,7 @@ div#TOC {
   
   #menu, 
   #toggle-menu {
-    background-color: #09c;
+    background-color: rgb(3, 85, 113);
   }
   
   #toggle-menu, 
