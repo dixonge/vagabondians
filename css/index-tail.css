@@ -18,12 +18,14 @@ a {
   font-weight: normal | bold | bolder | lighter | 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900;
   font-style: normal;
   src: url(/css/fonts/Tiresias_Infofont-webfont.woff) format("woff");
+  font-display: swap;
 }
 @font-face {
   font-family: Tiresias Infofont Italic;
   font-weight: normal | bold | bolder | lighter | 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900;
   font-style: italic;
   src: url(/css/fonts/Tiresias_Infofont-Italic-webfont.woff) format("woff");
+  font-display: swap;
 }
 html {
   font-family: 'Tiresias Infofont';
