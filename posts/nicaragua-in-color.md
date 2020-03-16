@@ -13,6 +13,4 @@ tags:
 ---
 Vagabondians adventures in lovely, hot, muggy, friendly Nicaragua! Enjoy.
 
-&nbsp;
-
 [slickr-flickr tag="granada"]
