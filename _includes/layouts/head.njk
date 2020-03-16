@@ -8,4 +8,213 @@
     <script>
 		{%- include "details-force-state.js" -%}
 		</script>
+    <style type="text/css">
+      .bg-center { background-position: center;}.border-solid{ border-style: solid;}.border-2{  border-width: 2px;}.clearfix:after{
+  content: "";
+  display: table;
+  clear: both;
+}
+.h-32{
+  height: 8rem;
+}
+.h-auto{
+  height: auto;
+}.my-0{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.mt-1{
+  margin-top: 0.25rem;
+}.mt-10{
+  margin-top: 2.5rem;
+}
+.mr-auto{
+  margin-right: auto;
+}
+.ml-auto{
+  margin-left: auto;
+}
+.overflow-hidden{
+  overflow: hidden;
+}.absolute{
+  position: absolute;
+}
+.relative{
+  position: relative;
+}.text-left{
+  text-align: left;
+}
+.text-white{
+  color: #fff;
+}
+.text-base{
+  font-size: 1rem;
+}.w-full{
+  width: 100%;
+}
+.w-screen{
+  width: 100vw;
+}
+.z-0{
+  z-index: 0;
+}
+.z-10{
+  z-index: 10;
+}h1 {
+  font-size: 1.5rem;
+}
+h3 {
+  font-size: 1.125rem;
+}
+a {
+  color: #2c5282;
+  text-decoration: underline;
+}html {
+  font-family: 'Tiresias Infofont';
+}#article p img, #article img, .postlist li img {
+  width: 95vw;
+}#menu ul {
+  margin: 0;
+  padding: 0;
+}
+#menu .main-menu {
+  display: none;
+}#menu input[type="checkbox"], 
+  #menu ul span.drop-icon {
+  display: none;
+}
+#menu li, 
+  #toggle-menu, 
+  #menu .sub-menu {
+  border-style: solid;
+  border-color: rgba(0, 0, 0, .05);
+}
+#menu li, 
+  #toggle-menu {
+  border-width: 0 0 1px;
+}
+#menu .sub-menu {
+  background-color: rgb(3, 85, 113);
+  border-width: 1px 1px 0;
+  margin: 0 1em;
+}#menu li, 
+  #toggle-menu, 
+  #menu a {
+  position: relative;
+  display: block;
+  color: white;
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, .125);
+}
+#menu, 
+  #toggle-menu {
+  background-color: rgb(3, 85, 113);
+}
+#toggle-menu, 
+  #menu a {
+  padding: 1em 1.5em;
+}
+#menu a {
+  transition: all .125s ease-in-out;
+  -webkit-transition: all .125s ease-in-out;
+}#menu .sub-menu {
+  display: none;
+}#toggle-menu .drop-icon, 
+  #menu li label.drop-icon {
+  position: absolute;
+  right: 1.5em;
+  top: 1.25em;
+}#menu label.drop-icon, #toggle-menu span.drop-icon {
+  width: 2em;
+  height: 2em;
+  text-align: center;
+  color: rgba(255, 255, 255, .75);
+}
+#menu .drop-icon {
+  line-height: 1;
+}@media only screen and (min-width: 52em) {
+  #menu {
+    flex: 1 1 25%;
+  }
+  #menu .main-menu {
+    display: block;
+  }
+  #toggle-menu, 
+    #menu label.drop-icon {
+    display: none;
+  }
+  #menu ul span.drop-icon {
+    display: inline-block;
+    float: right;
+  }
+  #menu li {
+    float: left;
+    border-width: 0 1px 0 0;
+    width: 100%;
+  } #menu .sub-menu {
+    border-width: 0;
+    margin: 0;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 15em;
+    z-index: 3000;
+  }
+  #menu .states-menu {
+    margin-left: 9rem;
+  }
+  #menu .sub-menu, 
+    #menu input[type="checkbox"]:checked + .sub-menu {
+    display: none;
+  }
+#article p img, #article img {
+    width: 100%;
+  }
+}
+ .lg\:flex{
+    display: flex;
+  }
+  .lg\:flex-col{
+    flex-direction: column;
+  }
+   .lg\:mt-0{
+    margin-top: 0;
+  }
+  .lg\:ml-1{
+    margin-left: 0.25rem;
+  }
+  .lg\:ml-4{
+    margin-left: 1rem;
+  }
+  .lg\:ml-32{
+    margin-left: 8rem;
+  }
+  .lg\:mr-auto{
+    margin-right: auto;
+  }
+  .lg\:ml-auto{
+    margin-left: auto;
+  }.lg\:max-w-lg{
+    max-width: 32rem;
+  } .lg\:text-left{
+    text-align: left;
+  }
+  .lg\:text-center{
+    text-align: center;
+  }
+  .lg\:w-48{
+    width: 12rem;
+  }
+  .lg\:w-9\/12{
+    width: 75%;
+  }
+  .lg\:w-10\/12{
+    width: 83.333333%;
+  }
+  .lg\:w-11\/12{
+    width: 91.666667%;
+  }
+    </style>
+<link rel="preload" href="{{ '/css/index.css' | url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="{{ '/css/index.css' | url }}"></noscript>
+
   </head>
