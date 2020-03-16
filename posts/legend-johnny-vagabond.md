@@ -23,7 +23,7 @@ We first met [Wes Nations][1] our second night in San Cristóbal de las Casas, C
 Jon and Wes had just returned from a [crazy trip][3] to the [Pacific coast of Mexico][4] in the state of Chiapas. Between that trip and a [previous one][5], in which they had perused the market of a small, nearby town[ looking for rat soup][6], they had wonderful stories to tell. And by wonderful I don't mean stories of hanging out at the pool of a pricey resort. I mean 'real' stories. Stories that involve strange food, foreign languages, storms, getting lost, and maybe the occasional hallucination. Fear. Adventure. They had everything we wanted.
 
 <div id="attachment_4039" class="wp-caption alignright">
-  <a href="/img/2014/11/That-Wes-is-SO-Gonzo.jpg"><img src="/img/2014/11/That-Wes-is-SO-Gonzo.jpg" alt="That Wes is SO Gonzo" /></a>
+  <a href="/img/2014/11/That-Wes-is-SO-Gonzo.jpg"><img alt="" src="/img/2014/11/That-Wes-is-SO-Gonzo.jpg" alt="That Wes is SO Gonzo" /></a>
   <p class="wp-caption-text">
     That Wes is SO Gonzo
   </p>
@@ -40,7 +40,7 @@ One of my favorite stories that Wes shared was about a time when he was in Vietn
 I chuckle every time I think about that scene. Except now the laughter quickly turns to tears.
 
 <div id="attachment_4042" class="wp-caption alignright">
-  <a href="/img/2014/11/WesAndGlennAndOthers.jpg"><img src="/img/2014/11/WesAndGlennAndOthers.jpg" alt="WesAndGlennAndOthers" /></a>
+  <a href="/img/2014/11/WesAndGlennAndOthers.jpg"><img alt="" src="/img/2014/11/WesAndGlennAndOthers.jpg" alt="WesAndGlennAndOthers" /></a>
 
   <p class="wp-caption-text">
     Wes' favorite restaurant in San Cristobal

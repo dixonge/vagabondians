@@ -21,7 +21,7 @@ After downsizing in San Cristobal de las Casas, Chiapas, Mexico, packing up our 
 The village of Ajijic (Ah-hee-HEE) is home to thousands of people from America, Canada, and any European country you can name, and probably some you can't. We really want to beef up our Spanish, but so much English is spoken here, that it makes motivation to insist on Spanish more difficult. We try to deal with Mexican vegetable stands and stores instead of Walmart whenever we can and try to be understood in our still-sad Spanglish. The next class at the Lake Chapala Society starts in December or January, and we plan to be there!
 
 <div id="attachment_4024" class="wp-caption alignright">
-  <img src="../img/2014/11/sunrise.jpg" alt="sunrise" />
+  <img alt="" src="../img/2014/11/sunrise.jpg" alt="sunrise" />
 
   <p class="wp-caption-text">
     Sunrise from the bedroom window

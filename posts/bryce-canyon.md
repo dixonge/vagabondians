@@ -62,4 +62,4 @@ After surviving that trail, we drove down to the end of the park and hiked the B
 
 Bryce Canyon was great, possibly Glenn's favorite location so far! Below is a slideshow of all 150 or so images we didn't delete (a couple hundred didn't make the cut). Watch here, or click any image to see them fullscreen on Flickr.
 
-<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/vagabondians/albums/72157691556337583" title="Bryce Canyon - 2011"><img src="https://live.staticflickr.com/65535/47112793244_2527208685_c.jpg" width="800" height="600" alt="Bryce Canyon - 2011"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/vagabondians/albums/72157691556337583" title="Bryce Canyon - 2011"><img alt="" src="https://live.staticflickr.com/65535/47112793244_2527208685_c.jpg" width="800" height="600" alt="Bryce Canyon - 2011"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

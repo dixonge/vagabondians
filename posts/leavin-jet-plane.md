@@ -56,7 +56,7 @@ In closing, immigration was quick and easy, customs not so much. We got ‘selec
 
 More initial thoughts on Mexico coming soon! Here are the first set of photos:
 
-<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/vagabondians/albums/72157710353985661" title="Flight Into Mexico - 2012"><img src="https://live.staticflickr.com/65535/48553166441_2130ec77da_b.jpg" width="720" height="960" alt="Flight Into Mexico - 2012"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/vagabondians/albums/72157710353985661" title="Flight Into Mexico - 2012"><img alt="" src="https://live.staticflickr.com/65535/48553166441_2130ec77da_b.jpg" width="720" height="960" alt="Flight Into Mexico - 2012"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 P.S. In case you were wondering, this is the song that the title of this post refers to...
 

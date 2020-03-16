@@ -21,7 +21,7 @@ ATUN! (ah-toon)  OR A NEW TAKE ON TUNA SALAD
 
 Atun is the Spanish word for tuna.  I’m not a big canned tuna fan, so I wasn’t excited about it -- until I tasted it.  The way the Mexicans do it is to my liking!  I’ll list the full recipe, but you can do it without some things and jimmy it around and it’s still really good.
 
-<img src="https://media.tumblr.com/tumblr_m7kkfhIuhs1qzu24w.jpg" alt="" width="170" /> <img src="https://media.tumblr.com/tumblr_m7kkkfNrIb1qzu24w.jpg" alt="" width="170" /> <img src="https://media.tumblr.com/tumblr_m7kkopNdXB1qzu24w.jpg" alt="" width="170" />
+<img alt="" src="https://media.tumblr.com/tumblr_m7kkfhIuhs1qzu24w.jpg" alt="" width="170" /> <img alt="" src="https://media.tumblr.com/tumblr_m7kkkfNrIb1qzu24w.jpg" alt="" width="170" /> <img alt="" src="https://media.tumblr.com/tumblr_m7kkopNdXB1qzu24w.jpg" alt="" width="170" />
 
 Start with two regular cans of tuna, drained  
 2 Roma tomatoes diced “chiquita” (small)  

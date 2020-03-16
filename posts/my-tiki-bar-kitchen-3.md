@@ -21,19 +21,19 @@ Not only is shopping a bit different -- unless you do the gringo thing and buy a
 
 “We’ll never sell a fat yellow chicken.”  Ad words from one of the big chicken mega processors in the US.  When I got here and saw all the yellow chicken for sale in the stores and the markets, I was appalled -- I’m talking rubber-chicken-paint yellow.  I didn’t know what to make of it.  Yuck!  I refused to buy any chicken for the first few weeks until I found out that the yellow is on purpose and caused by marigold-type flowers in their diet.  Okay, much better -- whew!  The chicken here is actually very tasty and good.
 
-<img src="https://media.tumblr.com/tumblr_m64tcdq66k1qzu24w.jpg" alt="" width="320" />
+<img alt="" src="https://media.tumblr.com/tumblr_m64tcdq66k1qzu24w.jpg" alt="" width="320" />
 
 Did I mention the feet are included in a whole roasting/boiling chicken?
 
 The veggies are fresh and local, and many appear alien -- like “from Mars” alien.  Also you can get fresh organic veggies and lettuces at the organic market that are a lot less work once you get them home.  The lettuce at the tianguis is fresh out of the ground complete with whatever little bugs and dirt that are in it.  If I buy that, I have to cut it apart into separate leaves, wash them well, and disinfect them in the solution for 10 minutes in the sink.  Then the leaves must be drained and then dried and put into baggies before being put into the fridge.  A bit of work.  Or you can clean and disinfect some each time you want salad.
 
-<img src="https://media.tumblr.com/tumblr_m65jn52sHZ1qzu24w.jpg" alt="" width="280" /><img src="https://media.tumblr.com/tumblr_m65js5fpMS1qzu24w.jpg" alt="" width="280" />
+<img alt="" src="https://media.tumblr.com/tumblr_m65jn52sHZ1qzu24w.jpg" alt="" width="280" /><img alt="" src="https://media.tumblr.com/tumblr_m65js5fpMS1qzu24w.jpg" alt="" width="280" />
 
 At the organic market, you can get lettuces and other salad leaves are already washed and dried and ready to use.  It’s well worth the bit of extra cost over the tianguis.  Or for a bit less you can buy the fresh-picked heads of all kinds of lettuces and wash and disinfect it.  Calabaza squash, tomatoes, onions, avocados, and other veggies, you have to soak them in the disinfectant anyway, but that’s easy, so I just buy the tianguis offerings.
 
 As a side note, I’m not sure why Americans don’t disinfect things like spinach and lettuce now, since there have been so many E. coli outbreaks in recent years.  Water alone doesn’t kill it.
 
-Hamburger, either at the carniceria or the grocery store, has very little fat.  I used to make bigger, thicker patties because I knew they would cook down quite a bit.  Here, they stay about the same size, and there’s very little fat to drain.  So our first hamburger patties were HUGE.  This is how much fat wasn't in the pan when they were done! <img src="https://media.tumblr.com/tumblr_m65m4rBdZ01qzu24w.png" alt="" width="200" />
+Hamburger, either at the carniceria or the grocery store, has very little fat.  I used to make bigger, thicker patties because I knew they would cook down quite a bit.  Here, they stay about the same size, and there’s very little fat to drain.  So our first hamburger patties were HUGE.  This is how much fat wasn't in the pan when they were done! <img alt="" src="https://media.tumblr.com/tumblr_m65m4rBdZ01qzu24w.png" alt="" width="200" />
 
 The most popular meat cuts in the States aren’t really sold down here.  Unless you go to a gringo boutique carniceria, you won’t find a roast or a brisket.  They have some steaks and hamburger and bistek.  Bistek is very thin, like about ¼ inch or a little more.  I tried cooking it fast in a cast iron skillet, but that’s just not good.  We don’t buy the regular steaks since we don’t have a grill here, and I don’t like pan steak.
 
@@ -41,11 +41,11 @@ You can buy fresh organic eggs at the organic market, but they are really small 
 
 Eggs from the mega henhouse are very large here, bigger than extra-large back in Texas, and the yolks are very large compared to US eggs.  The yolks are also usually a very bright pretty orange.  I believe the orange is from the yellow flowers that the chickens are all fed here.  And eggs are not refrigerated.  In fact, many countries around the world keep their eggs non-refrigerated and always have.  People aren’t dropping dead from salmonella either.  Eggs have no need for refrigeration -- unless they have been refrigerated -- althoughit’s probably not a good idea to keep them out in the summer heat very long.  In a store or home is fine.
 
-<img src="https://media.tumblr.com/tumblr_m65kikn1So1qzu24w.jpg" alt="" width="270" />
+<img alt="" src="https://media.tumblr.com/tumblr_m65kikn1So1qzu24w.jpg" alt="" width="270" />
 
 The other thing about eggs, possibly because they’re not refrigerated, is that there’s a trick to not breaking the yolks if you want to fry them sunny.  You have to be very careful not to rake them with the shell as you drop them into the skillet.  I am getting better at it, but success isn’t a given.  Thankfully, Glenn likes his broken and/or with hard yolks anyhow, since I usually only get 3 of 4 whole. And then there's boiled eggs -- the yolks all go to one end and poke out of the whites. I wonder if it's because the whites are thinner without refrigeration.
 
-<img src="https://media.tumblr.com/tumblr_m65kn0DnfJ1qzu24w.jpg" alt="" width="270" />
+<img alt="" src="https://media.tumblr.com/tumblr_m65kn0DnfJ1qzu24w.jpg" alt="" width="270" />
 
 And then there’s BACON!
 
@@ -54,7 +54,7 @@ Bacon, the meat everyone loves to hate -- unless you’re on a low-carb diet ![]
 Both the packaged and fresh bacon take *for-evver* to cook.  I have no idea why.  
 And there’s hardly any fat left behind in the pan.  If you like to save and use bacon drippings, here you’re going to have to cook a LOT of bacon.  The flavor is milder too -- not as addicting.  (Hmmmm, what do they use to enhance the flavor in the States?  Flavor addiction in all processed food is bi-i-i-ig business.)
 
-<img src="https://media.tumblr.com/tumblr_m65kqwKfZt1qzu24w.jpg" alt="" width="270" />  
+<img alt="" src="https://media.tumblr.com/tumblr_m65kqwKfZt1qzu24w.jpg" alt="" width="270" />  
 This is an entire package of bacon chopped and cooked, and no fat has been removed!
 
 Speaking of bacon --
@@ -81,7 +81,7 @@ Add a can of beans, white or your favorite, if you choose
 
 limones (key limes -- or regular limes) for squeezing onto your serving to taste
 
-<img src="https://media.tumblr.com/tumblr_m65memony01qzu24w.jpg" alt="" width="270" />
+<img alt="" src="https://media.tumblr.com/tumblr_m65memony01qzu24w.jpg" alt="" width="270" />
 
 Put the tomatillos in a pan of water and boil the heck out of them for about 10-15 minutes, till they are very-ripe-soft, drain and let cool.
 

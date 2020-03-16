@@ -18,7 +18,7 @@ tags:
 ---
 "We're taking scooters to see the neighboring Tzotzil villages of Chamula and Zinacantan, do you want to come?"  Music to my ears -- road trip!   So the next morning I was off with a local scooter shop owner's son Justin, his girlfriend Sam, and a bilingual friend.   When visiting interesting places it's always helpful to have someone who understands the language so you can get questions answered and generally understand better what you're seeing.
 
-[<img src="https://farm9.staticflickr.com/8455/8009736193_bec1abb7cb_n.jpg" alt="Esteban and Justin and Bryn almost ready" width="320" height="240" />][1]
+[<img alt="" src="https://farm9.staticflickr.com/8455/8009736193_bec1abb7cb_n.jpg" alt="Esteban and Justin and Bryn almost ready" width="320" height="240" />][1]
 
 We made it out of town without incident and hit the highway to Chamula.  The countryside was beautiful, and the traffic was light.  There is a large parking area above the Chamula cemetery where we parked and locked up the bikes.  There's a restaurant there, as well as a few market stalls.  In a Tzotzil cemetery, the color of the cross on the grave tells the approximate age at which the person died:  White crosses grace the graves of children, black ones indicate a middle-age death, and the few gray ones represent those who lived a full lifetime.
 

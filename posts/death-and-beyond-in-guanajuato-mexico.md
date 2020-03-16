@@ -59,4 +59,4 @@ The highlight of Guanajuato for me, both this trip and back in 2008, are the nig
 
 There was so much to see and take pictures of, but I think this post is already long enough. To see more, check out the slideshow below, or click on any image to pop on over to the album on Flickr and see the best photos and their descriptions!
 
-<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/vagabondians/albums/72157708958103153" title="Guanajuato 2012"><img src="https://live.staticflickr.com/65535/48015107807_f67845a6f2_o.jpg" width="500" height="375" alt="Guanajuato 2012"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/vagabondians/albums/72157708958103153" title="Guanajuato 2012"><img alt="" src="https://live.staticflickr.com/65535/48015107807_f67845a6f2_o.jpg" width="500" height="375" alt="Guanajuato 2012"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

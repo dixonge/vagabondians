@@ -41,4 +41,4 @@ The next day we met an old friend and storm-chasing buddy <button data-balloon="
 
 Here is the full photo album:
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/vagabondians/albums/72157626533195207" title="Amarillo Airport"><img src="https://live.staticflickr.com/3340/5692525260_597b66b152_b.jpg" width="1024" height="683" alt="Amarillo Airport"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/vagabondians/albums/72157626533195207" title="Amarillo Airport"><img alt="" src="https://live.staticflickr.com/3340/5692525260_597b66b152_b.jpg" width="1024" height="683" alt="Amarillo Airport"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

@@ -62,4 +62,4 @@ The next day we finally made our way to the home of Kat and Del Erickson in Warr
 
 You can see all the photos from this part of the trip here:
 
-<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/vagabondians/albums/72157707229462771" title="North Dakota - 2011"><img src="https://live.staticflickr.com/65535/47858234382_39609ca94d_c.jpg" width="800" height="600" alt="North Dakota - 2011"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/vagabondians/albums/72157707229462771" title="North Dakota - 2011"><img alt="" src="https://live.staticflickr.com/65535/47858234382_39609ca94d_c.jpg" width="800" height="600" alt="North Dakota - 2011"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

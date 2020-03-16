@@ -34,4 +34,4 @@ The western half of Montana has a lot of mountains and passes. Once we cleared m
 
 Here are our best photos from Montana:
 
-<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/gp/vagabondians/Z3Q6s6" title="Montana - 2011"><img src="https://live.staticflickr.com/65535/46964129455_79426723ca_c.jpg" width="800" height="600" alt="Montana - 2011"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/gp/vagabondians/Z3Q6s6" title="Montana - 2011"><img alt="" src="https://live.staticflickr.com/65535/46964129455_79426723ca_c.jpg" width="800" height="600" alt="Montana - 2011"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

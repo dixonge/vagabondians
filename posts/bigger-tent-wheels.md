@@ -40,4 +40,4 @@ After we picked it up from the dealer we drove it straight back to the KOA where
 
 A long time ago, back when we were planning on five year's worth of RV travel, we had settled on a nickname for our trailer.  And even though we ended up with a popup, I think the nickname still fits.  See [Bryn's latest dispatch](/tiki-barv-reality) for more information on the TikiBaRV.
 
-<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/vagabondians/albums/72157705199267832" title="The Camper"><img src="https://live.staticflickr.com/65535/46976090735_e8e8416160_b.jpg" width="1024" height="576" alt="The Camper"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/vagabondians/albums/72157705199267832" title="The Camper"><img alt="" src="https://live.staticflickr.com/65535/46976090735_e8e8416160_b.jpg" width="1024" height="576" alt="The Camper"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
