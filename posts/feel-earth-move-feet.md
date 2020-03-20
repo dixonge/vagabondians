@@ -24,8 +24,8 @@ The entire time that it lasted there was no noise. No rumbling, no rattling. And
 
 The quake occurred at 5:55pm central time. The epicenter was about 100 miles away down near the Pacific coast, about halfway between Puerto Vallarta and Acapulco. The initial estimate was that the quake measured 7.0 on the Richter scale, but that was later <a title="USGS" href="https://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc00090z0.php" target="_blank">revised downward to 6.5 by the USGS</a>. Mexico City is 240 miles from the epicenter, but tall buildings swayed (without damage). Later that night, just after midnight, two other quakes occurred farther north, near the Baja peninsula. If you add the recent quake further south, the whole Pacific coast of Mexico is being pretty rumbly with four quakes stronger than 6.0 all within a three-week period.
 
-[<img class="alignnone wp-image-1138" title="earthquake" src="https://vagabondians.com/wp-content/uploads/2012/04/earthquake.png" alt="" width="550" />][1]
+[<img class="alignnone wp-image-1138" title="earthquake" src="https://vagabondians.com/wp-content/uploads/2012/04/earthquake.jpg" alt="" width="550" />][1]
 
 It seems to me that I remember saying something not too long ago about wanting to be in an earthquake, just so I could say I had. Obviously I did not intend to be in anything too strong, so yesterday's quake met my criteria admirably. Having said that, I'm good for now on earthquakes. Give me some good old safe tornado chasing any day!
 
- [1]: https://vagabondians.com/wp-content/uploads/2012/04/earthquake.png
+ [1]: https://vagabondians.com/wp-content/uploads/2012/04/earthquake.j[g

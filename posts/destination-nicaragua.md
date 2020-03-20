@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /destination-nicaragua/
-image:  /img/nicaragua.png
+image:  /img/nicaragua.jpg
 categories:
   - News
 tags:
@@ -15,7 +15,7 @@ tags:
 ---
 At long, LONG last we've finally purchased tickets for our next destination: Nicaragua! We are so excited. We'll even get to hook up with our buddy [Wes Nations][1] again! Fun times will be had. Sober times, not so much...
 
-![Nicaragua](/img/2013/06/Nicaragua.png)
+![Nicaragua](/img/2013/06/Nicaragua.jpg)
 
 We have certainly enjoyed being able to see family and friends again, and even new family (sort of, long story) but living here is making us gain weight and spend too much money! We will miss my parents and brother and sister-in-law and my daughter and grandkids, and all of our friends, but we started getting antsy to get on the road again after about 90 days. But we did what we came to do, and now we're getting back to the travel. Here's a quick list of things we accomplished in addition to seeing people:
 
