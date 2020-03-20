@@ -4,9 +4,7 @@
     <title>{{ renderData.title or title or metadata.title }}</title>
     <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
-    <link rel="preload" href="{{ '/css/fonts/Tiresias_Infofont-webfont.woff' | url }}" as="font" type="font/woff" crossorigin />
-    <link rel="preload" href="{{ '/css/fonts/Tiresias_Infofont_Italic-webfont.woff' | url }}" as="font" type="font/woff" crossorigin />
-
+    <link rel="preload" href="{{ '/css/fonts/Ingra-Medium.woff2' | url }}" as="font" type="font/woff2" crossorigin />
     <script>
 		{%- include "details-force-state.js" -%}
 		</script>
