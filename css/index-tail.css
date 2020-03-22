@@ -22,15 +22,8 @@ a {
   @apply text-blue-800 underline;
 }
 
-@font-face {
-  font-family: Ingra Medium;
-  font-weight: normal | bold | bolder | lighter | 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900;
-  font-style: normal;
-  src: url(/css/fonts/Ingra-Medium.woff2) format("woff2");
-  font-display: swap;
-}
 html {
-  font-family: 'Ingra Medium';
+  font-family: 'Verdana, Arial';
 }
 
 details ul.elv-toc-list > li {
