@@ -21,9 +21,8 @@ h3 {
 a {
   @apply text-blue-800 underline;
 }
-
 html {
-  font-family: 'Verdana, Arial';
+  font-family: Arial;
 }
 
 details ul.elv-toc-list > li {
