@@ -7,13 +7,11 @@ const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItImplicitFigures = require("markdown-it-anchor");
 const markdownItAttributes = require('markdown-it-attrs');
-const imagesResponsiver = require('eleventy-plugin-images-responsiver');
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
-  eleventyConfig.addPlugin(imagesResponsiver);
   eleventyConfig.cloudinaryCloudName = 'donblanco';
   eleventyConfig.srcsetWidths = [ 320, 640, 960, 1280, 1600, 1920, 2240, 2560 ];
   eleventyConfig.fallbackWidth = 640;
