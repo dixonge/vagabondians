@@ -1,17 +1,20 @@
 const { DateTime } = require("luxon");
 const fs = require("fs");
 const sanitizeHTML = require('sanitize-html')
-const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
-const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItImplicitFigures = require("markdown-it-anchor");
 const markdownItAttributes = require('markdown-it-attrs');
 
 module.exports = function(eleventyConfig) {
+  const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
+
   eleventyConfig.setDataDeepMerge(true);
+
+  const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
+
   eleventyConfig.cloudinaryCloudName = 'donblanco';
   eleventyConfig.srcsetWidths = [ 320, 640, 960, 1280, 1600, 1920, 2240, 2560 ];
   eleventyConfig.fallbackWidth = 640;
