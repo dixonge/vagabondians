@@ -4,7 +4,7 @@ layout: layouts/base.njk
 
 {% include "layouts/menu.njk" %}
 
-<div id="right" class="w-full lg:flex lg:ml-1 lg:flex-col">
+<div id="right" class="flex flex-col w-full ml-1">
     {% if tags %}
   <div id="breadcrumb">
   <nav class="float-left breadcrumb" aria-labelledby="breadcrumb">
@@ -17,7 +17,7 @@ layout: layouts/base.njk
   </nav>
   </div>
     {% endif %}
-  <div id="article" class="w-11/12  lg:w-10/12">
+  <div id="article" class="w-11/12 lg:w-10/12">
 
     <img alt="" src="{{ image }}">
 
