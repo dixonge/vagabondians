@@ -163,9 +163,6 @@ div#TOC {
   }
   
   @media only screen and (min-width: 52em) {
-    #menu {
-    flex: 1 1 25%;
-    }
 
     #menu .main-menu {
       display: block;
