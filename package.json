@@ -1,8 +1,4 @@
 {
-  "name": "Vagabondians",
-  "version": "5.0.1",
-  "description": "Vagabondians - Escape Normal, Explore Your World",
-  "main": "index.js",
   "scripts": {
     "build:css": "postcss css/index-tail.css -o css/index.css",
     "build:css-purge": "env NODE_ENV=production postcss css/index-tail.css -o css/index.css",
@@ -11,21 +7,6 @@
     "debug": "DEBUG=* npx eleventy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/dixonge/vagabondians-11ty.git"
-  },
-  "author": {
-    "name": "Glenn Dixon",
-    "email": "donblanco@posteo.net",
-    "url": "https://vagabondians.com/"
-  },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/dixonge/vagabondians-11ty/ssues"
-  },
-  "homepage": "https://github.com/dixonge/vagabondians-11ty#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.10.0",
     "@11ty/eleventy-navigation": "^0.1.4",
