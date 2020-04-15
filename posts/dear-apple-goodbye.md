@@ -4,7 +4,6 @@ date: 2013-04-16
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
-# desc: "Retired I.T. nerd - Mexpat - vegan"
 excerpt: Why we are leaving Apple products for Google and Linux, and how we are doing it.
 permalink: /dear-apple-goodbye/
 image:  /img/dear-apple.png

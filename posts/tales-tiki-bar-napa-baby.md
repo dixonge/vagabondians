@@ -56,13 +56,6 @@ https://www.facebook.com/photo.php?fbid=262595023757325&#038;set=a.2625887204246
 
 *A VOTRE SANTE*!  CHEERS!  SALUTE!  *clink*
 
-# **  
-** {#product-name}
-
-#  {#product-name}
-
-&nbsp;
-
 https://www.facebook.com/photo.php?fbid=262596513757176&#038;set=a.262588720424622.87451.197146780302150&#038;type=1&#038;theater
 
 https://www.facebook.com/media/set/?set=a.262588720424622.87451.197146780302150&#038;type=1&#038;notif_t=like
