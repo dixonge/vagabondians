@@ -7,6 +7,10 @@ const markdownItImplicitFigures = require("markdown-it-anchor");
 const markdownItAttributes = require('markdown-it-attrs');
 
 module.exports = function(eleventyConfig) {
+
+  	// A responsive image helper using Netlify Large Media - image transformation
+  eleventyConfig.addShortcode("picture", require("./js/picture.js"));
+  
   const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
 
