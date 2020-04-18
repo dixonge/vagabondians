@@ -221,7 +221,7 @@ nav#menu ul {
     }
 
     #article p img, #article img {
-      width: 100%;
+      width: auto;
     }
   }
 
