@@ -12,7 +12,7 @@ tags:
   - USA
   - Texas
 ---
-![](/img/La-Pochota.jpg)
+{% picture "La-Pochota.jpg", "" %}
 
     La Pochota -- a kapok tree that has been here since the town was founded in the 16th century
 

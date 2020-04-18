@@ -28,7 +28,7 @@ We thought it appropriate that we left behind all vestiges of a permanent reside
 
 We are guided by many who have gone before. I will close with this inspirational quote from Everett Ruess, an explorer <button data-balloon="He also disappeared and his body was never found!" data-balloon-pos="up">ahead of his time</button>:
 
-![Everett Ruess](/img/Everett-Ruess.jpg)
+{% picture "Everett-Ruess.jpg", "Everett Ruess" %}
 
 > Adventure is for the adventurous.
 My face is set.

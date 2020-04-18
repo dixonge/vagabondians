@@ -17,7 +17,7 @@ tags:
   - Chiapas
   - San Cristobal de las Casas
 ---
-![spider](/img/spider.jpg)
+{% picture "spider.jpg", "spider" %}
 
 Being on the road, we meet a lot of new and interesting people from all over the world and have precious little time to get to know them, perhaps only the one day or evening to form a friendship. I am, and perhaps you are too, a little shy and often stumped for something to talk about. My culture is prone to be a bit distant and untrusting of new people and so I have always been hesitant to ask anything probing or personal and seem forward and nosy.
 

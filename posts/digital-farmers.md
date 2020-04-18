@@ -21,7 +21,7 @@ One group resisted this employment paradigm on a large scale up until fairly rec
 
 Most people today will still choose the path of least resistance, which is to work for someone else.  In a sense they have much in common with the indentured servant and the slave.  Of course they live in relative luxury when compared to those who lived centuries ago, but they still place much of their security in the hands of others.
 
-![mercado]({{ Site.BaseURL }}/2011/02/mercado.jpg)
+{% picture "{{ Site.BaseURL }}/2011/02/mercado.jpg", "mercado" %}
 
 But there are still those who choose the path of self-reliance, who wish to plant and harvest, to produce goods and sell or barter them.  They wish to have more control over their own destinies.  Most will not choose actual, physical farming (although small farms are definitely making a comeback) but they share much in common with the farmer.
 

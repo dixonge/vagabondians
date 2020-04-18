@@ -12,4 +12,4 @@ categories:
 tags:
   - misc
 ---
-![People don't take trips -- trips take people.](/img/peopledonttaketrips.jpg)
+{% picture "peopledonttaketrips.jpg", "People don't take trips -- trips take people." %}

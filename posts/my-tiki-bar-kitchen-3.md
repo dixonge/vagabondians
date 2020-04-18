@@ -49,7 +49,7 @@ The other thing about eggs, possibly because they’re not refrigerated, is that
 
 And then there’s BACON!
 
-Bacon, the meat everyone loves to hate -- unless you’re on a low-carb diet ![](/img/simple-smile.png)  At the carniceria that we go to they slice it up on the spot, whatever thickness desired.  We’ve also bought the FUD brand bacon at the grocery store.  (Really?  If you have to name it “food,” is it?  It’s actually pretty good bacon.)
+Bacon, the meat everyone loves to hate -- unless you’re on a low-carb diet {% picture "simple-smile.png", "" %}  At the carniceria that we go to they slice it up on the spot, whatever thickness desired.  We’ve also bought the FUD brand bacon at the grocery store.  (Really?  If you have to name it “food,” is it?  It’s actually pretty good bacon.)
 
 Both the packaged and fresh bacon take *for-evver* to cook.  I have no idea why.  
 And there’s hardly any fat left behind in the pan.  If you like to save and use bacon drippings, here you’re going to have to cook a LOT of bacon.  The flavor is milder too -- not as addicting.  (Hmmmm, what do they use to enhance the flavor in the States?  Flavor addiction in all processed food is bi-i-i-ig business.)
