@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /still-homeless-but-living-in-an-suv/
-image:  /img/2011/04/IMG_0366.jpg
+image:  /img/IMG_0366.jpg
 dsq_thread_id:
   - 3074254247
 categories:

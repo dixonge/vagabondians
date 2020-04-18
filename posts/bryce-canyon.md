@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /bryce-canyon/
-image:  /img/2011/08/BryceCanyon.jpg
+image:  /img/BryceCanyon.jpg
 dsq_thread_id:
   - 3519443750
 categories:

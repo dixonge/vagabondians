@@ -6,7 +6,7 @@ authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/img/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /tiki-barv-reality/
-image:  /img/2011/05/roxi.jpg
+image:  /img/roxi.jpg
 dsq_thread_id:
   - 3178269708
 categories:

@@ -6,7 +6,7 @@ authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/img/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /tales-tiki-bar-napa-baby/
-image:  /img/2011/07/napa.jpg
+image:  /img/napa.jpg
 dsq_thread_id:
   - 3239705075
 categories:

@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /escaping-system/
-image:  /img/2011/03/escapeesSmall.jpg
+image:  /img/escapeesSmall.jpg
 dsq_thread_id:
   - 3092924874
 categories:

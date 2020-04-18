@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /albuquerque-mexico-3-8/
-image:  /img/2011/06/RoxiNewMexico.jpg
+image:  /img/RoxiNewMexico.jpg
 categories:
   - Six Months
 tags:

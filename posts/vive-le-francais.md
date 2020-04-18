@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /vive-le-francais/
-image:  /img/2011/05/french2.jpg
+image:  /img/french2.jpg
 categories:
   - Six Months
 tags:

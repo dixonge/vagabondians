@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /wallow-fire-eastern-arizona/
-image:  /img/2011/06/SunSmoke.jpg
+image:  /img/SunSmoke.jpg
 categories:
   - Six Months
 tags:

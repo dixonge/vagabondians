@@ -6,14 +6,14 @@ authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/img/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /earth-you-you-crazy-sumpin/
-image:  /img/2012/01/FreedomSculpture.jpg
+image:  /img/FreedomSculpture.jpg
 categories:
   - News
 tags:
   - USA
   - Six Months
 ---
-![](/img/2012/01/crazylady.jpeg)
+![](/img/crazylady.jpeg)
 
 Hello World, Bryn here, ready to dish out some truly mind-blowing drivel. Maybe I am just a bit on the odd side....  Anyway, here goes.  Enjoy!
 
@@ -37,7 +37,7 @@ There came the point when we realized that we were busy doing the same thing day
 
 NO, NO, AND  NO!  *SUUUU-LLAPP!*  Get the hell out of the sheep line!  Now!  Live the life you want, and do things, see things, try to help some other people along the way.  Make a life that matters.  It's not too late!  Envision the dream life and then get out there and LIVE IT!
 
-![](/img/2012/01/live.jpeg)
+![](/img/live.jpeg)
 
 Will we miss the security (real or imagined) of our jobs, our home, our stuff?  Will we hate traveling?  Will we hit the hard pavement with our faces, come up bloody, and have to admit defeat and end up badly compared to our former lives?  Maybe.  I think not, though.  So far it's been freaking amazing, but we're still in the in-between yet, still extracting ourselves from our former life to embark -- quite soon now -- on a completely different life.  We aren't jumping completely without parachutes, flimsy as they may be, but we are jumping.  Really, what's the worst that can happen?  Can it be overcome?  Is it worth a shot?  YES!  So if that makes me monkey-slinging-poo-CRAZY, then I guess I am.  But I have to try!
 

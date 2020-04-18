@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /canada-wyoming-minnesota/
-image:  /img/2011/10/WY2MN.jpg
+image:  /img/WY2MN.jpg
 categories:
   - Six Months
 tags:

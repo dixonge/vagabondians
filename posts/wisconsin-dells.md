@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /wisconsin-dells/
-image:  /img/2011/11/Wisconsin.jpg
+image:  /img/Wisconsin.jpg
 categories:
   - Six Months
 tags:

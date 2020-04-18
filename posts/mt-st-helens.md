@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /mt-st-helens/
-image:  /img/2011/08/mtsthelens.jpg
+image:  /img/mtsthelens.jpg
 dsq_thread_id:
   - 3114726120
 categories:

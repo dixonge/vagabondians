@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /lost-coast/
-image:  /img/2011/08/LostCoast.jpg
+image:  /img/LostCoast.jpg
 dsq_thread_id:
   - 3131662695
 categories:

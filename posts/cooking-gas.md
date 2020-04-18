@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /cooking-gas/
-image:  /img/2011/06/valve1.jpg
+image:  /img/valve1.jpg
 categories:
   - Six Months
 tags:

@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /texas-rfd/
-image:  /img/2011/11/texas.jpg
+image:  /img/texas.jpg
 categories:
   - Six Months
 tags:

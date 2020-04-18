@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /homeless-living-car/
-image:  /img/2011/04/P1080519.jpg
+image:  /img/P1080519.jpg
 tags:
   - USA
   - Texas

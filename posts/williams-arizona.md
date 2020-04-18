@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /williams-arizona/
-image:  /img/2011/06/horsies.jpg
+image:  /img/horsies.jpg
 dsq_thread_id:
   - 3671343100
 categories:

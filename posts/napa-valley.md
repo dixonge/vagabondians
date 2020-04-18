@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /napa-valley/
-image:  /img/2011/08/napavalley.jpg
+image:  /img/napavalley.jpg
 categories:
   - Six Months
 tags:

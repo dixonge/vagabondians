@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /grove-titans/
-image:  /img/2011/08/trees.jpg
+image:  /img/trees.jpg
 dsq_thread_id:
   - 3071345342
 categories:

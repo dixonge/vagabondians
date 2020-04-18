@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /minnesota-its-flat/
-image:  /img/2011/10/MinnesotaFlat.jpg
+image:  /img/MinnesotaFlat.jpg
 categories:
   - Six Months
 tags:

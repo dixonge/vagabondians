@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 permalink: /hitting-road/
-image:  "/img/2011/04/LongTimeScreenCap.jpg"
+image:  "/img/LongTimeScreenCap.jpg"
 tags:
   - USA
   - Texas

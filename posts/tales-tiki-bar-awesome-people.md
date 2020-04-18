@@ -6,7 +6,7 @@ authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/img/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /tales-tiki-bar-awesome-people/
-image:  /img/2011/07/water.jpg
+image:  /img/water.jpg
 categories:
   - Six Months
   - Tales From the Tiki Bar

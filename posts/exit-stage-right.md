@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /exit-stage-right/
-image:  /img/2011/04/exitstageright.jpg
+image:  /img/exitstageright.jpg
 tags:
   - USA
   - Six Months 

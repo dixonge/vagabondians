@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /bedding-update/
-image:  /img/2011/02/P1070850.jpg
+image:  /img/P1070850.jpg
 categories:
   - News
 tags:

@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /washington-montana/
-image:  /img/2011/09/WashMont.jpg
+image:  /img/WashMont.jpg
 categories:
   - Six Months
 tags:

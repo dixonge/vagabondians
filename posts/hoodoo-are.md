@@ -6,7 +6,7 @@ authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/img/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /hoodoo-are/
-image:  /img/2011/06/brycehoodoo.jpg
+image:  /img/brycehoodoo.jpg
 categories:
   - Six Months
   - Tales From the Tiki Bar

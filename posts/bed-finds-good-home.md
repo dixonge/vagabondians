@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /bed-finds-good-home/
-image:  /img/2011/02/oldbed.jpg
+image:  /img/oldbed.jpg
 dsq_thread_id:
   - 3343045984
 categories:

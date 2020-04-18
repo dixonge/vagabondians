@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /big-sky/
-image:  /img/2011/09/montana.jpg
+image:  /img/montana.jpg
 categories:
   - Six Months
 tags:

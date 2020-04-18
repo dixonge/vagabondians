@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /compromise-lovehate-relationship-walmart/
-image:  /img/2011/01/india-10-06-10-wal-mart.jpg
+image:  /img/india-10-06-10-wal-mart.jpg
 categories:
   - News
 tags:

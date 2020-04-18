@@ -19,7 +19,7 @@ Planning and goal-setting have never been our strong suits. The fact that we wer
 
 The alternative would have been to wait until either our savings were greater, or an income was in fact in place. But we had inertia, and bravado, and our jobs began to absolutely drive us crazy! So our 'Plan B' was never firm, but it was enough for us. We always knew that if our passive/freelance income ideas never materialized we could do something a little more traditional. Teaching English, managing a guesthouse, working on a cruise ship -- all these ideas were in the back of our minds as options, and all of them would be better than going back to the States and getting a 'real' J-O-B. We also knew that at some point we might become uncomfortable with how low our savings balance became. Did we really want to slide into our pension years with $0.00 left in the bank? Doubtful.
 
-![](/img/2013/08/burn-rate.png)
+![](/img/burn-rate.png)
 
 Well, that day of discomfort has come. We have officially become uneasy about our bank account balance.  The chart above is from a spreadsheet we update to keep track of where we are. The red line is a worst-case scenario. It doesn't go to zero, but it is tracking our cash plus some other non-liquid assets. If we stay on that path, we'd actually get to our official 'retirement' date with almost nothing left. And as you can see by the green line, we're not on target. At this point our projection would be to crash and burn well before our target date.
 

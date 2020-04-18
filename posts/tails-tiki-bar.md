@@ -6,7 +6,7 @@ authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/img/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /tails-tiki-bar/
-image:  /img/2011/05/Wolf1.jpg
+image:  /img/Wolf1.jpg
 categories:
   - Six Months
 tags:

@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /digital-farmers/
-image:  /img/2011/02/digitalfarmer.jpg
+image:  /img/digitalfarmer.jpg
 dsq_thread_id:
   - 3632023664
 categories:

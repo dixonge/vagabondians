@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /wyoming/
-image:  /img/2011/10/Wyoming.jpg
+image:  /img/Wyoming.jpg
 categories:
   - Six Months
 tags:

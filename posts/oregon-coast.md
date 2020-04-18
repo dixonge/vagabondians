@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 permalink: /oregon-coast/
-image:  /img/2011/08/oregoncoast.jpg
+image:  /img/oregoncoast.jpg
 categories:
   - Six Months
 tags:

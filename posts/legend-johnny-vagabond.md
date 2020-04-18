@@ -23,7 +23,7 @@ We first met [Wes Nations][1] our second night in San Cristóbal de las Casas, C
 Jon and Wes had just returned from a [crazy trip][3] to the [Pacific coast of Mexico][4] in the state of Chiapas. Between that trip and a [previous one][5], in which they had perused the market of a small, nearby town[ looking for rat soup][6], they had wonderful stories to tell. And by wonderful I don't mean stories of hanging out at the pool of a pricey resort. I mean 'real' stories. Stories that involve strange food, foreign languages, storms, getting lost, and maybe the occasional hallucination. Fear. Adventure. They had everything we wanted.
 
 <div id="attachment_4039" class="wp-caption alignright">
-  <a href="/img/2014/11/That-Wes-is-SO-Gonzo.jpg"><img alt="" src="/img/2014/11/That-Wes-is-SO-Gonzo.jpg" alt="That Wes is SO Gonzo" /></a>
+  <a href="/img/That-Wes-is-SO-Gonzo.jpg"><img alt="" src="/img/That-Wes-is-SO-Gonzo.jpg" alt="That Wes is SO Gonzo" /></a>
   <p class="wp-caption-text">
     That Wes is SO Gonzo
   </p>
@@ -40,7 +40,7 @@ One of my favorite stories that Wes shared was about a time when he was in Vietn
 I chuckle every time I think about that scene. Except now the laughter quickly turns to tears.
 
 <div id="attachment_4042" class="wp-caption alignright">
-  <a href="/img/2014/11/WesAndGlennAndOthers.jpg"><img alt="" src="/img/2014/11/WesAndGlennAndOthers.jpg" alt="WesAndGlennAndOthers" /></a>
+  <a href="/img/WesAndGlennAndOthers.jpg"><img alt="" src="/img/WesAndGlennAndOthers.jpg" alt="WesAndGlennAndOthers" /></a>
 
   <p class="wp-caption-text">
     Wes' favorite restaurant in San Cristobal
@@ -60,7 +60,7 @@ And then, he was gone. A mutual friend broke the bad news, and Wes' Facebook pag
 I have to admit, I am both sad and angry at this news. I'm angry that good people sometimes leave our lives early. And I'm incredibly sad that this short list now includes Wes. I didn't know him that long, and I can't say that we were 'best' friends. But he made me laugh and that's something I truly value in a person. And when I think about it, he's probably the closest I've come to a true friend in these last several years. I guess I'm a bit of a homebody, a nerd, and I don't have that many people whom I consider 'close' outside of family. Don't ask me why, because I'm really not sure what makes me that way. But Wes definitely got in there, into that inner circle, and his passing has saddened me greatly.
 
 <div id="attachment_4040" class="wp-caption alignleft">
-  <a href="/img/2014/11/WesAndDrunkGlenn.jpg"><img  src="/img/2014/11/WesAndDrunkGlenn.jpg" alt="Wes and drunk Glenn" /></a>
+  <a href="/img/WesAndDrunkGlenn.jpg"><img  src="/img/WesAndDrunkGlenn.jpg" alt="Wes and drunk Glenn" /></a>
 
   <p class="wp-caption-text">
     Wes and drunk Glenn
@@ -72,7 +72,7 @@ But there is one thing which slightly takes the edge off of my sadness, and that
 Because in the end, there are no guarantees. But in spite of that fact, which we all 'know' in our minds, most of us act like there *are* guarantees, like we have all the time in the world. And while it would surely be crazy to live in constant fear of the future, isn't it just as crazy to live in blissful ignorance? So do me a favor, and honor Wes' life and passing with a little introspection. If there is something you should do, or that you want to do, just stop right now and figure out how to make it happen. Maybe it's travel, maybe it's volunteer work, maybe it's just spending more time with loved ones. But figure out how to do it now, not later, because later may never come, and all stories end.
 
 <div id="attachment_4041" class="wp-caption alignright">
-  <a href="/img/2014/11/WesAndGlenn.jpg"><img class="wp-image-4041 size-medium" src="/img/2014/11/WesAndGlenn.jpg" alt="WesAndGlenn" /></a>
+  <a href="/img/WesAndGlenn.jpg"><img class="wp-image-4041 size-medium" src="/img/WesAndGlenn.jpg" alt="WesAndGlenn" /></a>
 
   <p class="wp-caption-text">
     Me and my friend, Wes Nations, a.k.a. Johnny Vagabond

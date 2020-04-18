@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /bigger-tent-wheels/
-image:  /img/2011/05/Trailer.jpg
+image:  /img/Trailer.jpg
 dsq_thread_id:
   - 3118056058
 categories:

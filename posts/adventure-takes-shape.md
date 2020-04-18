@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /adventure-takes-shape/
-image:  /img/2011/03/Road-Trip-2011-Part-1-Google-Maps.jpg
+image:  /img/Road-Trip-2011-Part-1-Google-Maps.jpg
 categories:
   - News
 tags:

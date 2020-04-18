@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /financial-update/
-image:  /img/2011/09/money.jpg
+image:  /img/money.jpg
 categories:
   - News
 tags:

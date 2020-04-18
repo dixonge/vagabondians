@@ -20,7 +20,7 @@ Near the end of this process we were in a holding pattern. We could have continu
 
 For those of you who are still in one of these stages, let me give you some friendly advice here. Most of the time we encourage people to stop waiting, to get off their couch and do something. We don't want you to wait until you are seventy-five before you realize that you wish you had seen more of the world. But sometimes you really do need to wait. The best (and only) time to wait is right before you quit your job. Once you disconnect from that source of income everything changes. So before you pull the trigger, be sure that you have a good plan and are reasonably well-positioned financially.
 
-![get rich](/img/2012/10/get_rich.jpg)
+![get rich](/img/get_rich.jpg)
 
 As it turns out, our plan had some holes in it. The good news is that we have savings to fall back on. The bad news is that we threw some of it away on what I am now referring to as schemes. Here is a brief list of our on-the-road income attempts to-date.
 

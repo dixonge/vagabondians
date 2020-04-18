@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /exploring-prairie-creek-redwoods-state-park/
-image:  /img/2011/08/prcreek.jpg
+image:  /img/prcreek.jpg
 dsq_thread_id:
   - 3088553951
 categories:

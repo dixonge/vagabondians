@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /amarillo-1-2/
-image:  /img/2011/06/Guppy.jpg
+image:  /img/Guppy.jpg
 categories:
   - Six Months
 tags:

@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /yellowstone/
-image:  /img/2011/09/yellowstone.jpg
+image:  /img/yellowstone.jpg
 dsq_thread_id:
   - 3099321949
 categories:

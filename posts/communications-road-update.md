@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /communications-road-update/
-image:  /img/2011/05/P1080521.jpg
+image:  /img/P1080521.jpg
 categories:
   - Six Months
 tags:

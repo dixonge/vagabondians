@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /grand-canyon-north-rim/
-image:  /img/2011/06/NorthRimSunset.jpg
+image:  /img/NorthRimSunset.jpg
 categories:
   - Six Months
 tags:

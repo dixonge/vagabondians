@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/img/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /major-change-plans/
-image:  /img/2011/01/camping.jpg
+image:  /img/camping.jpg
 tags:
   - USA
   - Texas
