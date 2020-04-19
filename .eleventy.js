@@ -2,8 +2,6 @@ const { DateTime } = require("luxon");
 const fs = require("fs");
 const sanitizeHTML = require('sanitize-html')
 const markdownIt = require("markdown-it");
-const markdownItAnchor = require("markdown-it-anchor");
-const markdownItImplicitFigures = require("markdown-it-anchor");
 const markdownItAttributes = require('markdown-it-attrs');
 
 module.exports = function(eleventyConfig) {
@@ -52,7 +50,6 @@ module.exports = function(eleventyConfig) {
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
-  let markdownItAnchor = require("markdown-it-anchor");
   let markdownItImplicitFigures = require("markdown-it-implicit-figures");
   let markdownItAttributes = require("markdown-it-attrs");
   let options = {
@@ -71,10 +68,6 @@ module.exports = function(eleventyConfig) {
     permalinkClass: "direct-link",
     permalinkSymbol: "#"
   };
-
-  eleventyConfig.setLibrary("md", markdownIt(options)
-    .use(markdownItAnchor, opts)
-  );
 
   let markdownLib = markdownIt(options).use(markdownItImplicitFigures, figopts);
     
