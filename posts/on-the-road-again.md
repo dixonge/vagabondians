@@ -3,7 +3,7 @@ title: On The Road Again
 date: 2012-07-08
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /on-the-road-again/
 image:  /img/teaser-mexico.jpg

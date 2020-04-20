@@ -2,7 +2,7 @@
 title: Word of Wisdom
 date: 2014-01-27
 author: Glenn
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 permalink: /word-of-wisdom/
 image:  /img/least-toys.jpg
 categories:

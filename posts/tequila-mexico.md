@@ -3,7 +3,7 @@ title: Tequila, Mexico
 date: 2012-06-15
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /tequila-mexico/
 image:  /img/teaser-mexico.jpg

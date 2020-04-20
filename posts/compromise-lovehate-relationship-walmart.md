@@ -3,7 +3,7 @@ title: Compromise, or My Love/Hate Relationship With WalMart
 date: 2011-01-21
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /compromise-lovehate-relationship-walmart/
 image:  /img/india-10-06-10-wal-mart.jpg

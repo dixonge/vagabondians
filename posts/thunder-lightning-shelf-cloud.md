@@ -3,7 +3,7 @@ title: Thunder! Lightning! Shelf cloud!
 date: 2014-03-26
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /thunder-lightning-shelf-cloud/
 image:  /img/shelf-cloud.jpg

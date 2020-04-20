@@ -3,10 +3,9 @@ title: The Adventure Takes Shape
 date: 2011-03-15
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /adventure-takes-shape/
-image:  /img/Road-Trip-2011-Part-1-Google-Maps.jpg
 categories:
   - News
 tags:
@@ -14,6 +13,8 @@ tags:
   - Texas
   - Getting Ready
 ---
+{% picture "Road-Trip-2011-Part-1-Google-Maps.jpg", "" %}
+
 After years of dreaming and planning, we are finally starting to believe that we will really do this.  Notice has been given to our landlord and employers.  Our final round of sales is well underway.  In two weeks we will be unemployed, and a week after that we'll be homeless.  We can't wait!
 
 I finally got around to mapping out our route and trying to work up a rough timeline.  After visiting my parents and brother we will take off and perhaps do some storm-chasing.  Eventually we will visit friends and relatives in Oklahoma City, Topeka, Kansas and Burlington, Iowa.  More relatives in Illinois and Cincinnati, then some genealogy research in Ohio.  More relatives in Ohio and Michigan.  That leg should take around eight weeks, but I have no way of knowing if I am under- or over-estimating.

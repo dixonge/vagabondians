@@ -3,7 +3,7 @@ title: Confessions of a Closet Schemer
 date: 2012-10-17
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /confessions-of-a-closet-schemer/
 image:  /img/closet-schemer.jpg

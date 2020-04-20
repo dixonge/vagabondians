@@ -3,7 +3,7 @@ title: Wichita Mountains National Wildlife Refuge 4/27-4/29
 date: 2011-06-08
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /wichita-mountains-national-wildlife-refuge/
 image:  /img/P1080954-e1307549467362.jpg

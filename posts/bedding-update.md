@@ -3,16 +3,16 @@ title: Another day, another bed
 date: 2011-01-31
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /bedding-update/
-image:  /img/P1070850.jpg
 categories:
   - News
 tags:
   - USA
   - Six Months
 ---
+{% picture "P1070850.jpg", "" %}
 Wow.  Exciting stuff, huh?  But it's something we should probably think about more often in general.  People will sleep on beds for years and wonder why they can't stay asleep or why they wake up sore and stiff!  The whole bed industry is insane and is a topic for another day, or maybe another blog!
 
 We resolve this whole issue several years ago when we switched from regular mattresses to the Select Comfort bed [Details in my recent post on the topic](/bed-finds-good-home).  When we switched our plans from RV to camping travel our bedding plans were thrown into the air.  Bryn ended up going with a twin-sized air mattress and I got a folding hammock.  But as it turns out, after a week of sleeping on that thing it wasn't quite as comfortable as I had hoped.  Unlike a normal hammock, it is held taught and doesn't collapse around you.  And since the material is canvas-like you end up sliding down into the middle no matter how you start out.  Finally, since I normally sleep on my back my legs end up straight with my knees locked.  It's all good until you wake up and try to stand.

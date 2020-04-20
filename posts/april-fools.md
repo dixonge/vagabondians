@@ -3,10 +3,9 @@ title: April Fools?
 date: 2012-04-02
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /april-fools/
-image:  /img/fool-3.jpg
 categories:
   - Mexico
 tags:
@@ -14,6 +13,7 @@ tags:
   - Jalisco
   - Ajijic
 ---
+{% picture "fool-3.jpg", "" %}
 Two years ago today Bryn and I walked away from our house and moved into an apartment in Denton, Texas.
 
 One year ago today Bryn and I left that apartment and became officially homeless.

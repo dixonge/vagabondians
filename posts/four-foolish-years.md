@@ -3,7 +3,7 @@ title: Four Foolish Years
 date: 2014-04-01
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /four-foolish-years/
 image:  /img/four-foolish-years.jpg

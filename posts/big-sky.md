@@ -3,10 +3,9 @@ title: Under the Big Sky
 date: 2011-09-20
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /big-sky/
-image:  /img/montana.jpg
 categories:
   - Six Months
 tags:
@@ -14,6 +13,7 @@ tags:
   - Montana
   - Six Months
 ---
+{% picture "montana.jpg", "" %}
 So eventually we reached our destination in St. Regis and stayed there a couple of nights, catching up on laundry, rest, reading and writing. 
 
 ![Huh?](https://live.staticflickr.com/65535/47090984924_20c479a3a9.jpg)

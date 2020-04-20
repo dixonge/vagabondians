@@ -3,7 +3,7 @@ title: Hiking in Jerez
 draft: true
 date: 2019-08-28
 author: "Glenn"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 permalink: /hiking-in-jerez/
 image:  /img/jerez.jpg
 categories:

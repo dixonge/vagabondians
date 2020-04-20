@@ -3,9 +3,8 @@ title: A Year In Mexico
 date: 2013-02-24
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 permalink: /a-year-in-mexico/
-image:  /img/year-in-mexico.jpeg
 categories:
   - Mexico
 tags:

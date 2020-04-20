@@ -3,7 +3,7 @@ title: The Journey of a Thousand Li Commenced With a Single Step
 date: 2010-07-11
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /the-journey-of-a-thousand-li-commenced-with-a-single-step/
 image:  /img/trail-1.jpg

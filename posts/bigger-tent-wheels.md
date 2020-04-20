@@ -3,10 +3,9 @@ title: 'A Bigger Tent -- on Wheels'
 date: 2011-05-22
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /bigger-tent-wheels/
-image:  /img/Trailer.jpg
 dsq_thread_id:
   - 3118056058
 categories:
@@ -16,6 +15,7 @@ tags:
   - New Mexico
   - Six Months
 ---
+{% picture "Trailer.jpg", "" %}
 There is a saying in the RV world, especially true for those who intend to travel full-time:
 
 > Buy your third RV first.

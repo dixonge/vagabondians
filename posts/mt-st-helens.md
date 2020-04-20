@@ -3,7 +3,7 @@ title: Mt. St. Helens
 date: 2011-08-26
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /mt-st-helens/
 image:  /img/mtsthelens.jpg

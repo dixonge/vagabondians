@@ -3,7 +3,7 @@ title: 'Communications on the Road:  Update'
 date: 2011-05-08
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /communications-road-update/
 image:  /img/P1080521.jpg

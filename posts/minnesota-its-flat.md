@@ -3,7 +3,7 @@ title: Minnesota -- It's Flat!
 date: 2011-10-17
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /minnesota-its-flat/
 image:  /img/MinnesotaFlat.jpg

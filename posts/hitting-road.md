@@ -3,7 +3,7 @@ title: Hitting the Road
 date: 2011-04-17
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 permalink: /hitting-road/
 image:  "/img/LongTimeScreenCap.jpg"
 tags:

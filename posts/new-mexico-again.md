@@ -3,7 +3,7 @@ title: Welcome to New Mexico (again)
 date: 2011-05-08
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /new-mexico-again/
 image:  /img/P1090235-Version-2.jpg

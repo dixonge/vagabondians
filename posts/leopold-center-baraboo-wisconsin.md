@@ -3,7 +3,7 @@ title: 'The Leopold Center -- Baraboo, Wisconsin'
 date: 2011-12-06
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /leopold-center-baraboo-wisconsin/
 image:  /img/leopold.jpg

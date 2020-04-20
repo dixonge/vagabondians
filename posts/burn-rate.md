@@ -3,10 +3,9 @@ title: Burn Rate
 date: 2013-08-20
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /burn-rate/
-image:  /img/burn-rate.png
 dsq_thread_id:
   - 3381050187
 categories:
@@ -15,11 +14,10 @@ tags:
   - Central America
   - Costa Rica
 ---
+{% picture "burn-rate.png", "" %}
 Planning and goal-setting have never been our strong suits. The fact that we were able to get out of debt, sell all our stuff, get out of our house and save up a lot of money is almost miraculous given our track record. So I'm going to cut myself some slack when it comes to timing. The fact is that when we quit our jobs we didn't have an income in place to pay for our travels. Up until very recently approximately 99% of our travel expenses have come out of our savings. It was a plan, but perhaps not the best plan. If we were a start-up business, or a rocket, you would say that our burn rate was unsustainable.
 
 The alternative would have been to wait until either our savings were greater, or an income was in fact in place. But we had inertia, and bravado, and our jobs began to absolutely drive us crazy! So our 'Plan B' was never firm, but it was enough for us. We always knew that if our passive/freelance income ideas never materialized we could do something a little more traditional. Teaching English, managing a guesthouse, working on a cruise ship -- all these ideas were in the back of our minds as options, and all of them would be better than going back to the States and getting a 'real' J-O-B. We also knew that at some point we might become uncomfortable with how low our savings balance became. Did we really want to slide into our pension years with $0.00 left in the bank? Doubtful.
-
-{% picture "burn-rate.png", "" %}
 
 Well, that day of discomfort has come. We have officially become uneasy about our bank account balance.  The chart above is from a spreadsheet we update to keep track of where we are. The red line is a worst-case scenario. It doesn't go to zero, but it is tracking our cash plus some other non-liquid assets. If we stay on that path, we'd actually get to our official 'retirement' date with almost nothing left. And as you can see by the green line, we're not on target. At this point our projection would be to crash and burn well before our target date.
 

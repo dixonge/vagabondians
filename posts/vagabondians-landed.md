@@ -3,7 +3,7 @@ title: The Vagabondians Have Landed
 date: 2014-11-22
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /vagabondians-landed/
 categories:
@@ -13,8 +13,8 @@ tags:
   - Texas
 latitude: 20.3001977
 longitude: -103.2619347
-image: /img/garden-view.jpg
 ---
+{% picture "garden-view.jpg", "" %}
 
 After downsizing in San Cristobal de las Casas, Chiapas, Mexico, packing up our necessities for storage at our friend Tere's house in Chapala while we spent three months back home in Texas, we have come back to roost in a village beside the biggest lake in Mexico, Lake Chapala. We have a quaint little apartment with beautiful views of the calm lake and surrounding mountains. Bryn's wishes for a rooftop and a garden were granted by the Househunting Fairy Godmother, so all is well. We even have pretty darn good birdwatching from our windows.
 

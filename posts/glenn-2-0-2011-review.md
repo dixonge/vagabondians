@@ -3,7 +3,7 @@ title: 'Glenn 2.0 -- 2011 in Review'
 date: 2012-01-09
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /glenn-2-0-2011-review/
 image:  /img/Glenn2.0.jpg

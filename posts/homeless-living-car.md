@@ -3,7 +3,7 @@ title: We Are Homeless and Living in our Car
 date: 2011-04-01
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /homeless-living-car/
 image:  /img/P1080519.jpg

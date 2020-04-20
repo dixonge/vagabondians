@@ -3,7 +3,7 @@ title: Well We're Leavin' on a Jet Plane…
 date: 2012-02-19
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /leavin-jet-plane/
 image:  /img/jetplane.jpg

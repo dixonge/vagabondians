@@ -3,7 +3,7 @@ title: Wisconsin and the Dells
 date: 2011-11-07
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /wisconsin-dells/
 image:  /img/Wisconsin.jpg

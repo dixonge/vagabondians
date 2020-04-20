@@ -3,7 +3,7 @@ title: Us vs. Mother Nature
 date: 2011-05-02
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /vs-mother-nature/
 image:  /img/P1090122.jpg

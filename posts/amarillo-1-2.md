@@ -3,10 +3,9 @@ title: 'Amarillo -- May 1 and 2'
 date: 2011-06-10
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /amarillo-1-2/
-image:  /img/Guppy.jpg
 categories:
   - Six Months
 tags:
@@ -14,6 +13,8 @@ tags:
   - Six Months
   - Texas
 ---
+{% picture "Guppy.jpg", "" %}
+
 After escaping the rain in Lawton and the scary lady with a hammer, we stopped for a couple of days of work in Amarillo at the La Quinta East. I wrote stuff, Bryn wrote stuff.
 
 While we were there someone posted a picture of a ridiculous looking plane that was supposedly at the Amarillo Airport. Steve Miller said it should still be there, so we took a break to go see it. And there it was! Twice as tall as Southwest Airlines' 737's. Very odd looking. No wonder they call it the Flying Guppy.

@@ -3,7 +3,7 @@ title: 'Almost Canada -- Wyoming to Minnesota'
 date: 2011-10-13
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /canada-wyoming-minnesota/
 image:  /img/WY2MN.jpg

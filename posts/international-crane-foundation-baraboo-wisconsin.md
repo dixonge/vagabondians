@@ -3,7 +3,7 @@ title: 'The International Crane Foundation -- Baraboo, Wisconsin'
 date: 2012-01-11
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /international-crane-foundation-baraboo-wisconsin/
 image:  /img/cranes.jpg

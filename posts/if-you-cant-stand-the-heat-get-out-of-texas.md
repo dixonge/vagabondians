@@ -3,7 +3,7 @@ title: If You Can't Stand The Heat, Get Out of Texas
 date: 2013-06-27
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /if-you-cant-stand-the-heat-get-out-of-texas/
 image:  /img/texas-heat.jpg

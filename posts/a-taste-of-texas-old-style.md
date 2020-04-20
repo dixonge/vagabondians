@@ -3,16 +3,16 @@ title: A Taste of Texas old style
 date: 2013-03-28
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /a-taste-of-texas-old-style/
-image:  /img/DFW.jpg
 categories:
   - News
 tags:
   - USA
   - Texas
 ---
+{% picture "DFW.jpg", "" %}
 
 We won't be back in Texas for very long, but one thing we want to do a bit differently this visit is to see some sights, things we haven't seen before, in spite of living here for most of our lives. In other words,we're going to visit Texas like a tourist!
 

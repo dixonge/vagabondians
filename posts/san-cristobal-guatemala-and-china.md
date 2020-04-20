@@ -3,7 +3,7 @@ title: San Cristobal, Guatemala and … China?
 date: 2012-08-28
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /san-cristobal-guatemala-and-china/
 image:  /img/shenzhen-night.jpg

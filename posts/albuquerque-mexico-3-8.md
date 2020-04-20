@@ -3,10 +3,9 @@ title: Albuquerque, New Mexico -- May 3-8
 date: 2011-06-10
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /albuquerque-mexico-3-8/
-image:  /img/RoxiNewMexico.jpg
 categories:
   - Six Months
 tags:
@@ -14,6 +13,8 @@ tags:
   - Six Months
   - New Mexico
 ---
+{% picture "RoxiNewMexico.jpg", "" %}
+
 Tuesday we packed it all up and headed west. We somehow completely missed Cadillac Ranch! Oh well, at least we've been there before...
 
 We briefly celebrated our passage across the New Mexico border and then continued west. The view from the road is mostly desert out here. If it wasn't for the signs at the border, you'd never know the difference between the Texas panhandle and eastern New Mexico. We stopped briefly for gas at a small mom-and-pop station, and we also took a few pictures at Santa Rosa. Original Route 66 architecture and signage is rare, but they have a few places in every town. I enjoy trying to spot the old stuff.

@@ -3,7 +3,7 @@ title: The Legend of Johnny Vagabond
 date: 2014-11-27
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /legend-johnny-vagabond/
 aliases: [/legend-johnny-vagabond/]
@@ -15,9 +15,10 @@ tags:
   - Mexico
   - Chiapas
   - San Cristobal de las Casas
-image: /img/johnny-vagabond.jpg
 comments: true
 ---
+{% picture "johnny-vagabond.jpg", "" %}
+
 We first met [Wes Nations][1] our second night in San Cristóbal de las Casas, Chiapas, after [Jon Look][2] introduced us. We met at a wine bar, of course. Wes had a couple of years head-start on both Jon and ourselves, and had spent his first few years in Southeast Asia. This means he had more stories to tell, and he lived to tell stories. I'm pretty sure his stories were a big part of why Jon is now in Southeast Asia himself.
 
 Jon and Wes had just returned from a [crazy trip][3] to the [Pacific coast of Mexico][4] in the state of Chiapas. Between that trip and a [previous one][5], in which they had perused the market of a small, nearby town[ looking for rat soup][6], they had wonderful stories to tell. And by wonderful I don't mean stories of hanging out at the pool of a pricey resort. I mean 'real' stories. Stories that involve strange food, foreign languages, storms, getting lost, and maybe the occasional hallucination. Fear. Adventure. They had everything we wanted.

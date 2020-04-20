@@ -3,10 +3,9 @@ title: Bryce Canyon
 date: 2011-07-10
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /bryce-canyon/
-image:  /img/BryceCanyon.jpg
 dsq_thread_id:
   - 3519443750
 categories:
@@ -16,6 +15,7 @@ tags:
   - Six Months
   - Utah
 ---
+{% picture "BryceCanyon.jpg", "" %}
 When we finally left the North Rim area of the Grand Canyon, we drove off of the Kaibab Plateau and over to Utah. We stopped for the night in Hatch in a nice little campground. Good prices and the most amazing bathrooms of the trip so far!
 
 ![](https://live.staticflickr.com/65535/47856022112_fdabbb15d7_n.jpg)

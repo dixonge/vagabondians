@@ -3,7 +3,7 @@ title: 'Ninety Days In Mexico -- Travelers or Livers?'
 date: 2012-05-15
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /ninety-days-in-mexico-travelers-or-livers/
 image:  /img/liver.jpg

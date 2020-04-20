@@ -6,7 +6,6 @@ authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/img/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /acapulco/
-image:  /img/acapulco.jpg
 categories:
   - Mexico
 tags:
@@ -14,6 +13,8 @@ tags:
   - Guerrero
   - Acapulco
 ---
+{% picture "acapulco.jpg", "" %}
+
 Acapulco has always held an allure for me.  My parents honeymooned there in the early '50s.  I had an image of the place, expectations.
 
 Those expectations have been dashed a bit, but it was still quite a place.  Acapulco Bay is just gorgeous.  Beautiful calm waters, boats moored, nice sunsets and sunrises.  We stayed in the old part of town, preferring to experience the real thing instead of opting for the big new hotels and resorts frequented by the new jet set with lots of money.  Our hotel was reasonably nice and cheap and across the street from the bay -- and a surprise on the other side of the hotel entranceway.

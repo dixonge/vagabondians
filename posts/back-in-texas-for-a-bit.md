@@ -3,16 +3,16 @@ title: Back in Texas for a Bit
 date: 2013-03-27
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /back-in-texas-for-a-bit/
-image:  /img/back-in-texas.jpg
 categories:
   - News
 tags:
   - USA
   - Texas
 ---
+{% picture "back-in-texas.jpg", "" %}
 So after we left Belize we flew back to Texas. We are here visiting friends and family for a bit, and trying to finish up some projects.
 
 Bryn is doing a lot of homework in preparation for her TEFL certificate so that she can teach English somewhere. She is thinking that it will be nice to have a reason to get out of the casa, meet new people and make a little money at the same time.

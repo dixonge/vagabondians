@@ -3,7 +3,7 @@ title: Dia de los Muertos Computador
 date: 2012-11-10
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /dia-de-los-muertos-computador/
 image:  /img/teaser-mexico.jpg

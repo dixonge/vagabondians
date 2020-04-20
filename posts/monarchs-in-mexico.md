@@ -4,15 +4,15 @@ date: 2019-05-11
 permalink: /monarchs-in-mexico/
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
-authorAvatar: "/img/avatar.jpg"
+authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/Vagabondians/avatar-small.png"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-image: /img/monarchs.jpg
 categories: 
 - mexico
 tags: 
 - monarchs
 - michoacan
 ---
+{% picture "monarchs.jpg", "" %}
 
 In late February we traveled by bus with our friend Martha to the states of Michoacan and Mexico (formerly the federal district) to see the Mexican winter home of the Monarch butterfly. We stayed one night in Morelia, a large city  with a nice colonial downtown area. The AirBnB was in a noisy kinda dirty part of town, but was basically functional enough for one night.
 
