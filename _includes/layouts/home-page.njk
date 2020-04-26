@@ -1,0 +1,30 @@
+---
+layout: layouts/base.njk
+---
+
+{% include "layouts/menu.njk" %}
+
+<div id="right" class="flex flex-col w-full ml-1">
+    {% if tags %}
+  <div id="breadcrumb">
+  <nav class="float-left breadcrumb" aria-labelledby="breadcrumb">
+    <h2 class="sr-only" id="breadcrumb">Breadcrumbs: </h2>
+    <ul class="flex pl-0 list-none">
+    {% for tag in tags %}
+    <li class=""><a href="/tags/{{ tag }}" class="inline-block ml-6"  >  {{ tag }} </a> ></li>
+    {% endfor %}
+    </ul>
+  </nav>
+  </div>
+    {% endif %}
+  <div id="article" class="w-11/12 lg:w-10/12">
+
+    <h1>{{ title }}</h1>
+
+    {{ content | safe }}
+
+    <p><a href="{{ '/' | url }}">← Home</a></p>
+
+  </div>
+
+</div>

@@ -1,6 +1,6 @@
 ---
 title: Welcome
-layout: layouts/home.njk
+layout: layouts/home-page.njk
 ---
 Shortly after Glenn's 50th birthday, he and his wife, Bryn, quit their jobs and went traveling. They spent the first year seeing the amazing sights and sounds of their home country.
 
