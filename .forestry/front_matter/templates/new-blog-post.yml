@@ -5,9 +5,12 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: boolean
   name: draft
   label: draft
+  default: true
 - type: datetime
   name: date
   label: date
