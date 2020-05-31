@@ -7,17 +7,15 @@ sections:
 - type: document
   path: ''
   label: Home page
-  match: "**/*"
-  read_only: false
 - type: directory
   path: posts
   label: Posts
   create: documents
   match: "**/*"
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: Vagabondians
+public_path: https://res.cloudinary.com/donblanco/image/upload/v1587408001/Vagabondians
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   install_dependencies_command: npm install
