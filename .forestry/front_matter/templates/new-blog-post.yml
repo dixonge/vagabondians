@@ -1,0 +1,34 @@
+---
+label: New Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+- type: boolean
+  name: draft
+  label: draft
+  default: true
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: author
+  label: author
+- type: file
+  name: authorAvatar
+  label: authorAvatar
+- type: text
+  name: permalink
+  label: permalink
+- type: file
+  name: image
+  label: image
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags

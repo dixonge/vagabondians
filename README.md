@@ -1,4 +1,4 @@
-# Vagabondians-11ty
+# Vagabondians
 
 The new(!), improved(!) [Eleventy](http://11ty.dev) version of Vagabondians
 
