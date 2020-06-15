@@ -4,7 +4,7 @@ layout: layouts/home-page.njk
 ---
 Shortly after Glenn's 50th birthday, he and his wife, Bryn, quit their jobs and went traveling. They spent the first year seeing the amazing sights and sounds of their home country.
 
-[Six Months in a Popup](/tags/six_months/)
+[Six Months in a Popup](/tags/popup/)
 
 In 2012 they lived in and traveled throughout [Mexico](/tags/mexico/), from [Lake Chapala](/tags/chapala/) in the west to [San Cristobal de las Casas](/tags/sancristobal/) in the east, as well as [Guatemala](/tags/guatemala/).
 
