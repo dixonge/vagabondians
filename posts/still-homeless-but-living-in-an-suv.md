@@ -10,10 +10,10 @@ image:  /img/IMG_0366.jpg
 dsq_thread_id:
   - 3074254247
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
-  - Six Months 
+  - Popup 
   - Texas
 ---
 Recently we wrote about [escaping the system][1] and some of the difficulties we've faced.  One obstacle that we faced was simply time itself.  Late last year we began fine-tuning our strategy and a target time-frame for quitting our jobs.  Eventually we settled on late March.  We drew up a timeline and marked off all of the things we needed to do by that date.  Initially this included purchasing and moving into a travel trailer.  We eventually decided against that, which had both positive and negative results.

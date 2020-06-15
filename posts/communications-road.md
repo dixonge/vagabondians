@@ -8,7 +8,7 @@ authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/V
 permalink: /communications-road/
 image:  /img/SANY0001.jpg
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
   - Texas

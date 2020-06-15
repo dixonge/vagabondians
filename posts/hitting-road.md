@@ -9,7 +9,7 @@ image:  "/img/LongTimeScreenCap.jpg"
 tags:
   - USA
   - Texas
-  - Six Months
+  - Popup
 categories:
   - News
 ---

@@ -11,7 +11,7 @@ categories:
   - News
 tags:
   - USA
-  - Six Months
+  - Popup
 ---
 Up until a few years ago my opinion of WalMart probably aligned with the majority here in the United States.  Sam Walton had built a better mousetrap, and the prices were good so why should anyone complain?  They provide good benefits for entry-level people and buy things from people all over the world.  Sounded like a win-win.  Lately, however, I began to develop a bit of a social conscience and paid more attention to some of the negatives.
 

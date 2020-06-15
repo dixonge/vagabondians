@@ -8,10 +8,10 @@ authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/V
 permalink: /learning-chill/
 image:  /img/UseExtremeCaution.jpg
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
-  - Six Months
+  - Popup
   - New Mexico
 ---
 I normally think of myself as a fairly laid back person, moreso than most.  And yet even I have my moments where I get frustrated.  It isn't pretty.  Today was one of those days.

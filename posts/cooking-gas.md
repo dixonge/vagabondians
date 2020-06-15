@@ -8,10 +8,10 @@ authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/V
 permalink: /cooking-gas/
 image:  /img/valve1.jpg
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
-  - Six Months
+  - Popup
   - Arizona
 ---
 Just thought I would give an update on our gas situation.

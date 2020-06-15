@@ -8,11 +8,11 @@ authorAvatar: "/img/bryn.jpg"
 permalink: /tales-tiki-bar-2/
 image:  /img/P1090389-Version-2.jpg
 categories:
-  - Six Months
+  - Popup
   - Tales From the Tiki Bar
 tags:
   - USA
-  - Six Months
+  - Popup
   - New Mexico
 ---
 This one’s for the girls.  Get your umbrella drink and come on over here; it’s kinda personal.

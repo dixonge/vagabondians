@@ -10,7 +10,7 @@ image:  /img/fireworks.jpeg
 tags:
   - USA
   - Texas
-  - Six Months
+  - Popup
   - Tales-From-the-Tiki-Bar
 ---
 I read this from a Facebook friend:

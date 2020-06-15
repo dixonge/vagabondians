@@ -8,10 +8,10 @@ authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/V
 permalink: /winslow-arizona-june-8/
 image:  /img/WinslowHeader.jpg
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
-  - Six Months
+  - Popup
   - Arizona
 ---
 Woke up in Holbrook and packed up and folded down. We're getting pretty good at this! It takes us 15-30 minutes to pack up clothes and misc. items and transfer them to the Montero, then a good 30 minutes to zip, fold, flip, slide, disconnect, stow and crank down the top on the popup. Learned a little lesson about water pressure today, too. See, up until now we turn off the water faucet, disconnect the hose, and all the excess water pressure in the system bleeds out of the hose end. BUT &#8212; we had to get smart and add a quick-connect thingamabob to the side of the trailer. And one thing about quick-connects is that, well, when you DISconnect one side of this connection, the other side seals off. So when we did this today, the trailer water was still under pressure.

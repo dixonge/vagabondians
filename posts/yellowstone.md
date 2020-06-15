@@ -10,11 +10,11 @@ image:  /img/yellowstone.jpg
 dsq_thread_id:
   - 3099321949
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
   - Wyoming
-  - Six Months
+  - Popup
 ---
 We Arrive
 

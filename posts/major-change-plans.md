@@ -10,7 +10,7 @@ image:  /img/camping.jpg
 tags:
   - USA
   - Texas
-  - Six Months
+  - Popup
 ---
 > "Nothing endures but change" -- Heraclitus (535-475 BC)
 

@@ -8,12 +8,12 @@ authorAvatar: "/img/bryn.jpg"
 permalink: /hoodoo-are/
 image:  /img/brycehoodoo.jpg
 categories:
-  - Six Months
+  - Popup
   - Tales From the Tiki Bar
 tags:
   - USA
   - Utah
-  - Six Months
+  - Popup
 ---
 Pictures of Bryce Canyon evoke wonder, but taking in the view from Inspiration Point for the first time in person takes your breath away.  An open-mouthed "Whohhhhhhhhhh" is about all I could muster from my overwhelmed senses.  The heady aroma of warm Ponderosa pine in the late afternoon mountain sun tipped my brain right over the precipice down into the hoodoos. The trail through the canyon beckoned that I should just run right down there and lose myself in their mysterious fairytale world, never to return.
 

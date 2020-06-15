@@ -10,11 +10,11 @@ image:  /img/P1080954-e1307549467362.jpg
 dsq_thread_id:
   - 3131880057
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
   - Oklahoma
-  - Six Months
+  - Popup
 ---
 In my previous post I mentioned catching up -- well here goes!
 

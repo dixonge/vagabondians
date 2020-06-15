@@ -8,11 +8,11 @@ authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/V
 permalink: /wisconsin-dells/
 image:  /img/Wisconsin.jpg
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
   - Wisconsin
-  - Six Months
+  - Popup
 ---
 Wisconsin had some very interesting things to see, like highway signs, and upside-down buildings...
 

@@ -11,7 +11,7 @@ categories:
   - News
 tags:
   - USA
-  - Six Months 
+  - Popup 
   - Texas
 ---
 Early in 2010 I looked ahead to my 50th birthday and tried to come up with something appropriate for the end of my first half-century of life. That's a pretty big milestone, and I wanted to celebrate in a big way. At one point I wanted to go to a big music festival somewhere in South America, but was unable to line one up with my birthday. And by the time we finally decided on the day we would quit our jobs, I was unwilling to spend the money for the flights. So we kept things low-key and celebrated with a meal at a Hibachi Grill restaurant, and an evening at Wine2 with Klara from Belgium.

@@ -8,11 +8,11 @@ authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/V
 permalink: /washington-montana/
 image:  /img/WashMont.jpg
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
   - Washington
-  - Six Months
+  - Popup
   - Idaho
   - Montana
 ---

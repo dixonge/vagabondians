@@ -8,10 +8,10 @@ authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/V
 permalink: /communications-road-update/
 image:  /img/P1080521.jpg
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
-  - Six Months
+  - Popup
   - New Mexico
 ---
 Since my last post on communicating on the road, we have had a major change in plans.  Yeah, stop me if you've heard this one before. LOL  A car (or now, our SUV) won't carry a satellite dish very well (especially since it will be packed to the roof with camping gear) so we are being forced to change our plans for internet on the road.

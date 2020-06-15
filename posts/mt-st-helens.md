@@ -10,11 +10,11 @@ image:  /img/mtsthelens.jpg
 dsq_thread_id:
   - 3114726120
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
   - Washington
-  - Six Months
+  - Popup
   - mount-st-helens
 ---
 Mount St. Helens was not on my original list of things to do or see in Washington. But as things turned out, it was a good stopping point on the way to Seattle. So hey, why not, right? I mean, it's a huge frickin' volcano! So we parked for a couple of nights at the <a href="https://www.silvercovervresort.com/" target="_blank">Silver Cove RV Resort</a> and took a day trip in to the Mount St. Helens National Volcanic Monument.

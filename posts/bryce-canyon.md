@@ -9,10 +9,10 @@ permalink: /bryce-canyon/
 dsq_thread_id:
   - 3519443750
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
-  - Six Months
+  - Popup
   - Utah
 ---
 {% picture "BryceCanyon.jpg", "" %}

@@ -10,10 +10,10 @@ image:  /img/horsies.jpg
 dsq_thread_id:
   - 3671343100
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
-  - Six Months
+  - Popup
   - Arizona
 ---
 What? You've never heard of the famous Williams, Arizona?

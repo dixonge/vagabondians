@@ -8,11 +8,11 @@ authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/V
 permalink: /special-whale/
 image:  /img/whale.jpg
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
   - California
-  - Six Months
+  - Popup
 ---
 On August the 2nd, after bidding a fond farewell to the <a href="https://ancientredwoods.net/" target="_blank">Ancient Redwoods RV Park</a>, we headed north along the coast to our next destination. We had reservations at the Golden Bear RV Park near Klamath, California. We were also hoping to see a whale which had been hanging out in the Klamath River!
 

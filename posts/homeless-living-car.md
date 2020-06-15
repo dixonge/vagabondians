@@ -10,7 +10,7 @@ image:  /img/P1080519.jpg
 tags:
   - USA
   - Texas
-  - Six Months
+  - Popup
 ---
 It's official, we are homeless, and living in our car!
 

@@ -10,11 +10,11 @@ image:  /img/trees.jpg
 dsq_thread_id:
   - 3071345342
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
   - California
-  - Six Months
+  - Popup
   - coastal-redwoods
   - grove-of-titans
   - jedediah-smith-redwoods-state-park

@@ -8,11 +8,11 @@ authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/V
 permalink: /canada-wyoming-minnesota/
 image:  /img/WY2MN.jpg
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
   - Wyoming
-  - Six Months
+  - Popup
   - North Dakota
   - Minnesota
 ---

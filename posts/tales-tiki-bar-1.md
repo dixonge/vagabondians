@@ -8,12 +8,12 @@ authorAvatar: "/img/bryn.jpg"
 permalink: /tales-tiki-bar-1/
 image:  /img/P1080954.jpg
 categories:
-  - Six Months
+  - Popup
   - Tales From the Tiki Bar
 tags:
   - USA
   - Oklahoma
-  - Six Months
+  - Popup
 ---
 Cheers, friends! Everyone got your umbrella drink? Excellent!
 

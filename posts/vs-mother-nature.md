@@ -8,10 +8,10 @@ authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/V
 permalink: /vs-mother-nature/
 image:  /img/P1090122.jpg
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
-  - Six Months 
+  - Popup 
   - Texas
 ---
 > But Mousie, thou art no thy lane,  

@@ -9,11 +9,11 @@ permalink: /bigger-tent-wheels/
 dsq_thread_id:
   - 3118056058
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
   - New Mexico
-  - Six Months
+  - Popup
 ---
 {% picture "Trailer.jpg", "" %}
 There is a saying in the RV world, especially true for those who intend to travel full-time:

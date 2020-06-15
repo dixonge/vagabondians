@@ -7,10 +7,10 @@ authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/V
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /albuquerque-mexico-3-8/
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
-  - Six Months
+  - Popup
   - New Mexico
 ---
 {% picture "RoxiNewMexico.jpg", "" %}

@@ -8,10 +8,10 @@ authorAvatar: "/img/bryn.jpg"
 permalink: /tales-tiki-bar-tinkertown/
 image:  /img/Tinkertown2.jpg
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
-  - Six Months
+  - Popup
   - New Mexico
 ---
 Wow.  If you come to Albuquerque, one thing not to be missed is Ross and Carla Ward's Tinkertown Museum.  Fabulous collection of the whimsical and historical along with Ross' skillfully and lovingly carved Old West figures in their tiny town dioramas.  My favorite part was the full miniature circus, complete with authentic carney banners -- authentic because the artist himself was a real circus banner painter -- and original photos from the old circus and carney days.  There's a collection of old coin-operated mechanical arcade machines, a fortune teller, try-your-luck, one-man band and other wonders of days gone by.  It's like the ghost of Coney Island pre-'50s!  And this is the highest port in the country since the Theodora R is at her final dock there after sailing around the world on a great adventure.  I could happily spend days there and never really see everything.  Here is a[ link to a fellow traveler's blog][1] who describes this place in word and picture far better than I ever could:

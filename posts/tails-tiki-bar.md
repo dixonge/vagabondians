@@ -8,10 +8,10 @@ authorAvatar: "/img/bryn.jpg"
 permalink: /tails-tiki-bar/
 image:  /img/Wolf1.jpg
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
-  - Six Months
+  - Popup
   - New Mexico
 ---
 [written 5/25/2011]

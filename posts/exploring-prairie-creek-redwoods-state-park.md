@@ -10,11 +10,11 @@ image:  /img/prcreek.jpg
 dsq_thread_id:
   - 3088553951
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
   - California
-  - Six Months
+  - Popup
 ---
 After our own big 'day of discovery' with the Grove of Titans, the next day we moved on to Prairie Creek Redwoods State Park, home of some of the tallest Coast Redwoods. My hopes were not very high as the location of this grove is even more secret than the Grove of Titans. In addition, it is relatively easy to spot the huge misshapen behemoths that are the Titans when they are so much larger at ground level. In comparison, one of the tallest trees in the Atlas Grove is barely nine feet in circumference! Without our own expensive laser range finder or LIDAR unit it would be next to impossible to find this grove.
 

@@ -11,7 +11,7 @@ categories:
   - News
 tags:
   - USA
-  - Six Months
+  - Popup
 ---
 {% picture "crazylady.jpeg", "" %}
 

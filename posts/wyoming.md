@@ -8,11 +8,11 @@ authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/V
 permalink: /wyoming/
 image:  /img/Wyoming.jpg
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
   - Wyoming
-  - Six Months
+  - Popup
 ---
 On the last day of August we packed up, cranked down the camper, hitched 'er up and took off for our final trip through Yellowstone. Our route took us almost directly through the middle of the park and out the east gate. We proceeded east all the way to Cody, Wyoming, about 130 miles away. We got into town and set up camp and then Bryn contacted Deb, a classmate from high school!
 

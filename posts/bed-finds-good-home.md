@@ -12,7 +12,7 @@ categories:
   - News
 tags:
   - USA
-  - Six Months
+  - Popup
 ---
 {% picture "oldbed.jpg", "" %}
 We have been sleeping on a Select Comfort air mattress for ten years now.  Bryn kept her side fairly firm, I kept mine about as soft as a hammock.  And when our plans included long-term RV travel we fully intended to keep that bed.  But once we changed plans to simple car-camping the bed had to go.

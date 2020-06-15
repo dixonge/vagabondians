@@ -8,10 +8,10 @@ authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/V
 permalink: /texas-rfd/
 image:  /img/texas.jpg
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
-  - Six Months 
+  - Popup 
   - Texas
 ---
 Sorry, I just really, REALLY love that old Louis Prima song. 

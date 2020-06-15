@@ -8,10 +8,10 @@ authorAvatar: "https://res.cloudinary.com/donblanco/image/upload/f_auto,q_auto/V
 permalink: /new-mexico-again/
 image:  /img/P1090235-Version-2.jpg
 categories:
-  - Six Months
+  - Popup
 tags:
   - USA
-  - Six Months
+  - Popup
   - New Mexico
 ---
 As we planned our trip out and selected places to stop and visit, New Mexico received several pins on the map.  Most were in the southern or western parts of the state, but I think both of us regarded New Mexico as the true start of our trip, new territory to be explored.  And then we began talking about places we had been before, and as it turns out we're not exactly strangers to the land of enchantment!
