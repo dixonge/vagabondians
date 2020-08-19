@@ -12,11 +12,11 @@ In 2013 they visited [Belize](/tags/belize/), [Nicaragua](/tags/nicaragua/), [Co
 
 Two years later they moved to [Zacatecas](/tags/zacatecas/). There they enjoyed the high desert, low rent, and getting more practice in Spanish as some of the very few gringos in town.
 
-After the initial coronavirus lockdowns began to lift, they drove to Reynosa and walked back across the border into McAllen, Texas. Soon they will be living in an RV, seeking safety from extreme temperatures and viruses while being surrounded by trees and wildlife.
+After the initial coronavirus lockdowns began to lift, they drove to Reynosa and walked back across the border into McAllen, Texas. They now live in an RV, seeking safety from extreme temperatures and viruses while being surrounded by trees and wildlife.
 
 As of 2020 they have visited:
 
-- Seven countries, by land, sea and air
+- <a title="Canada, USA, Mexico, Belize, Guatemala, Nicaragua, Costa Rica">Seven countries</a>, by land, sea and air
 - Forty-three states in the U.S.
 - Eighteen states in Mexico
 - Twenty-plus airports, from Fairbanks, AK to Newark, NJ to San Jose, Costa Rica
