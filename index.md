@@ -16,7 +16,7 @@ After the initial coronavirus lockdowns began to lift, they drove to Reynosa and
 
 As of 2020 they have visited:
 
-- <a title="Canada, USA, Mexico, Belize, Guatemala, Nicaragua, Costa Rica">Seven countries</a>, by land, sea and air
+- <a title="Canada, USA, Mexico, Belize, Guatemala, Nicaragua, Costa Rica" href="#">Seven countries</a>, by land, sea and air
 - Forty-three states in the U.S.
 - Eighteen states in Mexico
 - Twenty-plus airports, from Fairbanks, AK to Newark, NJ to San Jose, Costa Rica
