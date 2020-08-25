@@ -228,3 +228,7 @@ nav#menu ul {
   td {
     border: 2px solid #000;
   }
+
+  #foreground img {
+    max-width: 50px;
+  }
