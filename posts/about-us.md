@@ -4,7 +4,8 @@ date: "2010-03-01"
 permalink: /about-us/
 layout: layouts/home.njk
 ---
-{% picture "25years.jpg", "" %}
+
+{% picture "25years.jpg", "Me and Bryn on our 25th Anniversary" %}
 
 Hello!  We're Glenn and Bryn, and we are Vagabondians.  (Yes, I made that word up) A few years ago we looked forward to the second half of our lives and we decided that we didn't want to go the traditional route.  So we took the next exit and began exploring the back roads.  We began leaving things behind (literally) at every stop.  First we jettisoned our debt, then most of our belongings, then our house, then our jobs!  Here's the how and why...
 
@@ -12,7 +13,7 @@ Hello!  We're Glenn and Bryn, and we are Vagabondians.  (Yes, I made that word
 
 Bryn and I used to be stuck in this strange limbo in-between traditional and true early retirement concepts. We were in traditional career paths, but we were always on the lookout for ideas to generate 'extra' income and ended up wasting many days and dollars on MLM's and other various schemes designed to separate us from our hard-earned money. We were looking for a way to become independent, but our focus was in the wrong place. All we could see was 'easy' money and less work. Unfortunately that only works if you win the lottery. To be fair, we did put in our share of hard work, but usually in a misdirected way. We were too quick to give up our responsibility (and money) to others. We never had our own business plan, always relying on someone else's. And on occasion we managed to generate large amounts of profit, but it never lasted.
 
-Looking back there were many failures but also many lessons. The trick is to learn from them! By 2004 we had all but given up on any entreprenurial plans and resigned to working our 8-5 jobs until we vested in and were able to collect from our employer's retirement plan. We moved from our 1100 square foot home with a very small mortgage to a brand new home much closer to work. It was 2000 square feet and had a mortgage to match. We moved in over the Fourth of July weekend in 2005. As far as we were concerned, it was our last house, the place where we would eventually live out our retirement days.
+Looking back there were many failures but also many lessons. The trick is to learn from them! By 2004 we had all but given up on any entrepreneurial plans and resigned to working our 8-5 jobs until we vested in and were able to collect from our employer's retirement plan. We moved from our 1100 square foot home with a very small mortgage to a brand new home much closer to work. It was 2000 square feet and had a mortgage to match. We moved in over the Fourth of July weekend in 2005. As far as we were concerned, it was our last house, the place where we would eventually live out our retirement days.
 
 > ### *Little did we know, but within one year we would change our minds about all of that.*
 
