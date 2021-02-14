@@ -33,7 +33,7 @@ Before I got photos of the plane, we discovered what appeared to be an old aband
 
 ![Rabbits everywhere!](https://live.staticflickr.com/3389/5692527270_695d2b6965_b.jpg)
 ![Swallow swarm](https://live.staticflickr.com/3327/5691960171_e5d10bc320_b.jpg)
-Aldo Leopold
+
 After we got back to the hotel I Googled it and discovered that English Field was the commercial airport back in the day, and that the runways now being used by Amarillo International used to be part of an Army Air Field started up back in World War II. Since then thousands of jet crew and mechanics were trained there, the B-17 Flying Fortress flew out of there, and it also used to be a SAC base and boot camp. All the military stuff is long gone, but the runways make it ideal for things like space shuttles and flying guppies.
 
 ![Abandoned terminal](https://live.staticflickr.com/2023/5692524184_312d25a333_b.jpg)
