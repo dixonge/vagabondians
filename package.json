@@ -19,7 +19,7 @@
     "markdown-it": "^10.0.0",
     "markdown-it-attrs": "^3.0.3",
     "markdown-it-implicit-figures": "^0.10.0",
-    "postcss": "^7.0.32",
+    "postcss": "^8.2.10",
     "postcss-import": "^12.0.1",
     "purgecss": "^2.3.0",
     "sanitize-html": "^1.27.3",
